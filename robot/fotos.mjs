@@ -14,7 +14,7 @@ const SECCIONES = {
   programas:{ q: ['school meal children', 'school lunch', 'food bank volunteers', 'food distribution'], si: /school|lunch|meal|food bank|distribution|volunteer|comedor/i },
   mundo:    { q: ['World Food Programme distribution', 'FAO agriculture', 'food aid', 'smallholder farmers Africa'], si: /wfp|food programme|fao|food aid|smallholder|farmer|distribution/i }
 };
-const NO = /elevation|front\b|edificio|building|facade|fachada|exterior|\b1[89]\d\d\b|google art|israëls|painting|francia m|secretary|minister|president|administrator|ambassador|senator|governor|explosion|protest|strike|riot|police|war\b|cctv|military|army|cheese|refugee|logo|map\b|mapa|chart|diagram|stamp|coin|svg|drawing|painting|poster|book|text|screenshot|portrait|selfie|museum|statue|church|meat|carne|butcher|slaughter|dead|blood|alcohol|beer|wine|cigar|toy|doll|cartoon|illustration|icon/i;
+const NO = /astronaut|space station|nasa|publications|elevation|front\b|edificio|building|facade|fachada|exterior|\b1[89]\d\d\b|google art|israëls|painting|francia m|secretary|minister|president|administrator|ambassador|senator|governor|explosion|protest|strike|riot|police|war\b|cctv|military|army|cheese|refugee|logo|map\b|mapa|chart|diagram|stamp|coin|svg|drawing|painting|poster|book|text|screenshot|portrait|selfie|museum|statue|church|meat|carne|butcher|slaughter|dead|blood|alcohol|beer|wine|cigar|toy|doll|cartoon|illustration|icon/i;
 
 async function buscar(q, tipo) {
   const url = 'https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40' +
