@@ -1,1 +1,1447 @@
-{"actualizado":null,"zona_horaria":"America/Bogota","total":0,"items":[]}
+{
+ "actualizado": "2026-11-26T00:54:54.133Z",
+ "zona_horaria": "America/Bogota",
+ "total": 180,
+ "items": [
+  {
+   "titulo": "De combatir el hambre a garantizar el voto: los líderes que trabajan por los derechos en Colombia",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNnZkWlU2NmZ0V3hSU1djV1JXTHRNUno5UzVIaVJWT3YyeTB6c2FrYlQtMDBMdTBxQWVBTGFxSnJadWQzcXdGRDUyazRzRE02RktuQ3pqRVgyWjZScUdmdzg3TDlKS3p2M241RWxUbl9vRk5mT0ZaVVZ3UWoxZExrd2dWdXRtVnN6ay0zbkxsX05YMXBhLVc1UkdnMWRCY1B2Zzc5V3NsUjBaLWpGNndsQTJlVlBqTS1TZGY1YWhsbC1qUUh6Zkpra3pqMNIB3wFBVV95cUxNMGVMZ1EyR3RxRERrRGRudG5yQ0NCU01lT0E1WkNFcFpLekxLVVNuUUIxdmpZZ3FOZlRXeVpTRDBWSXUwZ25RUEhHT1VESnhvNHh6d2o1TDlSRUlyZHpncTJ4Q0t2Y1pFNXNLOWNSSlVhSEFrOVdMSU1IcEVpNHZrU09hamt2NmRtWkNEazJOZ0dQQlJjU2tydm9hLW1Dc2d1RnRLYmoyRG5zVGMwenBmaU1nWmhOZFNrUzhfcW85VU9CcU0yYVpOODR5c0NwNUVVb1RIU1hLamhidUlINmVR?oc=5",
+   "fuente": "Caracol Radio",
+   "fecha": "2026-11-26T00:08:47.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Los bancos de alimentos de Texas llegan a Thanksgiving sin suficientes pavos por el aumento de la demanda",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWGJoMmNLUzBtTDJRWEJKdkY2dFVKdVpiM2lwMm01Nkl6dEZmbTRmVWpDRVdBd1JhMjBOVXBNQ3NUQ3EtbTdsSU4yV180SWNjZHUwdWR1N0xaUmxLcDk4SHpNQ0l4VTM3S2poNWZ2NDl0dHIyMDBhQWFtdXMzZmFIOFRzOTAtcURsRHRPR2Z4MVBsSnZwcE9kdmlnQVpOeHF6WHloOFNkWGwyY3JGV25JZTExZnJ1YWctVmtNc0gwSG9oNU56b2cwR0J1VXc4OXhQQ29IXy1RWmdiaEV6bEw3MDVPSXhoTkh0NC1yadIBhwJBVV95cUxOdkxkLTV1akhITkk4THcyRkpPQXpNUG5tTXhsdWtLcmxJZk1oRnZPbnhyTUR3Qm9IUVFQVVNDZm5CSjFlbUt0eURVXzZpSWJNMjdHUURCX1YxTUxUa0Uwd25LS014NW1Oa3NERklPRHlWS21Gd0s0UUZuaHVPMzBXNjNOdDF1QWUtOTU5alU0T19pMV9xUThPRWx3QjhZNkRrenRGS3hDWXRqcU5TZlI4WmV4MGpqMjRVbUhDT1ByeFlDWE5Dejg4RjBVY3UyR0hKUVRKQzZJWU4tMlFWNG9hR1JKc0thVktockdLeFZBaHRqcGRCTkwwb2NMQmV6c1VWc3FuVmhlSQ?oc=5",
+   "fuente": "Infobae",
+   "fecha": "2026-11-26T00:08:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "¿Comida fea, pero rica? El reto de MasterChef Celebrity para salvar 9,7 millones de toneladas de alimentos",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaWhZX3VmWkZ5X2JjT3luWTlhNnUzZzVBNDNFeV84OFBmb0xIdjdwZm42b3ZUVXcxSEowTmxidXA5WkNmdTVjSl9lZjhmZDM0aVJUMk1zS3JjZEZIZlc4aFo2OXFmWER4RGEwcDJHblBjWkF0bFYtdDZyc1ZINkoyQ1JjcHlJSkRic1ZUTVN0ZzJQUm43RVJ0SDUxTTBYT3BGVmdZcndKRzFENlM1VFRiQ1NIR29YRGxvb0NOR2xmSklVOTRKREZISnN3?oc=5",
+   "fuente": "El Colombiano",
+   "fecha": "2026-11-25T23:19:19.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Midis lanza PAE Conecta para incorporar a pequeños productores a la alimentación escolar",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaGpKdG1RRzl4dlE0bnNuVG9TalFuWVgzbXpjMHhEbnRTeE9acmVBVkZneTFPSFVHY2xFcHVQczVUWXdlWmdZN1RoVFBZUnNkLXY4cV9aVkdTQ2VqZ0lXYmFvQlhheEhMY0pPam4yRWFLcDdxeThJVGlHNlBhZElOaEhMX2lLV0dpLVdwUWhRYW00V09IOVJzMk9vYVdaX2lNcUdkNzVXRDJUVW9wS3k0RWNUbm5pUDhuTHpDMHJLVQ?oc=5",
+   "fuente": "tvperu.gob.pe",
+   "fecha": "2026-11-25T23:13:00.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Zona Longeva: el centro en Bogotá que busca transformar la salud a través de la alimentación",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUzM5TkdzNVIyTndxNllzd2M5emxYMnFRZTl2VlFsVGFVSVJBcmctZ2xJVnBicFFUUklUWWhobTlUdWZETnR4ZUdfMDF6S0l1Wi1FYktyUGNxYVZLVzFiQ2JZQ0Rfa0tqTEZlSmxMd05xam5mUjZrZU03cndiSmZGa2M1T3lYcjR0U0Y1XzhSMnc0QzRPcXg1ZXktTFgtM3pDdVZCTkJDUWlFOHlRQ0dXYjYwSVFiZzU0Y1pLYnhFR2kydVNLTl96YmVScEZmWUpaa1N3dtIB3AFBVV95cUxNeUx1OGZVSUczdjg4MFZoaGprenBmTTF0UVo1ZTA0WFczeXBBdTZlU0lKYWRPNTExWi16eTZhSUxROUtJXzJXeldDZzRiLWJtNV9MemJYdUVlUnZ6RnJDdFVKVmJDRWRCamFMNEp6S01VNjlfYldMMmJadVlxdUpuSHlwQzhFNGZGOTA3cHd0a2c3YVk5cnZrdlJQYnRteW1GOXBPZUZCSTdHd1NjbFFhdHpNTDd3RXFvaC1qaXB3d3EzaWVRX2dSaVJSWUdnM2h3U0RoSFlxVDNNTXc5?oc=5",
+   "fuente": "City Tv",
+   "fecha": "2026-11-25T23:11:49.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Sabores naturales y aprendizaje se unen en un club de nutrición en Zacapa",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaWxnNE54ek1JeE1QZmdqTkRacl9CQ3I2Q2VLRVg4X3Y5SUg1REhxSjBpQmpJeS1faTZoem5ZRjRfdjZtcmRoNElfOW5yMy1sZTlUTFRIOW5pWTA5VHFzYVcyRm1IUC04a3AtNlpuVGJVcWFnM2RlZ0Z4aUN1S0ZqaVpJT2dLMVBYWnZlQmxfcTNBLU1nR0RfMGZVVXNUSWxs?oc=5",
+   "fuente": "Gobierno de Guatemala",
+   "fecha": "2026-11-25T22:18:03.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Midis lanza PAE Conecta para acercar la agricultura familiar, las mypes y la industria a la alimentación escolar con reglas transparentes",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYm5MTi1DQmttbmdma0RIRktYRjVJZXpDeDVPMk1qcVpmRkROU1J6NHFDVENIU2g5YVV2VTJKVGM5a1NObTJ0c1l2TWZnVXo5SmwzNVJIeExVVzQ3QjJtaVR0bFh1WDJmQVNTVDFRdU1VUFp4SzFfTmFmWEpBRUZzWVp1WEFVa0VyZ1loNE9IeDF2b2JZV1h2SHZFZXJuUnJ6VjJic3U3YUtHNDg4ZFdiNWhuc1NRa3VhUzJra2k5V1c0SmRET0wxTlE5ZnZ2R3oyUWdqajRHRUZfTklpQ0ZSMmsyeEljTkFERzdOZ1BHbC0xR1hSVjhwalhxOGI4Umc?oc=5",
+   "fuente": "www.apnoticias.pe",
+   "fecha": "2026-11-25T21:45:25.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Alpina y Uniandes reconocieron iniciativas rurales que fortalecen la seguridad alimentaria",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRG9ObW0wUExsa19BSDhmWUFJdGxCOW5KYlhzLUhvZDhaNXBKV3JxczFjZDdiZU1rTWYyT3ZkeG40ZzBHN0t3LTltcl8wZDA4UnVSOFMteF9QT2Q5bVM4YzdoUUhiNkNQUk5Nb0R2QWJGUXJQZ3E4akowVXFINUJDMGtHdnJEUnJnMHdGM3BkOVpyTXVKSERzTTN2M08tYllhVFN6ZlhubFhpZ2Vma0NEcWRkOWtHQUhzcVdSSkhkYmhTMFBfeGo0ZHVVZkFQZkVSbjVsQdIB1AFBVV95cUxQSWVjNGJrdUtjS3dtaUpqOTJ6bjhJSXJVY3I3VjlZQ0dXdEI2OEUydFdCdnZiYV9TWVd0N29fUHJlX0FBUmw3T1E4T2JfTGg5OWlNU3B3eGlBdkJmVVJvQkg0R1pXVjNLWGRzaUpFVWpLS3BmcEpJUHJGZVIzNmhMWnhicEgybGNobVlwSGRzVUV1RHMyTXlGR3h6Nktzd01Kd05IV2xrUFpKOXB2UXNKXzFrRVdPTXllQUZCT2tnVDVxcWZBZGNOWEg5Vlp6SVJvck9tSg?oc=5",
+   "fuente": "Agronegocios",
+   "fecha": "2026-11-25T20:38:31.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "La Villa de Moya renueva su compromiso solidario con el Banco de Alimentos y la Casa Galicia",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOUNPRWQ5RndyTFltcVlGRlllcVlGc0htZmRFYTBrWWdMYXpSR1FfSzFYY1E5NjJlLVF6RGdBcHZmVUphUjFaU2RLMG41eGVzVmJPQzNLTHBaTmY0RzFoT1FyNGlEdEtFNUdFUEY1MVM4VU5kTEpaZXZwVnRCWFlLalpPY0JzUFl2QlBvN2VhUzhLcGpHdEo0X2xsOU5vWHJmOHJ1bEduMW02WUtsVlhzZFQ2QTYxWkVxTkIzWnF0MmdjWGdQNmQ2TGVhX3UyeGNncWlSYmJ6MS1FRjFYRnJjcDdMSQ?oc=5",
+   "fuente": "NorteGranCanaria",
+   "fecha": "2026-11-25T20:04:27.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Sogamoso reduce las raciones industrializadas del PAE y fortalece la alimentación preparada en sitio",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTmdLNERhNVhVbk5SdHlFUGVNWjZLVnlrZjA4WWpBOHE3d2I4Zkw1RWtMQXFZMFBBcW5jelY2MXFzMWpNWmNoLXVFWXExRzRQMzBjM2lOeWRRMmJvWnJYUmdZMTEyUUFGdVoxem9ESXFqZlQ0YXZqWEtTbFphVmNxZTNLX0FtYnUzVS0tMVFjOTB0YUlrdkc1eE5pR1BOUERSalNrcm9qMlZndzd5SVE0cTM5TkRacl82QTFvTkRDY3QyMmJabDliNThlQmF0MWlT0gHkAUFVX3lxTE5ZQkV1RWJQbWVQWFlWdHVLMGtKVDhJbmhtMGN5TEM4bkdyLWZ0cUJlZndSVlBBVDgtdzRvalNINXBodFNZSW9YbTJpeFE4NEpULXp2SUZaWkxtaHUxVzZoTklLc3JqNTA5bDZmWXVFTm1SUFdVWHBBS1pFX1dSa3p0NUN3MXFRc2tlN0pFMzd2MWlXRHZJbTZueXY5aERhcVZFQ1dTS0tKX0lEczRBb1NxMDNGQWllWmp6MU9pbTE2NE1QYWFRRHpVdld5a0Z1T2FBVFRudWpoSllDOHRaaHZsZHVOdw?oc=5",
+   "fuente": "Caracol Radio",
+   "fecha": "2026-11-25T19:56:39.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "PAE Conecta acerca la agricultura familiar, mypes y la industria a la alimentación escolar",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYzVrX3JzVWZITGtPVFhaLWpZZTk1Q29GU240Vk5hNUFLeVFKTThLYUEyQTRfVW96U2RzeGY0Y0s0T0NLUHNRVlBJTndTbDNHMXh2MGM5WUJhaF91X0VYREhrRl9xNDVmcjhOZjNpZUh0M3ZIZjRxc2FuejMxNUFCa25lSU9ibVFsSHgyT0ZFcmR1SEpna1Vqcjhrajhlb3o4VUR4cV9DcUtKZGJGQUpXTjF0WjBJWktOR2RjMi1lSE9UM1hfV0E?oc=5",
+   "fuente": "Agencia Andina",
+   "fecha": "2026-11-25T19:21:00.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Midis lanza PAE Conecta para acercar la agricultura familiar a la alimentación escolar",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRlNaZTJWZ1lDWlhNWktVbUhkYTl0cnlfR0NWS3VLSl9DMEhYSWo5a3BrLThZUlZnWUIwaUZEcUtXUzVGaTlNLTl1TEVPMk1lYzRCeUVuWThFQXMzcHFWdFFTaHZfOVRDOWMxTi1MN1hnc2V5UmMzTXdRc3FHTGE3RXBmX3N1OXFZVGRBS0lxM2Nvc1Q5UnFEVWVkd0piQWVWbXRtUVU0U1k3QWYzdklFUTZod2dqRExTT1E?oc=5",
+   "fuente": "Serperuano",
+   "fecha": "2026-11-25T19:15:02.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "El Programa Mundial de Alimentos advierte que los conflictos en Ucrania y Medio Oriente están poniendo en peligro la ayuda alimentaria para millones de personas",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWWJvcWhabkVIRGtwRWtiNURwenIyMkp4U1NlOTI2SU1uRjFRbjRSVllFTXczSXozbzBJc0d5cmZWTnRhQ1B0TmFQNWdqc0pMRDF4N3RBeGktOFVjZlFvT2t0Y1JoSk1LTGtsSWppZHdmWmdXSWpOa2VDVWxhTG1YemlSd2hJak9TRlg3bHBzQmctNHotbmt3Rk9DQldJbW5weGpRVC1JeVFHbl9kNnVrM3ZqSUJEOXE4ZnhRUmItUUthVmFIRDJIODA2VzBWYkF1dW9XYzk4UHpXYVdYeW9R?oc=5",
+   "fuente": "Democracy Now!",
+   "fecha": "2026-11-25T18:54:12.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "El cambio climático nos afectó en sequía y eso puede comprometer la seguridad alimentaria, advierte Margarita González Saravia",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQlpsMFNjSDlUZkVPa2lIUVNpRTdnZlNEU1FXWVpmTWczdXZOS29oM2dLTWF5M2ZtaTJCWWh5ZzdsSHh5OFRKNTFCWXBiSVRsMGlKVjJqaWVOMVc4VDBfQ2JMWW1oZWlWMWFWYjNmTHNvaHdZWFBYbGNNRXlnREo5VHV2WEZKa0pQcVdPSjJtZk1DOWRnU1prSVpTb0JpVGx3dThFRzJZWWVQQ1R1dkhEV194WGtUS3ppOHN1TGFnS08xY1QzR0Z6UERqQ29ZQVVHN2xoVnlWeG5tTklpamFCZ1VvdzByUnJKV2hTUVRVa1VLOFNlZFhtZU0tSlZiZw?oc=5",
+   "fuente": "Zona Centro Noticias",
+   "fecha": "2026-11-25T18:26:41.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Junín: articulan ayuda alimentaria para familias afectadas por sismo",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXJ0LTBoVEVrLXkxMG5FbmZIZVpmT3h3b0l4UVcyZkdfRkhBZ0lDUzdSVHZYM1hvMEhhVVduYUsyTzRNQ2FCbUVSaEpwd2dpMHBzUUhiYllvdUdOUl9STlh4aTNaOWNMWTNoU1AwM3VCT3VISFJYNVU5NmtmNnF2Y1hYTTNMaFA0RGZpRWdmTndENTBkY1IwdlVtOWk5bWpF?oc=5",
+   "fuente": "Serperuano",
+   "fecha": "2026-11-25T18:17:51.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Desperdicio de alimentos en Colombia: se pierden 9,76 millones de toneladas al año",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHRwRFp4Z1ZGOVh5NnI3NkxoVDR6ejlTeFBCV1loSXJ5WjVXZmVKQ0FsaVBBOWtKaElvSnRDOFlEVi1wMjAtNXJzMWp3em12dl81Qmk0d1pldHZieGJva2V2VU1XbGs1ZUVienVRNEhyVnNTcDBQNFY2WEdScDlYcVpnSnFVdXYweG04QW9SX01DM21XekUtOWY5MTVSV1ZCSGRaQnVBa0xnbHFJLU44NE5tdjlYQm91NEQw?oc=5",
+   "fuente": "Diario del Cauca",
+   "fecha": "2026-11-25T18:03:50.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Godoy Cruz fortalece la alimentación saludable con más huertas agroecológicas",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LemVqNm82TVBZSV9QaEFXek1zVno2VlQ2cXlPR1lQYkhqTkhKMmFwX2N3Vk1jMHNGM0EtcllIZW9iOHhYRzBqTlBGVXJrd25OdXF1OHcwNV9VNm5fVXNMV2VyMHVaRDdFdkh2c3dHZlI?oc=5",
+   "fuente": "Godoy Cruz - Municipalidad",
+   "fecha": "2026-11-25T16:47:42.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Hambre nocturna: la ciencia explica por qué aumenta el apeti",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX053dkJaLTRKdEFzOGhRLWNOYXpibVJKNU0zN1J3NVRCTTMwOVJJMFZSSDktNWJNT3o4Ry10WDZqcm1DYm9qVFBraGEyYmVWbU52NnlkbXVDRnUyNkdXYXZteURIbVN1RXRaQlFFQld2OWgwbU5hajZudmFxWi1tYWhxUGRkNlZocTh2ZTZ1d0xxZ0ZNTjVGX05DbnFiOXlIS1Y3S0lyLWtPaXBFSHVfNXc4Qjg?oc=5",
+   "fuente": "Diario del Sur",
+   "fecha": "2026-11-25T16:26:05.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Alza del petróleo impacta en precios de algunos alimentos, advierte titular del Midagri",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMEliMmhWMl9XUjFVQ3N1ZmhDS2gxVVJpbEZNZUx4Z1Flb3BxRUFLZWFJVDYwUlBKcVczcjdkS21kRWoyMmlmTUlSeDBhMHBIQWJGelk2aXloUURMbjgtdEZ4NzlvWnBiOU52N2gzbnNxWUoyUDc0TVBFemY3eGVjX1hHUFBYemRNWUZ5dFZUdGxod2NCVzl1WmJMdTZXT1pFRkd2Vmo3N241amdrOTllQ05sNjZBV2pDVWNDM2pTM3A?oc=5",
+   "fuente": "Gestión",
+   "fecha": "2026-11-25T16:03:36.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Exgobernador del Vaupés fue condenado a más de ocho años de prisión por irregularidades en alimentación escolar",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa05KdEh3MGVrOHRGTkdRSm5UU29nR2MyejJYMFlLa2pfcm9zZmlQOWk5VjEzQW1wdjlVMFREM0xBc2FSc3JkQmlONEU0b3lpY3dZY19lcHZSbUFDNTk2bkFGaXBmTnRmNFdKbW82eWoxRFlLai1EY0gtZUdsdTRTclkwRHFJdmxYcGlKcXhQM2s3U0oxQ3hzaWhUNXRnaFB4U0d3elB2bW5UdGJFcTRjWHFJVXhnNHJQbGM2eU5sUFlNLUdSbjM5cmhEaXlaQTA0MzBsemlwTHhZeU5CNEVtMjVlMnJkdw?oc=5",
+   "fuente": "Agencia de Periodismo Investigativo",
+   "fecha": "2026-11-25T14:34:44.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Fuertes lluvias y granizada en Cajicá dejan más de 50 reportes de emergencias, viviendas afectadas y daños en la plaza de mercados campesinos",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOYU1hQVdrT2tXQUwzRklxNmw5d1RoTVVvdW9wNG1INEM5QzZrdlVQbnNsOUU0aVpNRHdsMFpuVGJkOVV0VWFqWUw4UVZ6MTVVcUFjNl82QzFYejJVQjcwUVVBM3hLbjZTUUZxM041bEF0ZWJ1TmZtZTQ5N05ld09vc0syWklFTWJBU3ZzSmpRc3JhRk16YmNjUFp4eWdfRDZDY3NLMVFTVmlkY29RYWhXMGdBVF9La1R3TE9vV2FVWmRtVVBpUHBkU1IzZWlobHpQTG1STzVpbFd5T3ItLXFUaWZZcXNseGxUNjFwWjJBMFFqeUt1Yi1nOU1NUXM3WnFyVG5xU0NfMDF6b2ZT0gGSAkFVX3lxTFBQWE5yVGtYRk15d0Q1cjJkQ3pQR2xuRVhBOUdGMHRzQ3JCMFgydDVBSHE2M2h4MFNtX3pScFpRRVdGSHYzeVAybG03bzJqRmtaSkZJZ1JZejk5ai1VS0FUaWUwYmJuUGstYUtoS0U0MXh3Qk5ubUxzeW0zazRqYTAtM0h2ZHhkeHUwZE9RcEFyMHhZaHZna3l6UHh5SXpVQ3Q4MS1ReTRPX3dGOEVmTXp5NFdRei1LZjQ4Q2x5ZmJGZkFDWmdsU0VDUkFCSEphY3dSUlUzZW5tYkZaaHp1ZWZzakNTTkpyNWxWbVJFTUVwcVZIdk1HMGJneUQ3S3diOFRqS2FnOGN4TFdwZzlRR3Zfa2c?oc=5",
+   "fuente": "El Tiempo",
+   "fecha": "2026-11-25T14:31:41.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Seguridad alimentaria a 2050: el reto del campo colombiano",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRGNIZWdVVlJ2RF9BRjlNaTh0dXdHeDlEZDhLT0E5MzJna09TQmtiY2drdkJWd29VLV9ZN3FCVTI5X1dqY0RIMG5lLVh5X190S0ZmX3B1ZUY2X0pYeGFvNnlvblFWbFF2YWd5dTJReU5IeGNLd3U1bTZ3TGZSM0xDWG96WkpsbXMxNE54UF9RRmEyUHYteXc?oc=5",
+   "fuente": "contextoganadero.com",
+   "fecha": "2026-11-25T14:29:51.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "David Gónzalez: “Hemos sacado a flote el hambre de ganar cosas y hacer historia”",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVGlnMVY2R19UdllCMzFrbTAxSWpHbnp2enlkcTk4eDVsdkNTUHhhbkZCUFF6NTUxVjZrWng5d3F0TndZc0dkZGI1eXFaM3hxUUJVRjRlaGxpNE05X1UwcjI5TWxlZ1hUVjA4X01kT2RUbVY3WTVDNDliR2FDRVUwaUpvMHNIa2VEUi1oSmgzTlBXemZsX0hsbkRUNW9GQjgwbmRMV3Z6UWFoTTdqb3RGRmZ3QUFoby1nRzdz0gHPAUFVX3lxTE1YcDV1b0ltcmNVMTc3Vl9ZTHpIdWRMaHpVM1N6R3JXUWhGVkV5US15YXhCT1pPdjl2V2lVRkJjRE9ncmhxbUF0c0ZTYTFaZHRVeXJ3OUxtb2tQME0wNWlzRTFGZGxvcDdGNkE0UGNkeHdVSGxVUmQ3clRIdXU1XzBramFLLVlKU3UxQk9tMlRfWVNjdl9ZcWc5cG1yR3M4M3pyVUZ3c0RtVWV1OVNWX1ZIeTVaQW5mcTd2aHB1RjkwM2pXTTVKc0Rvb2xVcndXMA?oc=5",
+   "fuente": "AS Colombia",
+   "fecha": "2026-11-25T13:49:35.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Se agrava la crisis alimentaria en Tandil: presentan revista popular y propuestas intersectoriales",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMjRqVkxsdjk4enRKMWFXVElacno3bExuVVlzTW9HTXZvYVdnZTFNam1YT1J0ZHlGOHFXR3Q1ZFdENVhFajI5eGhxajBOdHFpb3p2aXNGVEN6d3ZEakFZZkptb2R4bExqcXBFNnhYY24yY1ozT0RmajRjM3Q2cjktWnUyMlEwcnluU0poWFdaRW9JTXRsakNrSGE5MG01djBvU1Y1dU1fSWd2QVFpeGtpSENBbmgzM24xd1FLTUJrWnFGLV9yWWhJeUk4NFU0em5YSEZNdVpxWkpuUQ?oc=5",
+   "fuente": "La Voz de Tandil",
+   "fecha": "2026-11-25T13:46:42.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "PAE Boyacá proyecta atender a 109.000 estudiantes en 2027con recursos por más de $100.000 millones",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSE8zaGtVV1V5RVEyTzc4djdENi1FVWZxT2tDckNIaHByNl9lRjFHTUxBekpFN2VLaTNEcVUta1duSFBnbFdibGFBRnBNUG43ZUo0X1dVRlRtTDhxM3J5TTZ5ZE1ubjRQMlVXWllKdkRsUHp6aXY3T2UycWkxb0NFcnp2MG1NMnZQaUZMbGdtXzNWVzNoa2tfbFJMMHQtdkxYcnR5LXhXTmFySkRZakY3ZEFLbmFLY1JkN1Nkcmk1bmVPMlNBd3pqS2VnT21ITWlCaHRHMnBXbWctZ2t6MXfSAd4BQVVfeXFMT0hPM2hrVVdVeUVRMk83OHY3RDYtRVVmcU9rQ3JDSGhwcjZfZUYxR01MQXpKRTdlS2kzRHFVLWtXbkhQZ2xXYmxhQUZwTVBuN2VKNF9XVUZUbUw4cTNyeU02eWRNbm40UDJVV1pZSnZEbFB6eml2N09lMnFpMW9DRXJ6djBtTTJ2UGlGTGxnbV8zVlczaGtrX2xSTDB0LXZMWHJ0eS14V05hckpEWWpGN2RBS25hS2NSZDdTZHJpNW5lTzJTQXd6aktlZ09tSE1pQmh0RzJwV21nLWdrejF3?oc=5",
+   "fuente": "Caracol Radio",
+   "fecha": "2026-11-25T12:49:46.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "David González se ilusiona tras la victoria del América contra el Deportivo Cali: “Tenemos hambre de gloria y de hacer historia”",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOUNXYU5QS2RsTVpmY1RXRElpZThneEJJemwzUGcwSnBmNVNFZzdRSHdxWC0ybFpBU0VHY1N1WHVmZUFMYUUzM05jaDh3ZEFBeXA4c3FLNEkySEhwMUoydTNRNVRncmdnTWhzZ1QzRldWQ2g1MGg0VGNDNlBXVGpTdDRCaVc1LTF6RnFrQ1Q2Q3UwN2ZjTEtrcTNMcjZQUDZBTmxwTHlnelkza000NW5PX2l1VHI3eEs5Nk9COFhVbjhkbl9SY29WX1hjT0VOWW9yU0RWVm8wcWd2azlDeHNfZVBfaUo1U0liOVZqREw5VE5QQ1c3eGJBY2tVSkRoR3PSAYQCQVVfeXFMUHhvU0ZnZDBqVTREYkZtSFB4a0hhT1hTUTZoSHM3Wl9oSHE4WW1ZVUJWQTFVc3c1WjNkYXdMVXNkdTgtOFNHbkMyQ2tnYXRjdS1wQlo3blZlZ3dUM093NnFkTHB0bjRCckV0ZWtHRngtZ09LU0JaQm8zclFiWkVFRC1ubkJXbDJ3Mzd6RVZOVFp4N3F2TjFXam10N3RZZ0o2ZzNUSGk5RFVqQ0k1NW1fc0dWME5sdzFrdkpGU1NvZGdrZkJHMHpRcXE3cHQxMERRSnEzam1Fd0dZaWJkYUZURVRXWXkxcWs3RXE0ekR4TjhJUTN2ZlQ2X0ZoYU5mVjJOV19xeXc?oc=5",
+   "fuente": "El País",
+   "fecha": "2026-11-25T12:47:16.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Café de Colombia conquista nuevos mercados y premia a los campesinos",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeVNiRWhwTUZMbzhMQTFfd185V1NybmFnN0lzWkdPOURyRzlONUlvakRRVUlNQTdKOHdtVlBPYl9PVDFBXzhmemVNWS1ZaXZkeDJ6YmU0ZkVyckxhVGNLZjB2OFg1QXdEV2o4T3VNNXJISUFPaGsySDUtVlJNMTNBbVNEZzFRbUpNZFJ1bVFXLUJvY3NIOVhyQk93NmdIQ1kxXzVqZkRLSXdtby1adHNfdw?oc=5",
+   "fuente": "Diario del Cauca",
+   "fecha": "2026-11-25T12:01:17.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "David González: \"América tiene hambre de gloria y quiere hacer historia; se viene una final\"",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdDlubEF1TEROV0VIeThZZVNlbS1uMXlkWDNZSHRSV0gwX0JaQUZLRVdVMEV0T0VJRE9lMnlIQjNuS3g3VHpWTW5XMTg3N2pmX3YtaU1sb2szWUhPbEVwRUUwUWNSS1I2MFZ1TFlZQXIxNk0xQy05OEVOMWpieUlCSFllUUI5cGFZYThqZDR2NVpmeVRvZUZHLVpsa3QtUFNVWTN5Ulo4NnlEZEJhWW1UdFJqdERBU1dEVVVOb3g3ZVpxSndXZENtVUY4Y3Mza1hiajFfbC1ueGwyc1gtZVNCbm4yVGlKOHg1QmfSAfcBQVVfeXFMTV9QcF85S2x3SWxtSWFwSHZDa2ZiR1NEQTJtSndoOHVoTVpuTkRqNTAzSTBkenpjMGdGNktxT09zNzB3NGdfcmdPdUdqaVBnT21ucU9adVczTUFBYVRiTm91bU1XRFBfZzI0bVFsRFVLalJIVmJCU0ljY3lsaFhsUFpOcGUzb0FZR0hyMjlsTU5PNEQ4SXNET3FoSkNVcUVkTXNVeWltUFl2QWFiQ0k4bmZyS1ZydW41MDl3R3cyaVM1aXBibGZHVC1QRlJxbmxnTmRmVmZkRVZjem56RkFVNUFNMVpiOHlsYmJxNThYX2k5Z1ByZlhTWQ?oc=5",
+   "fuente": "Noticias Caracol",
+   "fecha": "2026-11-25T05:50:17.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "436 millones para fortalecer el PAE. Soacha transforma la alimentación escolar de sus niños, niñas y jóvenes",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUGFURjlrNzdLUDNMallTdGx3SG8tandRNnpCbUFvMnlJSFhMY0c5SDMtSVNwbHpYZ0hmcE9Hby1DYldaa0NIRjNVUzVLcmdxZUlua1lEWmRvOEVlMC1QaFdYVjhfcndNV0h5MnhfT1lOazZZVzhaZmxTYUFubzJ6ejBwMXNWVFJkTWlHckwyb3JPanBIR1hscGFpd1k1YXNGTTV3NG03aU9Hb2Q0X3BpZUxxbHUzQ3l3ZnFOZWVIeFBKT1p6dzV2ZEx0V1UwbnJDMUJ5RG85ZkNuTEJsM09GeTVISGZfd2tJYUZfX1JiQUJsUDZ1RVBucEZnWlJKQkxMNkxKX2tmLTFyNTdvcE11bGRR?oc=5",
+   "fuente": "Alcaldia de Soacha",
+   "fecha": "2026-11-25T05:05:23.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "\"Nuestro propósito es lograr la seguridad y la autonomía alimentaria de los colombianos\"",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOGxpRE5OSl9ldVdmb3NPVWx5SE82MnZwTGFzNXhzdWJueldQQUJaMVhnS0RwbERWNTFnMGs0RlpkNXRWZ0NqMms2b1ZtSm9zRlgtU05tRHZYRnp3YkJPM2hzemF3N3dzXzd4alROYXdEdTIwYmFSckFGQjljUHVLMTdjbTFiMjlTcDh6aWF1SnNjdjFELXlfMVUwSW5VeHhfOExZWlhZeGFxNE13V25lWXBaNUJNT09kbTZLb0gwZVlXOTFMYzdvT1BpeDJBNzU0bUw3Z2xHVUZRWlZZSHBIbmxMQ3NGRGhLelQ00gHrAUFVX3lxTE4wd2Q5RUN0RVh1cWw5eGp3WFkwMFRLT3BFSVgzd1BWSFN2R0tqeldPVnY3Wk1feFdvUDUxeGlvQ1MydFQxWGRhSUNxVDJSNFQ4bF9vRmJ0OXAzai01NGZVOXRfZGV6ZXdjT3pJVTlsdFN6Qlo0enF6M2N6SDBVcEVXY0tndFBsMkk4Y1lsRGlTTGtVRS10WmVTSjliWXJLaTlHSl9WMVVyQTNYQzY2aWdXTGtDSGpHS1R0Slk4RDVOOGV4TXpNWU5QMmVxc05hYU5xc3VoaG9menR0UC1MOGxtMEtYOGp5QTAtWTA?oc=5",
+   "fuente": "agronegocios",
+   "fecha": "2026-11-25T05:01:15.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Alimentos con bajo índice glucémico: ¿por qué son importantes para los niveles de glucosa?",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbjgta3QzaUpVYWoyRWtuZ2ZqOTJDaU52dVh6WVdKZU1qNGduXzBDVWhtTm5KSWVfM3YxYXlSQWRBVHg1dUhuSjh6T2Rab2dCNHFGeDR4T3d0UFdUejlyZEd6dnpqcWdTSG04UEQxQ0stdHJXbVJjYUUxeVJVdGRLcHBvd2RZQjNQXzNzNnhLQTlFN2JiYW9Hbk1SV045TnpIb2xZRmxPTW81N3ZTem1pbDlFYTNLOXM2Z0hXQTNma1BwUFFWMzFsQVh3?oc=5",
+   "fuente": "Diario del Cauca",
+   "fecha": "2026-11-25T01:27:52.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Alimentos se disparan en Lima: advierten riesgo de desabastecimiento y hambre en familias vulnerables",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSFl4WTI3dVB4dlBIYUUxQ3FXUVhreG1uZ3M5bXVoRURnTFNYSEVQVmhod01Ud19SZHY5Y1dpemdjdnJsQ3JMenRYN3pOblBjQ08tSU45d0hncTRXejlwRm1vbExOWTFaUXhZblJUXzZIX0FUaFBWWGF1YkJHTVk5LVgtd1luWVk3UWpJRmZtbVJkZHhPVVptdFZhNGI3MTZ6Vld0NDBzeFJiSzJSWFFKdDZhRzg5bG4zdTRHLXpxNFZKYVBia0xOWXZoamd0djZsZTZ2RGJTSnk2QXM3REdFVHhOcGRFclhU0gHuAUFVX3lxTE9sOWNmV0VGeERVNTc2aUw5TFk5YzZGNGE2SWp1S3pXeERTTFpNUDJ6NU1IamUyZVRZa2ZVcnpVTkgxem44ZktCREJYMkhvQ19DUU00NkVWNFluVjItQ2ladlpqaW9uamlNZ21hZGhsRTk2SWpjUWlWMXk5T2R0a3NVdzBuYWFfd3FZcFROMWRSLWlLWTF6MGJ6Q3hjQl81bFJLbllYckFWemFkSW5hcGgyZFkzYmpiUTUwczAtNWVQdFhPcmQ5US1FRkFyalhJSk1yYWNnQmJ2aWYtd21NY1pvTXBBYUd6eUZZMVI3Y1E?oc=5",
+   "fuente": "La República",
+   "fecha": "2026-11-25T00:58:50.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "NYPD distribuye pavos ante inseguridad alimentaria",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2M3QlRtOGtjTXkzN25pQWZRazhUWGNPckJwLVhvLWNJMEZPZlBKajN1NjFXZkMwUVpzNTYtQ3hxd2dlVWVaSHpIVDFQVmFhSDlGcGIzdk5xTUJ4cG03V2JJQlkyenhmS1lyM0RhTW1kblVPZFM0T1JBbFJEUHJxbDl5TXg4Mm5XVnpkSWM5cDBxd1UzcFdnbEtTTGhpWDVKYjJGOVdEQzJZQkFZR0Vhb1JhV195RXPSAb8BQVVfeXFMUEh2blVrOUtDNU0yaFA5ckJBR0oxSl84bUNNZGNrdFQ5N3EwWjZsdllMaWFXNU01ZTNkTFFteEpoa1NKejRyV0JrenRrRTA1czU1TEQ0Rl90MmplTXk4bFU1SVZaQU9PX1hDMHg1a2UxeDRpRkczWEw2aDlfSTB1VkpPOVNZVXJrYlpkeThCODZnYUFsTHhWV0N0VnkzUm1LQlB3eVJPOVNiNUh2dzBDT1hiRGVlVFg2MUJEYTd5NDA?oc=5",
+   "fuente": "Telemundo New York",
+   "fecha": "2026-11-24T22:39:10.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "FAO pide más financiación para sistemas agroalimentarios resilientes",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlExSWZmdjhxb24xR1M3Ym15bFlDUXpEQ3JjQTZxRV9iVFpUTllXX2x5Y29hTVFSeWJjU1VVOXFrVWVoeVQ1MmlRWTIwejFIVWpCSUxfTlBTcjBfdzVtVVM2UUQtM2libDhoTEJISHJSR1doNkg0WDZZeTdxaElrYmhyZUZjaHpSV1BkX0dsZ1lGQ0MyQWdOa1NVY3FkQmlTOGR5T0x2c1VPWmtjd3J3TQ?oc=5",
+   "fuente": "Diario del Cauca",
+   "fecha": "2026-11-24T21:57:07.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Comisión legislativa busca fortalecer la ley para atender la crisis alimentaria en Honduras",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yWmdRYWJCUWFTS2N0OWpHY1JzV0xGTi1ZaER5a2NsUkRxazFkUWs4dzZJNFBUaUJuM05MNFhZMy1rUGgxSjNvaHp4RzZvWFFmZFF0LW5jcVhVOXdrd0I2MjhTbVljOXoxSUNFQkwwdU9ibzg?oc=5",
+   "fuente": "Congreso Nacional de Honduras",
+   "fecha": "2026-11-24T21:54:14.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Profesora UIS presentó en Chile un estudio sobre las compras en mercados campesinos de Bucaramanga",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFhQUjJEV05FRmdIWmNhbW5pU0NOWW5xSl9UVXN1Q3dhd0NmTEM1bVlza1dOOEpLT1Jjc1lFTDZXWk95V2ZnSldvMVpRVXhUQ1Zfd2pqSEdxMTA4b1RNbHR1a2hCLW9VenNodEJOT1ZyT2FKNmtURDR2ekl3NlpGNmdlcWdpREVJN241VHMtblFtU1RRa1NjT0d6bVZtMXBkYmZvaDRCLU1nTy13ejM1WlBoTzFnU1dwNVRXekcycU81c1Y0UmVVVTlKbHNKUQ?oc=5",
+   "fuente": "Universidad Industrial de Santander",
+   "fecha": "2026-11-24T21:44:55.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Bancamía habilita una línea de crédito de reconstrucción para microempresas y, junto al Banco de Alimentos, entrega 8.000 mercados en zonas afectadas por el sismo",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbmpaM0hHVnIzZ0g5Wm5OWWJpcElmbFVjMkFBN0lQUnlFdTN6NjhZdWJ6cWhPZ05HLV9xYmxiRzZhbUdKNXd3X2U5WDdCSDNvZWk5X2hFb29xWmtfckxOVHVmMVR5RTBvZUZnY1VJYkZVV196dUkyZTV1YmFOMG5vY3hhajFraHZkWDBoUjR4c3NKd2dVQ0FQVlo0RVdMcXYtUU1iQmpJMDlQVzZ1cDJSc2h5dFV5MGg3VnUtRlQxUWxBTjcyaWJ5TGZSejh6OWIxcnFUX1VaeWxoT0RlNHhfdVNobHBKTlUzbExOWDVQcWduWFVTVXZYbDdGekJpWU1PQ3pGQThicm15UEhUZDZUMmdyUnVPekkwZHA2UFE0MWRpaGRCOXfSAaYCQVVfeXFMT1RsdnZUUk1pVzQ3OU1Tc3g3bXlQMWJHWFFYZmRaVUVNM1NrS0wwbGJqUTRrbFVtV1NjSmZDM1lvRWZSWUJURFAweWUzcjZUUTV4Rnk1VWY4Q2hFQlRjSzJhRWtUU0VNMFNucFhyWHJiNUlTMXVjN0dGYUk0aTdodS1rdm5sT0l0bUNlNzV6S0NJSmc2aExJM2lydmZMSklSblNVc2NNSzFMbjFpTXVHZEZSaDFFVkpZb0tEakZIVzVzYnB5eTJ0aG1RTnFkVzVxNmpoSE0tR215eDI4cWxPaHZqYTdVN3FKQkJRREpvOFZiOW9ILUhiX0JQblVaSy04TGVESUZZd0R2SGpDVEJZMFNzSFNCYW51WE5TUFhnU1RWa0VKVWFn?oc=5",
+   "fuente": "La FM",
+   "fecha": "2026-11-24T21:14:48.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Banco de Alimentos lanza un llamado a la solidaridad para apoyar a madres solteras con programa alimentario",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX1h6WFJXbWg4a2o0cUJEM19zaEo1dmFFY3hxeWprYWRISmhnR2lIcW5RWDVnX0ctSThHQ1JDbWhtQnE1OVFYLVM3UGwtRzB5NHZndHJ5UGJpWVpzV0hNVjB0WGFlSU1BLTRodU1LUVVnYTJFek9iQmZiSXM2VlpFejlHWHE1RFQzOE12LXl4TlVGZE1JV3V1dUdURC10bHdzSzd1MDA0R19CZFdxZ0ZrOVVRdXVvYm5FYnRONzlGSUg1VFJmZTJPN0pBaWhkaUdQRFpHYTJMQTdqUWxZMG5NMjFB?oc=5",
+   "fuente": ":: Foro Coatza ::",
+   "fecha": "2026-11-24T20:49:58.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Cuatro países centroamericanos del corredor seco ensayan su respuesta alimentaria ante la sequía asociada a El Niño",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT0N4QTJ0b3hPaEpYYzNubzBQUEZ2T2NIazFfdGE4NndkZnNrNkRST2o4Z1ViWmFmb2FUQ2tVR2JEXzg5ZGtvQkFGbXZHRXNLNWRFZmhuYmc5UkYtX2FGeXRveEJlX1h5YWoyNFM0VllCOU9UZDFzNGtZeUkzM25iZC02dUVieERsOWR4RzJiUXpiX2x6WHVOUmNzS2FXanNwdHZLalpEdmo4U0hiUDNkenFNbktWMG1iWGE5X2lES2lpeFZ5cmtqX1pLdDMxRjFvMC1aMkxCbHAzMUZ1V3hYQzNTUldBVGlKT1c5bk9MNTBpUjjSAY4CQVVfeXFMTUQzVjV4cTlYZExHeGdVWUVDcEFxV0VQS1ZuU0ZieGQ4LWs3NzNkWVVGVU5aRElPTjdLSEE1bW1sb1JNSHhDRzRXeDhkNHREZ3FJWFdkWlJvZTlKWDdfdURoOWppRlJEMzFPdlNRb2dYakpmbmRNWDM0dkxqaE9QOXY0a1VIQU5iSERQalBicVc1RlZtcnpyTjBYeEdHSE9GdXpNMHg1NjNKTXVQOWh1ZjlLRE1aNU45MXF1ZEhUeVkxeDlBSzRqeVRfbnZSbHczQ3dXRHlyX2dpMEhLclV2VXA3R2ZNZmZtWWgtb3ljTURtM3N5bWRkMU1qd1ZFSFgyZm01MFNpYm82NXBNRmFn?oc=5",
+   "fuente": "Infobae",
+   "fecha": "2026-11-24T20:43:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Díaz-Canel insiste ante la crisis alimentaria: «Vamos a comer lo que seamos capaces de producir»",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWXl4cUNoekJHMThhVWhESnFkSGxrMC1pUE83N21HbVNGcHd5M0F0aUpsMHJacTVEMWFpSWxSTzRZWUZMdlZ2YUNtbkdJVHVqU1pGX1NwUU9PMmF3clBTajdiRURGZVhrUUlEVms2c0c0UDV3cW1BdjBBbDZKUkNMcnU1NnIyRXZUR2FPb2xhbi01VTZVX0RYckZRQTRiZ1F5dkpTdllxRnZHQ3FLem4wTkRSNmlQQk9LZFROUjVIRUozTjBJ0gHEAUFVX3lxTE5ZeXhxQ2h6QkcxOGFVaERKcWRIbGswLWlQTzc3bUdtU0Zwd3kzQXRpSmwwclpxNUQxYWlJbFJPNFlZRkx2VnZhQ21uR0lUdWpTWkZfU3BRT08yYXdyUFNqN2JFREZlWGtRSURWazZzRzRQNXdxbUF2MEFsNkpSQ0xydTU2cjJFdlRHYU9vbGFuLTVVNlVfRFhyRlFBNGJnUXl2SlN2WXFGdkdDcUt6bjBORFI2aVBCT0tkVE5SNUhFSjNOMEk?oc=5",
+   "fuente": "CiberCuba",
+   "fecha": "2026-11-24T20:09:46.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Cada latte en Starbucks ahora aporta a la seguridad alimentaria: así funciona Va por mi cuenta, el movimiento de Alsea que llegó a Chile",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRXZXanRuRWkwUjNTRHFFY1liRE5GbDVRUkZ5U2lzbUVZR2xDYUtueXpQN0syRV9aVzVTcGZUVnlZa2RZdU1mZ2xzYl9tRVYtR2cxeWd2SDRkaGFmeWFDVm9ZdG9iOUQ2OU1raUNhZmljSzBGR3dHRW53Wmgyd1NSZzlTZU1PU1Z5QmtqR0V1dWY4UjBvdENMdUMxVjVaNEM2NGJLWmlsUC1RQjliVUdzM284bXExS25yV1B2V2dCZXJKS3RRS2R2RU45YWdKTC1jZ2pMSkRFV0J2THllM2d0S3QzUHEtazdGSUxoYzBndlc4VWYyVm5XWnZ3VFhULUpOelBnVFItMXg?oc=5",
+   "fuente": "Diario Sustentable",
+   "fecha": "2026-11-24T20:02:21.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Comunidad educativa de Osorno participó en evaluación de nuevo plato para la alimentación escolar",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbU94dVY0X2JDZFhfTWtZeVRFYlJGeFZra2Nrak9oa1pJYjR5OUFQWGR1dDFsZWVJUWwzLXQ5dlJZbDhvNVcxTzlFc3EtLUFrckpScG1ka2hUcVhkUS0tOTVUSkRuTXRjTmRWWm9GLTNYaW9sZU5VZVJTT1hIRExVWUZYU1VzNVBFYVpCSnJzY1hjeVdIcFhQVEZ6UkZiWTZHaXE4VUlzNGpOWHZISWFRWllET0VMelRBM3NUaV93?oc=5",
+   "fuente": "MiradaSurTV",
+   "fecha": "2026-11-24T19:21:57.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Alimentos y productos que ya no tendrán IVA del 19 % en Colombia: ¿Cuáles sí seguirán pagando?",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2JfTmhETi1YanlqMUhxX2txRktxblJLeWk5aE1UT29KaUVVWVliemIta1FRdUhXQjdtMENsVVJFOG9lUy1DNmF1YUZUdkhRN0c5VjctaTlGRjJnVnRMNU43QThhMzZYcUxTaE9rYWs3ZzhPbUdRTXEtQloyUjVLc2Q2SFRKa2JkSk8wb2RaLU1zczdkSHRFeTZwQXI0M1ZUOXBKZlFNcnQ4amxhV3ZvMlgxOFRnWUR2OHVDQVJUNTZFcnNCQ29V?oc=5",
+   "fuente": "Newsroom RCN Radio",
+   "fecha": "2026-11-24T17:11:51.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Colombia: Emergent Cold LatAm inaugura bodega de frío para alimentos más grande del Valle del Cauca",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOEEwNmJfRkI1VXh2WFcyMHRWWGNaamZIblRsblZNOHpWNEpQY01YdHZfc0NyLTU5alZKZlg5NzN5Zk1xWERvUVMtQUxXWE5tdzJfdUNNREVEaFZWRmhxQ2l2UHJqVmN6eFgxNHBubEdJNWVRMEJ1dF9IdVZ1b213WFhVcG1mQlVWOGFFSUF3R0I3UVc4SUtHZElVQUh4MVNxN3lPSnRzNGVLaTJESTFxMHNqcXVqMlljSWtvRkpNRzFMSnRG?oc=5",
+   "fuente": "PortalPortuario",
+   "fecha": "2026-11-24T17:00:36.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "El Gobierno aprueba la nueva estrategia de derecho a la alimentación y \"hambre cero\"",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVFod3JXd2dEdmdxb1NSYTQ1aDRiOFJWa1h1a1dadFdINHhNZFRSamoxYTVoQzhZNWxUeHhacVJ5WDI3WUNENlVjV2Z0QW5CeXVpYzNHZFpjdjk5SFJxRVZmY0hsUlhBOUxUb0V1R3lnX3hQNkF2dzdFMjNlcVBHdWVDM1M0WUxHbUpNODVLakZLTDBLR3JjN2d5Rnp4b3ZuZElDb3FFcUxYZzJTeUtPNGZzcUtwbmQ4SFFVSVIySDQ0d1VxNUs2cTZ1V1BvQXfSAeoBQVVfeXFMUGJJaXlIZkpmSFcwc3BTWDRtekQtQXl0Q0FOeTJ1V0cxcndwbF9ocFdjaUVXUVVUanJ4dlFfQXJUaGhjel9aODJ5anNObHU3MTFlbDZGX2k2SEFUNUZEMU8tbWNJT0l0ak55RDRIeFU3UUdDT0pldVZtdlNsTE5hcFJmczFLV2NWQUtvQzl6VG15b2IwYlVXVkRtVER2ei1qTmptNHZYVFFhODBrNEVSLW5pRXRuX1A4V3M5WF8wWGh3Q2duOGpxUU5iMDAzZ09wNS0xUkZMWGdRYVZ4eVlpR2JNQmxPa0ZmQldB?oc=5",
+   "fuente": "Infobae",
+   "fecha": "2026-11-24T16:48:00.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "El Niño encarecería los alimentos hasta 2027",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWmhPRW0zc0FLRzFfZnhOUzF2SzQzcWZ2M241aEVSRk9MUHltMDhsSUJ5OHhkajltWnlSbXptcG1vd28wQno4ekk4WF9xaXhRVTBWRWNXMnpvTWNFOFQzODQzOEQ4Vk5GS0Q0YktwMHlYdExKOGkzVjllTGJKcjcyYzhRQzhKZzVKbXd4WWZQWQ?oc=5",
+   "fuente": "CONtexto ganadero",
+   "fecha": "2026-11-24T15:52:23.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Gaza entre las bombas, el hambre y la muerte: el testimonio desgarrador",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNE5fSDc3N1poQzg3bXNLUlQzc1V4UHNaWDNuQ2xLQ3lMWWxVa25PZXk2RHdESlhGMWl6VWtRQkRIdHdBb1J3d1Vpc18tM1hmVnBKSF8yb0pQSmtFWWtUMkJwOFh3eTdxNWpnMjFISkRnalp2d0dpQ2gzTzZCdDM5Ql9ZRjhQMTNRbUtBTDhQcURwQmtsbG0tTm1fOWphbl9iUXN2RGlHMXVTeFd4ZEF5UXBhbnJZc2ZPeXhQRHMwT0NCNzlXaElVQ3EyQ2plV3JneVVsQnA5dDJiQzFnRmtvQWNOWERJVGxhYmdMMUxUQlBETmM3NDgyVkxZeFVUMkVEeTY3QzB4MG9EckdpSFdZ?oc=5",
+   "fuente": "CAMBIO Colombia",
+   "fecha": "2026-11-24T15:52:00.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "Benítez Mola cuestionó el presupuesto 2027 y pidió tratar la emergencia alimentaria en Chaco",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXdRMC00V2h6cUJRb1ZKMzZuWlFOek0tbmhrR1g5Yy1tcDJOYVFUbVVRSERaNEdfbHRPeGZxZmdYRjJUdE11b2NpM2N3ZVNMM09iQlFMcXlrbldLdktTWkl6WW01Zy15X19kX2xhZmVwQklCWVpDdnYzM2N4dEpPcXlPZW1RUVN2cnZFa0FLVWp6bUx3UjJMX3ZlZUpIZXVsaXQzblIzaFZ6ejlENm1ILWhZZDBxOW9ONldN?oc=5",
+   "fuente": "Radio Natagalá",
+   "fecha": "2026-11-24T14:52:20.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "El Remanso celebró la alimentación saludable con una fiesta de sabores y tradiciones",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaHlVNXdsb0YzV0hyeVpuRWd6THZVNmk5SFlOOEMtNnEwUjlaOGwxa0hCWWtqS0RKaEppUENoUWhlNHoxSEdSbnFwN3FNazVpYzg4TVJZV2d4RV95V1JhU3RBdmhPdTNmRzdMNU5uWWlOMjdqY0E0WkpZWlJ6ZzEwdHV3eHY0T1JXRUg3ZlVzRk5HVC1iaVdkV21UeGlRa3ZiNExuc1Z1cG1nUWZIYkVaTHNtYU9mcmFGcVExOHdRM2l2QQ?oc=5",
+   "fuente": "El Diario - Noticias Pereira, Colombia y el Mundo",
+   "fecha": "2026-11-24T14:41:50.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Inauguran en Cali la bodega de frío para alimentos más grande del Valle del Cauca",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUlLMTh1Y0l6TFVEelM1Vjk3UzE5Q3pwQUxpaVE4QVNHc2ZPdVMxRXBILVFURm15UDExWXVjQXVzYXo2UmE1SHdBSjJyanBMQlpTRjJ6UldYTlpHaEdRZGVFYlRMcURlSGJaM0pFODBwODg1d183dFhCaUVuMWJpd0VaQ3kwZkMxR3BUZTdqSGxYY3dBelRXOW5EdDBTM3dzYWswOWJ3TW56QTQzRF92U3Q0UXhubmc?oc=5",
+   "fuente": "La Gran Noticia",
+   "fecha": "2026-11-24T13:43:59.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "ONU alertó por el ajuste en los comedores populares: el Estado destina apenas $763 por persona al día",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdlFlQ0ZfaDltMndVODlMMVU4NTR1bEhPUUR2aGNpaTNWeUhkMi1oZW1aZkkzN3JIdTdDUUxfQzh4TU55bGJBenc4QXpSTElpQnh6eDM2OUdvb1lzZ0lqZHRBM0ozS2MxQWJzOFZyTHQ2OWNVYWloRnJVTkV3MTZNdEtEZkt5Y3c5WG9DbkpsaHFXUWlRZk1Tc2szaDBXc20zWk9GaFhucU14MDIxcDloRkNUVGJxQ3M2Y2FyMEJyZ0tmUS1wSHV1eGRJVmVOMUlWeS1J?oc=5",
+   "fuente": "Punto Capital Noticias",
+   "fecha": "2026-11-24T12:44:16.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Alarmante informe sobre el hambre en Estados Unidos: el estado donde casi la mitad de la población ya no logra costear su comida",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdGxJV0NsYmxPS1lwcHBxWWJ0Q0tITDI0SURzVW9rNjNBQkpHQVlpUkxET1lPU19lNllCMDFZQVBUX19Qbk5aT1c5aFd1blk3ZmxreF9UOEdaSC1DSkI4bEdEeHJFMl9sT1U4dVFadjZyeTNqTVhRbmd5QjhmQkQtNlptMHBLaUZxTC15eVQ1bFY1VmpfREE0T0Y0MXdYR1pEZHBTT21faV9uVU05S1VGTHRBNXVRMkR3dkgxTWlmNWRSeWZpazFyUlJFUVJJTlBBLWYxSjdFWWVKdjR1QS0xNGpBNlBXdzBfWUZFTUpSZTl1NHV4NDNWZXdzZ1VBVDRoZWpZSmFIRWhNaXBDQ0IxcQ?oc=5",
+   "fuente": "2001 Online",
+   "fecha": "2026-11-24T12:35:59.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "¿Quién compra la próxima cosecha de yacón?",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uWFhyUExnLVAtenhOME9tN2lnUk5yREVYaXA4UUZySFp3X1labTNNZHBXX0VaVExZV1RMZHdSN2M0ZC10aVFXamY0bmNXdzBRQ2FwcG9HakdlMnFaSHpPbi15NVdJYW0tMUxxLVhnTS14dEFlajRqVW9ENDnSAXtBVV95cUxQVnQ0bFAtX3piVlpzb2lyZ05qei1zeld3SHI5SmdhRkFXTGh3bG5MMjU1YU9hNWh2VkNmcThtbUpscTgzQWc1NWVvT2NGWUtsZzcwdVBPUkVrbWN1S3hiMi1NUEZpQmoyNHVzNzVHVThwam54Ty1SOGJ3RGs?oc=5",
+   "fuente": "AgroLatam",
+   "fecha": "2026-11-24T11:40:57.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Celebridades recorrieron el Banco de Alimentos de La Guajira y comunidades Wayuu para conocer su labor frente al hambre",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUGk2bG9ZdEZRWjJzMWR3WjRKbno3STRwaDFvemR2WDdlTDF0R1N5VXA2N1dKUzR5LVNsZVNWcXNtSTlsalpCV3pHaHY3Z2dkZUN0Y0xKY2gzakVSeVdvRmdCOElMd0xtZWVEN3ZOOHU1NHhMdTJLRmtxb19jeVFySGlYWV82VEQxcEhZa0pBeVdWbFVnWmh0TWpQNzhpNjI0Rm5keHVud2d1clVoNk41UUZ4ODRJYUQwWlg4ck9Fd2lxUmtZM2pnU0lkNTBmZ3RYVHVDRmdOTUJxdGlycW1FUWNXNjVIYjZNX2NLbWRHclpndzdV0gH6AUFVX3lxTE9icXU3TXNtZndYblYtVzRrWjlqYmlmY1FJeW5wNFZzM3lIMURqMm53WEpEY282am1RWVBqYUJ6VDZ4b3NDc2pZX1FoRkRNajB6bmFMN0RRZXRiYm9rcGJ0SkNZaGs1TlplR194NWFqa0lwNW1UaDRzSXpYa216S1I4MUg3dWNxZFhGbGk1bW5Yc0RCMkN3eTZzMDd5b2paem1UMktXZG93UDJ2Njk5WDBoSHpERHE1b19zdDBmc1lyTjluQ1RibUx0M1BJOFJ6aGRtZmJrdGpRMmlHUm9zNFpZSVlBWVFuTW5hbTRCNU9jOVE0WjJ2eWtOMFE?oc=5",
+   "fuente": "Guajira Gráfica",
+   "fecha": "2026-11-24T11:14:47.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Precios de alimentos se disparan hasta 400% y El Niño amenaza campañas agrícolas hasta 2028: papa, choclo y zanahoria entre las más afectadas",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQ0FxNXFFS2tDSkl2em1KYWRQTjM4amRxTWNGOUlPSk1rQlY0MnBZWWY0SE9uRXJOLWxzWVdwWWZyZW5IV091U2hCc0w4aFA3VVZvLUZuOHRndXRwTHAyZjVKZzFSZ3V5bEpSdjRtS2M0al9VRVVVSlFTeFFZTmhxZ0lQeWhIN2p2NUtoU0plSTdRMFlENGFCSEpfdUFMek00TXZRN0N4WmpXWlMzcFdoVGtOVnVuVlRVbEYwMWdtREVicThxZXFBencxYkUxRnBjdzE0UDJwMXU1blBuSVp4ZVNYUkJqVXRjOUpCU0MybUhHcUs2TWw4T3hKU3BUTWVCMGJhd1o5dkNtejdrTmRvTG93RE1zZw?oc=5",
+   "fuente": "RPP Noticias",
+   "fecha": "2026-11-24T10:45:00.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Estos son los países con mayor índice de hambre en Latinoamérica en 2026: Haití se acerca a nivel “alarmante”",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQLXVYYXA5NGVVV3A5dnhpR0NxZmJxdTNhNW1JaXlWaDl0c2l3SDR0UEEtS0VZaDJQVVU1bV9nLVJLRUluTjhuQ18wU1A0S3BOVWtBVFJsNms0Z2NQd1pKbU9fZzNQcDkwbTRvWk9lWDhWc0JaMGt1UmFuTlVwR0xad19zODJmNmVhMnpQOGZ0czFZUGM2VjlCNEQ3N3NQTlNOZHcxeU1MYk1uZzhhbzhscUlPTk5oV2xKUC13bTU4WXJ5dDVjSmZMeG9BWFNqMEFNM3BKR2ZMcG5mRTZZTU8zSHRyQjdySVVjQWYyNWJoUG1zVExZ0gH0AUFVX3lxTFAtdVhhcDk0ZVVXcDl2eGlHQ3FmYnF1M2E1bUlpeVZoOXRzaXdINHRQQS1LRVloMlBVVTVtX2ctUktFSW5OOG5DXzBTUDRLcE5Va0FUUmw2azRnY1B3WkptT19nM1BwOTBtNG9aT2VYOFZzQlowa3VSYW5OVXBHTFp3X3M4MmY2ZWEyelA4ZnRzMVlQYzZWOUI0RDc3c1BOU05kdzF5TUxiTW5nOGFvOGxxSU9OTmhXbEpQLXdtNThZcnl0NWNKZkx4b0FYU2owQU0zcEpHZkxwbmZFNllNTzNIdHJCN3JJVWNBZjI1YmhQbXNUTFk?oc=5",
+   "fuente": "Bloomberg Línea",
+   "fecha": "2026-11-24T09:05:55.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "Una cuota de alimentos sin pagar podría generar sanciones como lo es llevarlo a la cárcel",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYjh2cmJ6Q1pQaVVyZHR5b1Q3U0xSSUU5VldWclRlNTVzS3RpTklaSHU5UWdSVF9rWUlXQ3lZNmtpRERnbGhvQUQ1c0xsQmpad0Y0bXlnOFhCbU5oZW1lUmFValFreTRFYnExTFhPSlMxTWhkeFl0YnRiSGFBLWhrVEwzanVpLUVjWHNncV9rSUtseDNvSzVxNlh6RWtDd3JIcXE5Q2RoTV9OdWpMQ2fSAa4BQVVfeXFMT18wNVItYXY2M2NhaXVCZ2ZneUdLTWZjeUM4MmZiUDVpQjhaV1hkcmZkcFhZcXRoRTRXZFVEQ0FDZXMtcE1VdUo5cXBieHpidjJqSU1YbTRGT0VKZTF3UnU5cEdnUERMaGhUVjNfYktIVFlzdGJJUVQtS1k5b1BTcEVRMWYtTG1MUHRsZE10cXpXMkxuTWNaOXdyOXJsYU5zeGJXZWJkVjZNOEg0dUtB?oc=5",
+   "fuente": "Asuntos Legales",
+   "fecha": "2026-11-24T05:01:17.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Llega la Segunda Mesa Pública del PAE en Soacha, una cita clave por la transparencia y la alimentación escolar",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOUkt1X0k4ZlIzVmM1aW5QLVlkLUZEcWNIb3Y1dzNVNG5nbHVaLVQxY0NsTTlpN2k5c1NBS3BIOTFzc3oxaF9vZ2JXZlpvQ1huVmdYR3NPX01NNFh0N050TjN1MEF1Tm1SWTRZbDFsU2FsZEJkanNlVUh6bVlocTdhaVY5a0JyV1YtSmRPd2I2dDAtQ2hIZlcySHZkb1c1QVh3YmVXUkpkRl9nckpGaDk4M1VhTmxKS2otS3pTYVRpcWM1MkFuTTdiWXRZYlBsZ2JNTmQ2NGNSSkpEY2tHSThBR0MyZ3R5RVdpem9OTEg5aHZkQ3F5dnRnMFN5MVY4NnlRSGIzZ3hYVQ?oc=5",
+   "fuente": "Alcaldia de Soacha",
+   "fecha": "2026-11-24T03:40:35.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Crisis alimentaria en EEUU: Familias vulnerables enfrentan las consecuencias de los recortes a la ayuda",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVFNzNkIyTzFFQkRIMTY3MmZYYV9EX1lBdzIxTDFscUttRFB6YTdrS3g1MVRmSHlGNUdlWGRSN3N0MXlwZzhhN2ZTUFJBVlRJQjZHSEF6Q1VBRmUyMlFBeGJBalVGYm8xSlJadUw5SHcyMHVpWWp6UFJadHEtVFhrLWlRSExLajYxS3dfRk5vczJMMFdXdnRFT3R3UVVxOGJ0ejRUQkxOX2oySVZIUzR2NVhiQlZZcWEyamstc0g2ZnZHWmM0NFpaaGV1SnpuNE8xelJaZ3c2WGREUnM?oc=5",
+   "fuente": "Univision",
+   "fecha": "2026-11-24T01:45:14.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Precio de alimentos se dispara y ollas comunes, las más afectadas",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX1hjU1pCckZfZ054MXA1Xy1rb1RoWHFXQ3FKM0RuRHlFaWUzdUZlSDJ3ZzRqTmt4cWt2NjNscU5GY2RCVi1OVlJRQnFQT29rbHRVRldOUmVJLTNoWmhEemZhUDBvbW1NdzU5U0hUYktlbVFoN0Vva3J6SDJ6MThnc2VSc2dHanR3bGpEajcwWQ?oc=5",
+   "fuente": "Epicentro TV",
+   "fecha": "2026-11-24T00:01:00.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "5 alimentos que evitan los expertos en seguridad alimentaria",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbFlKLUFmanMtU3VGRTJMWGJuX3pvYmdFOWtpRG52dlRTUHg1VExONmloazV3bE9qTmdtMkZJWFFoclphQVBpdGZhbGZZSG1RVkVRZFpvR2p6d3dseXUwQWlvTUFrVmVpVHNKdTR4N0NVOW9OaHNyb3NKR3d0RUxuMnI3a2hOVlZiZndFMHNEWVZ0d0Q2dGpDdXdtZkFnalpTeVVGRElFSzFnSUlxWnBNNnR30gHGAUFVX3lxTFBJOHpPSVhDMWZkQnNXSllwaHhqZEJzdTBHTzhGbGwyVG9Kd0V3enZpNWxNOFp2ZUlCdElDWTNmd3VLQUdTSlRxOW50Z0lFNWFpVHdaNUJ6eldkSUFEaWx0Ql9zZUFraDYwZ0xTWVlwOTlLaEF1T2EwcFF5NmdLdVpsZnBkQi1WRFotbmdHVi12cmdFYUFUY0ZhRXEzMWEybVoyVGFvLUk4WnljMTBzVUlTWkVlMmg0R2RTRUE0cE12aWt5eGdUQQ?oc=5",
+   "fuente": "El Espectador",
+   "fecha": "2026-11-24T00:00:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Nueva película de 'Los juegos del hambre' arrasó en su estreno mundial, con 225 millones de dólares de recaudación",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMk1pSFh6SjE0TjBlLVBUbXBSMHBUWGRKd2x2QVRZQllhUkpMTHFRR0dhSE80aG1CMFVzM0h0aTRjWk5Bd3pNZE9ldWRCWVFFZHhmS3RjTEJrSlBFWnY1a2s3UEZvc19hSjd4ZU9hemR1eGMyM3cwd1RwaGppMVlsWXdPcW5FLVVicVI5dFUwcy1Td2RIQ203Qjhrc1dLY1FXdEk0emxqVmRHOHZ6RUtoTFhYUGs1VzdVdkNDTHRtdEx1X2pUSmhFYURkWVJ0UUVKaGJ5aV93bXlpRUZ1V2ZlQS1VNVBRNHlDak9uQmlnZ9IB7wFBVV95cUxOMk1pSFh6SjE0TjBlLVBUbXBSMHBUWGRKd2x2QVRZQllhUkpMTHFRR0dhSE80aG1CMFVzM0h0aTRjWk5Bd3pNZE9ldWRCWVFFZHhmS3RjTEJrSlBFWnY1a2s3UEZvc19hSjd4ZU9hemR1eGMyM3cwd1RwaGppMVlsWXdPcW5FLVVicVI5dFUwcy1Td2RIQ203Qjhrc1dLY1FXdEk0emxqVmRHOHZ6RUtoTFhYUGs1VzdVdkNDTHRtdEx1X2pUSmhFYURkWVJ0UUVKaGJ5aV93bXlpRUZ1V2ZlQS1VNVBRNHlDak9uQmlnZw?oc=5",
+   "fuente": "El Tiempo",
+   "fecha": "2026-11-23T23:15:42.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "4 alertas del PMA sobre la crisis alimentaria que amenaza al mundo en 2027",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LZkpsSXVFdFFySmt5RXRaOEc4X214ZU0yWlN4c2g2MndXN1A4YmVPcHhhVm12M3JyU3JOOU5aSklSYnpaLWtqNEItOWVHb1dTZ19vN2JWQnY2N0VTcVBWZFIwTGZaeUp4MWx4WWx6dEtoOFhsMDJV?oc=5",
+   "fuente": "EcoPortal.net",
+   "fecha": "2026-11-23T22:26:16.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "Cali reconoce a los tenderos escolares que le apuestan a una alimentación más saludable",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS0xENEIzbHM2N0tvUk1ia3k0cEtMclRwSmdabkJZQkhCbnVBQllsWlp6YlRLV2xHZmFiaGJLOUt2clpXcjdRQ0tNaTNpOXQtdlJvWmRlTnBBQkxnYmI4U0lWVWZGQjk4OENHeGMwOF9HZW5qb2sxMEk1UEtROUwyX0FZMU1ZVk1vSjNsQjgyeml3MUlzM05jalVGVFJSeW5HV2JnZXpWbnlncUotMlhveTUwclMzU3VzQV82dXUxU0VRZF9NbEZ5RUdXSVpzNTJpd3dhZUZn?oc=5",
+   "fuente": "Alcaldía de Santiago de Cali",
+   "fecha": "2026-11-23T21:48:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Agricultura sostenible en acción",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOG0wdkxjQzhjQXlraUtmWjFLZjBCY0V6ejRrSVN1THhwUmdSZ05EbDZOQk52ci1vODRVWkIwdmllaldjXzhxanBNRGVybE5lVVkwU2FIa2N6VnJOTUVlQVVwT1dvbGF5RWs2TzQ3aHJYQ3BVVUNLbzBab3hFV2EtcGNZdDVsamllYXBFZjBIczRsLU15dU5kYWJrNDZjVXU4dWpKaEM3NHp0X2pw0gGuAUFVX3lxTE1OSnhQZ1I0Skk3Z19DVlpMQlJXX1hOLTlIQU1aZDFhZFJhcExheGpQMHNncFJVaDVfRkJNNEwzYi1sU2liaHlWek1HT1J2T21TUm5hbEZzMW5MS3VxVnVsaTdwWDAwYU1GbFVmM0tfV0daZjlKUVN5cG1tcEQyOG9XTlFONlJnaHRfVDBwOEVlcTZHbGJnSWI4c202aVdpUm1FVjZIZGdtMUwzck4wUQ?oc=5",
+   "fuente": "LaRepublica.co",
+   "fecha": "2026-11-23T21:34:14.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "El Banco de Alimentos reafirma la continuidad de sus alianzas sociales con la Alcaldía de Cali",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbjJUbm9xV0x2TkpicjVQNmEwanotR3pSQTRqRlNvSERkVHFJUUU2aVE0MTRGSHpYNzhKcVlkdTlQUjlOM28wc05RanNON1oySjg1ZFpWX0tNdU9oYVhzaEdkRkpoblZNaFBuTlZLQngyZ01Pa3hzclFjN0duREVHeE0wam44ODN2NHROTzdhU3NTNUdoQmc3UzE2ZEhpVGc0TG9ib2ZzS2hKYjM4QmZxOW9BRzJsX0JVU0lJcEVjdnNDZGtud1gyTU4yTERvOV9QaUFZdGtTUnBwbnpmeXN2a0dES0I?oc=5",
+   "fuente": "Alcaldía de Santiago de Cali",
+   "fecha": "2026-11-23T21:32:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "¡Comedor Renacer en Conkal! 169 alumnos de primaria recibirán desayunos calientes por primera vez",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS0dpcmR4SWx5LWw5THNXeEpoVTNRRHBaM1ZGUjhkS3dFMV9scC1NVjBudVNyV0xRdzhhLXN1Q09EdVZTSmtROFhBemdPMVY1M1ZJSGVrakJUZDZ0d0UzcnBhUU1UV1JxbU1XdGtvWTRjTU9QSkFacDZCNTJFS2tEczd4WHBpd0pMbS01dmdVb1RCUmdZNW9nNi10a3dyS0VJeF9UWGlfZTAzeGZkWG9yanVJOUwxeTRBVEJ6cGFZZnVvUkEyVmRlMQ?oc=5",
+   "fuente": "Tinta Pública Noticias",
+   "fecha": "2026-11-23T20:33:47.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Panamá inaugura prisión para personas que incumplan el pago de pensiones alimentarias y multas",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYXY0dC14aTdicWFiSExIZFZTRWdwZXFubDlxOWx1cDlMRDE0QmRXZjRva19BXzBfeWdMOG5MNGtuWWFhMlpaOW5IUzJJcTM0RnJST0JJcTlQMEZ5WUw4N3dEcW5iMEh0NlBicHVOZlh1amFZdDE1My1KZG1Ud1kwUTVnbVN4cnRyR0JheFRtUUNCZjRWQ2xiUWV5OHJPME93d2I1ZjVyZUowWXZfMk15SWVJa3hvZ1VRV3c?oc=5",
+   "fuente": "Noticias Telemicro",
+   "fecha": "2026-11-23T19:43:18.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Banco de Alimentos celebró exitoso cierre del Ayudatón 2026; más de $1.032 millones y 1.450 toneladas",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLXZCTzBzeUJMbk8wTnVTeURkbFZnOHg2N1lkN01wRTlvellnUUR3Qmtxc3VuLWx4NGxfZXBJYTZfM1dMbldJR21OSUVMaWJla0x5X3FncVhvc0RSeFR5V1JVZEw0U0JjTnVlUlFCWUVudFdjejhQUDNYQWR3QWk3eTNZcmZfOWsySHpKdnpyMVd1eUtjbE01eGRYaldDNWduVGhzdTh0T00wWFNSN1BSdElWVExDbUoyaHJrQ1dQQTllZTR2R2dKUGJoQkF0eU5HU1l3YdIB2gFBVV95cUxPNGlnZFRrWGtEYTVkdkJhb3c5Q25OYW5xSnJBbFp5VGhYY1VMZ3ZRYmthbml3Q1I5dTdsZFB3WEp2TzZ1cmlQaDZuVTZtdFFzMmJSejM4Ym9jWDVPVkRIZmhsX1AyeFVWM19McnVYRTRjdTRIc0YzdEhNWW52bFRCS1paYk5BU1Y0MFpfWUtEQ3JlUTBNbHNqSFN6S2RzeWY2VUpPUi1pVWQ3Y0E4VjFFYkpueEt5Zjl5b3dPNWNQaFp4QTJTMVByNlhFZkozMFluMjNMLU4yWEkyQQ?oc=5",
+   "fuente": "El País",
+   "fecha": "2026-11-23T19:20:52.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "En Illinois se habría triplicado el número de personas que padecen de inseguridad alimentaria según informe",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ1VFa0RwYU9EZ1VTd0ExMnhJQzVyajhtb0VHRXdZWkVqbmlfYUpHV2xJcl81WlgwSGVLWG1vLXAyWE8zMzcxV1VHZVVQUnJ5Qk52YngwNXpWZWFqSjZzeGJkQUJUaUVQaWVGNjRhUG01TWVrTmdTdVRDSXJKN1MxYUJRb2dkNUZrbi1nSV9fWWstVTU5RFRTbnZUZFgwam00cHRXMmRheHlXM1ZLVWtRRDZfeEdFTjZNWllZb2JSUTJCUU50MlVaYVVRUTdyaW9wUjlyTFQtU1piUQ?oc=5",
+   "fuente": "Univision",
+   "fecha": "2026-11-23T19:20:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Casi el 60% de los trabajadores que reciben el PAN enfrenta inseguridad alimentaria",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSlQ3OW1OWjhNd3drNDFINlYwWkhJN3J0dHl0TjQyM0xhUmNZeTAtanhSSEJrUUNMMXJEOF9rTHZNVDRqM19EN0dlbEluQ25lOG1UVnBqY3lvRG94a19ITndkRm1rSThXMzZCaklMNzU0MWg3d1NwbjlabGw0UjNwY25iSlhaSE1ZWmc0VVU3bmRlTXZSY3BaUFhHVzlQdXNOWUVuWGdFSDVEOEJLM2pkLWp4X09JdGl6aTBYVktnUVM?oc=5",
+   "fuente": "Metro Puerto Rico",
+   "fecha": "2026-11-23T18:59:45.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "El pan hipotecado: Un ensayo de ARNA sobre el impacto de las políticas alimentarias impulsadas por el FMI en la región",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR3FoN1ZST250Y2lxcVNONEZnRTFRN1B3ZE1wZXdqeEItRXN3bGxsWjF2aFBuOTU0UUEyT0NqM1BJbFp2QnpPTl9ZV1d3Y1h4Slk4Y0stUkpNNnh3aDRVNHdVdXRiREh1eVZjLTh0QnRhNXlhVXJfQWpQQlZPS0JZdkxhZVBLRFZwbnk1Y21TeHZIMWowWjNfQXMyLUxpQUdnLXBSbnhjdjJtQWZxeWdSRDljSDBSRzVTb2FDR3dTb09fU3M2amRIY3BtekhvMndLWHotdE52c19Fc0o1WEtv?oc=5",
+   "fuente": "La Via Campesina",
+   "fecha": "2026-11-23T17:51:13.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Día Mundial de la Pesca: la riqueza de nuestros sistemas alimentarios acuáticos",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGJvcEtYbGVqU2xsc1hfZGh6dGNDYjl2eEhtbmNha04tRlVhM1dOZEo0VS1SWjY3Tm8wZzZxMktzcE5iNkF5Vlk3YUJRd1h4ZzdvQXBTVnpIY3JhT3hzVGt2bnFSNk5CQ01rMmNhdVlhQlFGNlVpRVVFRnlmYm5sbmM1LUlkckZyUndaR2k2YUZnNTVyYUFZR2ZoSi13LWpoSTNqcmRJSQ?oc=5",
+   "fuente": "Razón Pública",
+   "fecha": "2026-11-23T16:00:42.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "El PMA anticipa una grave crisis alimentaria mundial para 2027 a causa de El Niño y las interrupciones marítimas",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3bGxDNktpRVRrdmVrR3JWMnFRc0NCb29MWF9UQ09sWVd5NDZJWEtpVnRYWnJPb0hsTnBIZ2hXTDl1UXQ3amd6cWRzdVEzYVlFUV90aGFLbzg0bmZncVNlZUhQdXJiSjljREMzR3lWdjR5U0poblE?oc=5",
+   "fuente": "EcoPortal.net",
+   "fecha": "2026-11-23T15:54:59.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "Estudio revela que trabajar no basta para evitar la inseguridad alimentaria en hogares con PAN",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNVFZOdVJtS1JpS0lMVXFpMWFIcEZCY01EMTh4U3VZSVNScEpXZlk0aUlibDVyTjNfRnNYUnA5WGNhQ01wV1VLODdQMGpEUXhucHhkTXplNDFqRHpobS1Wbl9YYlFHeXJkek96TjZzQU84Qi1FY1BlLVM1Sm80ZFZNdjBpTUF3NDc2YVpJcWVVTkRHai1mdWM0S1pZY0FMd0pQM3JxRDdzMUNyX1pkbHdoNktFNzVkRnlCYzQ5M3FvT0RkY3M3cUNIWDhqSUV3cFRCc0dYTFNiODhad2VCaVFCY1ZnME45SDh5WVJ1NXNVVkF5aWhhZEpyT2N2eWtmTnVXa2dsVTZqVnplRlo1OFc0bFNVaXM1Z9IBmwJBVV95cUxPZXVHODhRSWRNWXZNM2g0M2NxblF0ZGFtZ01ESlRETEEwUXlIUThxVk5sZmtub3lCZjZjbFdqS0lfamVUYTFNN204cXlWbFNkVl9yTGw0MktCMF9fVnEwSXRSX0hDT2dDSjAzNWFGY0o4dExFXzQxMGVoN1l3clhFUWJKT21LSmJpcGd2MVAzWWtoOEdsNjFnc25MTWF1NTF6cTFhX1U3OEhMN29Tekt5Smd6R0FwTzhrUDVUTVpkTnNDMkgtU2pYa3p1OUtXLVA3ZTFjb1NobXJRX1FRQ3VWaEtDa1RFQnZiZUhKb0hWU1QwU2tyNnVhdXhnQzJBb0tFNk1xNlQ4T0k1N0NJaDlyT3hoZ2owN2VUTGdZ?oc=5",
+   "fuente": "El Vocero de Puerto Rico",
+   "fecha": "2026-11-23T14:42:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Seis de cada diez trabajadores que reciben el PAN enfrentan inseguridad alimentaria",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUHhzUXVQLXJpN2did1ZwMTFjQXRNeHU5TmhJQ01DMl9LMUg5SlRRTjM5YWZfT25maW5HZTl2b0tXR1R4RjFhS0RfZDROeFhNMGtrSnhfTlgxTWItbmM4VExrRkZ1UjRmSTFraTgzRm0tMVhzVjIwZkxQZ0JhM1B4ZXZvT2NoeFp0THh1WEphTzl0Mm5PRHdJT2E3TmxYRndmc05tV2dWaDZSLVNScjV1d1YyaTF3aHJrdVJkTkoyNVBJQWMzX1hUSW1nMFd4dnR3VXprZTBPTHdxX2haUFVJOUdQdjRQeldEQm1sckxWYzF5d0JYVU1BSXdLNNIBgAJBVV95cUxNM0FkQWFVdjZkZUtUUHJLVHhReVVEVzZ0N1FJa0pPMFZzcXdUZkhHeGxvcWtBNndCOEVhdU5mUGNfR1RfeEFYMm1Sa1g2TjZNLTNtWTFtRHh4Z1NMUWcxY215enZHLXRIU0IyNXlTakNvVU9pYXpCeUJtRmE5a21kaUNOQ2F1b0JEdXlGc1dlRV9vUnp4X0U2cThHU1RMdjBsa2lPTjJ6d3ZrZnNqOEE1emxYQUxjM0E0YWp0WGFUbWd3d1NSb0FGZEVkcEE2YVJzR1ZSNFFNcmphVkMxOFoxQ1ItY1k1NXhUaHpZdDc2RlJQUmJnV0JfekZRME1uZU5S?oc=5",
+   "fuente": "El Vocero de Puerto Rico",
+   "fecha": "2026-11-23T14:42:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Campesinos de Miraflores le apuestan a su café para conquistar mercados nacionales",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY1JmV2dEMy1xNUkzNVBVclE3dnNhbFZkT1h2RUc1Yk5IbURtSExpcmptMjg2Sl94MDJ1VlA5M3JsZjBZOEN5aHUzNTVIN1VzQWZXV3FEQXpaLXIycVdkektrSlNqWFl0bmN0MFRMMmpmVEhBT1VKZDlyRUtkUlNNc05UNExyWll6YUR3NlhhaFlPODQ1aFAwUjJVSkhOdHpaOTdMQ1RCZ1VZMW80U0M4dzluNE9NVGN6UlhyR1ZWODVWYTVsdERB0gHbAUFVX3lxTE1kQ3VBNC04RlE5RWZYMnpmM1Y1WDFZWWRHQ1N0eG1Rc2xFTkxqMVE3MzZscnVMRjVWN1JJTEYtd3k0Z1VnbHA1Nm1BZTNLQmpjNEhqQjZIMnY5Y0N5Rm9tQlhaaHRTeEowenN6Vk5RaHNrTFk3bmF3UF9QYWRGdlBhS3dTaFFFSEJnVjBnNjFrVEVfRkNvcGdfTjF0b0MyZzJ2WTY2UTZNSXVtWVoyOUdabDRSQzJDT1pNdTFxOWplMk5GelZ3UjJ0ckt6aUFvakNwMngzdzNtVGV5NA?oc=5",
+   "fuente": "Caracol Radio",
+   "fecha": "2026-11-23T13:50:30.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Tolima invertirá inicialmente $92.000 millones en el PAE 2027 para beneficiar a más de 98.000 estudiantes",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaDFNelNhOWxESUx1aDAtMWZQSmhzRVNnblliaUpqM0lvM212Y1J1VXdnOXMzMVBKRHdqSXdObTNVMTRBek1NS0NXaXB0d3A2cXlsUzZ5NVJsT2IxbGg2NjljNlRfaVk5OHo2Zmg0YTc1QnFJQzZ4emcteE5NMmVFR3BPNV9nb0p6eW5tNUhKcWxDdmlzNnVmZFBab2t4MWQ3VjBZNzdsX0xhTlhnMmZ5bHZOdlFiMUo0Y21vYmxMcmhlaDZUVEw2RGl3?oc=5",
+   "fuente": "Ecos del Combeima",
+   "fecha": "2026-11-23T11:53:22.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "El PMA alerta de una tercera crisis alimentaria mundial: 266 millones de personas con hambre aguda",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX2trTnR6UlRQVFlXUzN1WV9HbkZBcjlGdEhORDNtOGZ5QlBPbGlybWRoX1VRa3d1N3BFQ2xGVDBVSWFSN21nQ0F3eXJfcThwanlicnhVUmpjNXB3ZGZYY0Y2YzNnOW44dlcyMG5faVlVTE9sOWstSGVnb3k5M085ZXZHVnRIVUlKR3E2eFNLcHR0S0hBeFVGcy01MmdXemZEajBIdVlXa2xyYk85N3MwZGZjOA?oc=5",
+   "fuente": "Tu Diario Huánuco",
+   "fecha": "2026-11-23T05:10:56.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "Fondo Alimentando la Paz impulsa 63 proyectos rurales en Colombia",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE11LVFXWG92aDExeVJNSHZHaEZVendyTl9JNm1IZkpqeC1hVV9McGNHbi1GQTdzLVEyZC1fRUNFY0NjZ1prNVZCT0Z3?oc=5",
+   "fuente": "Soacha Ilustrada",
+   "fecha": "2026-11-23T05:02:06.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "El régimen cubano entrega 131,000 hectáreas a privados y cooperativas en medio de la peor crisis alimentaria de la isla",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxON3ZkZEpESkExNnVOcXBfWjVzSFNsc3hqc01EM1BnaWdiNEtSb3ZaMkV1QjQ5anVkRWhZTHExWFRWRzJPNktYcFhaUi1raU9leTl6QTE1TDROSS01cGVoTUp1bFlEY203aWZRV1pGT2hkckVuVHd2YmgyU0xsZGJJb1ZTOXdQd0UxTUh2Vng1Qmxmb21CMVktNklTTEM0bW5nUnk1a3RLY205NWFPRTZGeGIwd0EteFJZN2RUNXA4XzJQT3hQelo5NWVvUmhZcXhhMHRCcEd5RTkyTEVDRlhBazNpZnliWDZtZVVYMEF2VnTSAYsCQVVfeXFMTV9aM3NpcktqeHI3b1lOSE00OWlEZTRDRjZzYlRUc095LWxwbkYxck5rVlRoNEh3TENaTl9saXc1djZTMnVMVWJmTG5NWE1sTlpXNlY5NFdTcFFDZXppRnhQSlRveUlkc3BTbFNjTlRDQ2NIcks5MEUxUE54bGxQQ1JTTVk4OHZOZWFWbDFIckNveUFIX0JrY3dJSFRtUzRDMnVQUlBZa2lPelFhLXI2Zmk5QUFmdjdIZ0VWaDB1YXVNMnJWQjA4TTk2c2M4enpwbkNIY1VWMTdSdk9QRWM3S3c4cXV1dU9seVhKUEJkNW02UHNEbzY0OHVxVk55ekVMU0FBODVWRHI2MFg0?oc=5",
+   "fuente": "Infobae",
+   "fecha": "2026-11-23T00:04:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Luz verde a $92 mil millones para alimentación escolar en el Tolima durante 2027",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbjhJczVJSHJHbDdudkNaM293N0dud2xvZzY2NFpHSk13WXc0SEpBSEllWlBreUZCejVnTlBNYm1SNUZSeEx1eWZKbWN0bC1xRlUyOFpaUUpaSG9iRFFhMVIyU1NnSzE5YjdNYzlIcmtpVGpUVl8tTFJza2FDLTZGdHcxSmloX1dUMlowUGdxTWtnX21ISWxUNnp1QVluT0hhdjJYVDh0anBjWnZxNkZZdEQ1cUkyeUJacVVLWnBxZmY1c3Z4NkE?oc=5",
+   "fuente": "Emisora Ondas de Ibagué",
+   "fecha": "2026-11-22T22:28:40.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Más municipios sellan convenios con la UNLP por alimentos disecados",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYnlUVHZva1NjQUExZ2xWLU9Jb1F4bWNEZ0gtSkJubmgzV05EQ0hxdEpMNG8tSlVUbmc4bElBQWNoSDdQR0IyY0xoX0VvMkJYbDFUZXh6cGJ3NVlkQzNsa3ZJZWx0Q1dHR3oxMVp5LXVkdW1oLWJmTW1BMk96T25UNHRhTFJXb3RLTzFJRVN2dkF5N1VBTENhTVMxa1c0bUIzRG82R285V1Q3enM?oc=5",
+   "fuente": "Página|12",
+   "fecha": "2026-11-22T22:24:45.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Los juegos del hambre: Amanecer en la cosecha ya está en cines, reparto e historia de Haymitch | Señal Colombia",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS3VWWUkzMDN6V3RmQkJmVTV0dFpXX2ZQNlZ1R19DYjlLTldUTFk0cW1jOWdDR3dBS2FZVlVnQXREdXBSQTM5cGNHVnFCdFh4LXgyZEI5Tlp0eUNfbFRpU2lnRGpGelk3RDVGbS14ZTliSjkyOXdBYzQ4THotdW90eFh6c9IBhwFBVV95cUxNRDg5eG12X0dGam4xSzlUb0VxOThPcVh3ZElWOGk1Sm5TQTFMT0pMUWRrQzJRenJUZkpxTHo1eTN3azhpQ1l0TFBfM3BrTW9wMEd1MXp1M3FDZmlVUUZlLW5NQjlMX2F6VUg4TU1MQUJvX3VFeU1LT2lwbks4LUxBMHJ2QkVMX0U?oc=5",
+   "fuente": "Señal Colombia",
+   "fecha": "2026-11-22T20:11:36.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Ayudatón 2026: Banco de Alimentos de Cali busca recaudar $1000 millones y 1000 toneladas de alimentos; así puede donar",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRUE5akpDUHctQU03emN4MFZYaWlhWjlNcmg3RGktTG9ZeUMxcHRuU3JRQWR2eEJRcjg5QWxFX0U2MTNWM2puajFxaU81ODNUR1dDU25aMWtzZWlCT1d5cXExR2lJYzhuSTItQmg0a2VlQjMtejhQQjNPc3NaZndIR3Nfa2daRlMtcnNKTkhyN3FPTE9jV29uQ2Zhal9iRGx4VnNMNmtVbnR4amRYMUtndFN0Ukh6TTUxMldzMWd4ejNkQW9NMjR6Z2xhekxNR3l1ZVVmMi1iemZmaVBhbDRTcTRvelFMVXFNNklTTtIB8gFBVV95cUxQajFBU2NwdU5aXzlTRUliRy1ZZzlvNUIzRW9qZjJfQVNsMzFFck4yaTk3dkJ4RkhoMzJ3enQ1dmZXODBBMTl0bkJLVnAtZVdWNFNxOUp1NmVGeURwQzA2WWJYZ2JaazkweFl5a0VKMExyVm51bTFIbnl4Y2xsTU1Qby1sZ0hGaHhNNkM3aEhOOV9jOTNZcnExUjlBRFhFYzI1SEM0UEJtR2h6ekhEVmctVnhwRmdQT2VwTVo5dkh4M0czVmpfMC1zZi1vMDMtN1dUOE5DRk9BZlExTVVpZ3lIMHpaaTJGaGJoUFpPU2ZQcktNZw?oc=5",
+   "fuente": "El País",
+   "fecha": "2026-11-22T18:03:44.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Ayudatón 2026, EN VIVO: el suroccidente colombiano se une para combatir el hambre | Banco de Alimentos de Cali",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcHdJcW85aEJqZjJYMWNOb3dxWHpmbHdqb0tYTURPRlcxQjF1UGZqSFdZMkU2Ym4tRHV0b3RrdVo1ZjNkLVpmSkNFNl9fNVQ0eDYxRWRXTDNpOEM4dVJ0Y2g0QW9GUm9FRDI5eGVESi1IQllBLS1NSERKdFlvOWRBMzhyeUdDN1VXUDlNYmJwNmdiWHNwZXdyTFU4X1Vqa2lvSkMteXdveFYxd0ZDbnprdFUzQ1QyYkhZaGJBVWc0Vlc3VDZRQndtendpTDEzQjdjcEZ5cV9GV2N4dHpSY3E5LdIB5gFBVV95cUxOYmdwT0FqLUJMWVNDUndpUmEwWVZpV1c4b00wZG02TEluZXVkdlVnZDQyOEhjMXVUcFpoUHdFWkczcDk0Q2NEOU9vcDdBR1ZQVzFWWlEwTXRTdDNreFBsb2sxYWhDaFlsRGpicTVkdFFyUmFIOXoyclZ3TnFwdGFKV1NNN2dJM2YxektlQUpHWmRYZDB5TGsxQ3QxN09yazdEcG5ualpYVHFiNklyWHE0bGlHT3B2QW9UZmhmSVY2enNIUDJvRU1SdWE5bXZ0bjZlWThsUm9Fc203QTh0b1VKUkxhU195QQ?oc=5",
+   "fuente": "El País",
+   "fecha": "2026-11-22T17:56:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Primero empresarizar y vender para cosechar: el giro definitivo del campo",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUtNTjJtZnQwbDU3Yl8waG9pMWhNNi1lZEtQVnJ1UlFQM0hnN1VTdC1YZ2QzVnZhVHFfSzdSeUJRQ0VLUGRWMFp5TGJvM1UtMDV1LXNHbzFhb21waGZjUWRiLVRhUjNDcUxrcVlWb25zc2hTcFFzelhNVVdvb1JoaHNvX3hyQXlOdG1KUkM2ZXdZejh6bVZ4N0ZveDZpQUk?oc=5",
+   "fuente": "Blogs El Tiempo",
+   "fecha": "2026-11-22T16:46:08.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Una escuela de Georgia transforma los restos de comida en abono y recupera alimentos para sus alumnos",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNemZncEFrY2pBV3JXSTlYYWVaVEFoWm9yY2E0VGwtWGRVejlwR0dXSFdMU29zdklqMU5pUXJGblVuWnRrdzM3RXlvOUlRNWFrVDQ1UU1ueGFOTFdQTkdLZHV1UFBMaHJDX1BiaHlvcXQxTXcxUVZwQnZPOFdXUXppRFlaSTFvTERMUmZLOXRfa3FEa0J6Y0VyelJrR1JnTkRIdkVwWE9Qa09fR2VQMzhsQlpUbFRuMk5fbGxLU284U2RyOUNuVlNDTtIBzgFBVV95cUxQOHJ5OWN5UGw4U2FNeFd2SkthazhBS3ZxLURwZEtvc3BOYWw4NFR6Q3F0VFhDODJ4ZTF4YjJDZi1mR2t6YkRPRl9xOHZ1WU0yNjh0RmxXUWVVejBiRDNZMUpUMEMxNkgzMElFbmtSR2x4eWxCN0ZNc3VFN1Zta25leC10YU1EZ0NzWk84aDJtVHgwVm9nT2ZGdmczTFBnUEZDeE9hVms3UTY1LU9uVzBpQmlWNGhPc3hDRTV2ak45N2lMQVFIMnpIT2o3bGxzQQ?oc=5",
+   "fuente": "Clarin.com",
+   "fecha": "2026-11-22T16:39:06.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Hogares afrocolombianos de Kennedy recibieron alimentos de su tradición",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSDI5TGs5YVN3elVBenNkdnJodF9KR21obG1wSUtLQWkzclc4ZU9Rcy04OVZBRzl5cXk2REEteVFOc0gtMTBIYTBxUk40X2pqc3d3eDVQd19LYnFfMW9keXk3c0Q1YTdPM2JpdldEa244cmRFODJjZlhaM3ZZMUZSQWJhT29fVjJnd21iOENwN0JNN0Jpd2w1di1od1VZNjF5MWZyM1VablF3NmVoY1hxbXJyU21yYTR3ZDRpdmFUc0p1SDZh?oc=5",
+   "fuente": "Bogota.gov.co",
+   "fecha": "2026-11-22T16:38:55.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "PMA alertó que el mundo podría enfrentarse a una nueva gran crisis alimentaria",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaUtUTlBqWGFtLUZHTFVuN3RmMG9sRkJuVWVqQ2xMNzBaRzF6RVd3bzV2Q3JpZHUyX2NzeHA0SHdSMV8yMjJYS3V2bUltaDZKejBhV19TNEN5SHE1YUZMZkRqWUZVWmdscFBlRDJKUWxlYkxSYVFfT3RUSHJibVplaDZuMm5femtrekV1a3hMNUxNZ2VGc2gwMVRndUxBQW9iUkxycFA1a2xpNVlYc3VUamRtbFVBSUtwNzNMenlMbUJIRWpuZHhz?oc=5",
+   "fuente": "televen.com",
+   "fecha": "2026-11-22T14:30:00.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "Colombia enfrenta su mayor inflación de alimentos en tres años",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRTNiZlJfVW5LdkJhMjk0Sk0teFMzWEYtbzZxd0ZQRklhUERNbWVwNUh5NXVJdnN0OWxHbURubEtlQ1BBVzROY0dPTkd0OWNCaXdZZHg1YXZTUXo5SEtkbEs0OW1HV1RJSFg5aE0zMGNtVzl3cVU4NU1DdDh3VUFzVEt0TF9HVDVEeXA4ZWFNRdIBjwFBVV95cUxOanB2ZGtfemhQQXVhemhqUG81OU9oQVh6RG1ndEpIdWExZ2xqdHVjWjZaSlVJQUc2b2Nnd3pxak1WSWJPS3hfRlFJQk1YSlBPRUpSRXVwMndRa2toc1dkc0RIZ3FfaV9jc2ZwN293UkVHQm8zRG9zd1RzaW15eXpZWGR3MVA2Z0Nib3pkZlBCQQ?oc=5",
+   "fuente": "Noticias RCN",
+   "fecha": "2026-11-22T13:00:20.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Gobierno cubano entrega 131 mil hectáreas de tierra a privados en medio de la crisis alimentaria en la isla",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTW1Ka2N5bzVDd1JWRlJiRG5xSzNQNmthN3Vzd2pFcTd3eTV4OVZSWjJuZ2J2cHdRTjlCUm5XU2pyQjdOdmJZSGxoQ21qS2ltYVpjWV9LZFFIOFpGVzFqbzVKZmNyX2h3Ml9ZeFBMTXFMRFpKLVprYWZGS20yS3VJQTFXalFzSlJxSnpfV1FpY0VTLThoX3RrRDhTN2dMSVhtbW10QkViQ1dpWDJtN1Bqc1BZOHFEN3ZkUUt3UzhzZGttc1IwMV91RmcxVElZYjJ0dEE?oc=5",
+   "fuente": "OnCubaNews",
+   "fecha": "2026-11-22T12:29:57.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Canasta familiar sin IVA: propuesta del presidente De La Espriella y su impacto en el medioambiente",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMFN6Rk5OeXRBVEFINHJGMTh5aWRCV3ZuR1RabXJfTGpPWHc0NmdQTUZ4MVdzSU5pdEFDc3RJYW81NUZLOHU1eW9PdGpyTW1uaWxOcnVFUzhxN3RnLTl1bDZjSjZDdE5NNWhuZ1B5WUF5S2kyT3JRVUVVdnIxb0p0TWR0RHE1dHR6eVFHRjFsNHVOamtSVFhpTTVRdDUyUFQ4MEEzUDcwMEZWQVNiUzZSd1JKMGU2T2dHaWtiWU55QTFSbVgyNHJLYjJtWmd2T0R1OWpJbXFSVHFxU3YtejlyeW9JcHAxQ1Vo0gHoAUFVX3lxTE8wU3pGTk55dEFUQUg0ckYxOHlpZEJXdm5HVFptcl9Mak9YdzQ2Z1BNRngxV3NJTml0QUNzdElhbzU1Rks4dTV5b090anJNbW5pbE5ydUVTOHE3dGctOXVsNmNKNkN0Tk01aG5nUHlZQXlLaTJPclFVRVV2cjFvSnRNZHREcTV0dHp5UUdGMWw0dU5qa1JUWGlNNVF0NTJQVDgwQTNQNzAwRlZBU2JTNlJ3UkowZTZPZ0dpa2JZTnlBMVJtWDI0cktiMm1aZ3ZPRHU5akltcVJUcXFTdi16OXJ5b0lwcDFDVWg?oc=5",
+   "fuente": "Revista Semana",
+   "fecha": "2026-11-22T11:28:07.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Planes en Bogotá compra en Mercados Campesinos 21 y 22 noviembre 2026",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3VZQnZiXzk4X3dtVFFxSHdKVE9vRTFyUWp3MmkwZks4SW44eEhCV0RFZXVtcHc3VEtoNlF1bUdjWmRBYnRsd3lveVUzSm9zV0cyTEtHeWEzR0tsMkswSWltdmN3SzQzM0VlTHBQSzFZVmFGOW51ZWJsc1pqT1pBTktyZXBkQVVQd2t0ZXZvLUVEaWk5blZjb2pWLVZnRmUzajQ0WlNLTWRId0pSU1hZV2tpdlZyQ2RX?oc=5",
+   "fuente": "Bogota.gov.co",
+   "fecha": "2026-11-22T08:00:00.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "En Cali comenzó la Ayudatón 2026 para recolectar alimentos y fondos en apoyo a damnificados por el terremoto reciente",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYkZYYzR4Nk1hN1lQRWRyXzRRTnV3Z3JmMjMyM3ZmS0dXQkNCR2t0azhnQW92SE8wbkpfS0doUFRTNHRzNlNBbExoYk1NQmREeldEdHkwRE9JcU9WMGVaejl3SDJob1lrVlg2V1AtdHdxdFBfQU1ieHNyaG4tWktWTTFLdVJQVUpuVFk1dW9jZHJiUWVsRFdUQy1Kd3BTRkl0Zk5vWkpfMldSTTExaW1fLWlSMDDSAboBQVVfeXFMTWVSVXNqbEo4eVRrb2pteTJOMmxxandvNVdzZGVwTDRodW9JWVR0ZUZRQ0JTYnV4OFp0ZTRGMXBRMW5oendveERCTDNOUFZrNEUwbmtJUTd1aHVBRUs5NnFNMi15RXBudUJOQXRtTHhJaVRpd1Q2dEhVbGx3Tllqb1czeUM3clJjakdYcno0cnJXVU1BYUZpTzRIdlljTWpoa3ZmdzhRTVVHandLQXJPTndHM1ZRQlBWdmxB?oc=5",
+   "fuente": "Pulzo",
+   "fecha": "2026-11-22T08:00:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Veeduría al PAE 2026",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNGsyd2kyczhzb3VDYnhScldheUlFMHd0VDVuNVA2aGo4eFM2ZEhCUmFKOWdCbFNUcG1fV1BsUUlGOWV2TmwyRVZ6eDVZVzRhMEJ0NzRwcmczWHB4c0VLTXY3MDA3SGtIQnhTOGQzTHFVR1RTdm91Q1N4UkdPU2c1dFJoNXBZZw?oc=5",
+   "fuente": "Vanguardia",
+   "fecha": "2026-11-22T06:00:00.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Organizaciones internacionales refuerzan la cooperación global contra el hambre",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb1FwdXBXdXZIUUgtNjg5d2ZZdmJSb08xQTFZY0FyekhYeEJjR1ozUW1JQllUR282Vl9ZU2NNczhxQTBjUUtubDJURTVjcmZfUGxnQWRGbXZuVW5YQ2FId3huLVd0ekJfTW1SX1ctS1NNS2JGaEFpaG53el9id0tCOF9vSVJMVDZuNmdUZm1nemx6MWdyc3FSNHNrWHN0N1Myb3dsdkJoSzZCOHI1WGFJR0N3?oc=5",
+   "fuente": "HSB Noticias",
+   "fecha": "2026-11-22T03:01:52.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "Programa de Alimentación Escolar emite comunicado sobre incidencia en Loreto",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRWdFOXV3ZXVNZ1Y5RGNMcGNyRlZwNG0wNHhwZEFoN1NjU011X2I0anVZRlBRX29Dam54b3hFS3l2Z0N4ZTFkSGtlMVpoenlZZFlKYlNZT0JBUEpENldzTWJ4NzhOMXVtdkxnS3NFd3FzdkVSeHJUR2pHNlM2aFd1cUJlQ0JpZUlHTTd2OUNDaWxCM2lXZWVUNnZpYndmVXY0cXNtVVozS3BzNWNrR09BbWlBczhJbHJM?oc=5",
+   "fuente": "Agencia Andina",
+   "fecha": "2026-11-22T00:21:00.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "\"Los Juegos del Hambre: Amanecer en la cosecha\" llega a los cines de Colombia con un arranque de taquilla que apunta a superar los 100 millones de dólares",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSEpxUmczTGl5emlrTmttT0d0SEQwc18yNE1PTTFCc05XcXR0VWFkc1R3emRqaDZrZ0RBbC05ZDRvaUxrSHNKSTF0ZmllTTRyUE0xUkJzcHdKS1lUVV9UOVNJbzZ5WHVMSlVwOEltZ28xZzVhMFp6aFF5RDBQRUVfeXo2R2FydVNSUG9rcGk0TlBWZEZwbUhCREhuRXVieWxDeHdvYjNiTGtocG9ybUI2ZV9iN00tQlBDLWNlbldR?oc=5",
+   "fuente": "IFM Noticias",
+   "fecha": "2026-11-21T23:42:35.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "PMA alerta crisis alimentaria y prevé asistir a 91 millones en 2027",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM21oWU43d3d0Yl82Uy12UldORUlYanBaUTNHaXpOUksyMTNtd0d6dEtldlE4OWNBUFVzWVR3QjFVQXhiZHQwTGVBSUdhbnZQS1hPMFY0NF9PQTY3dm9YQ0VuQzMtWDAyTjM4WU1QNzk4YkdYY3N0Umgwb3I2ZG82VVdHRy1jVlpzMWJScjJzY1hkLXc4aG91TWFQNmJKSXc?oc=5",
+   "fuente": "Diario Primicia",
+   "fecha": "2026-11-21T22:36:30.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "Fuerte sismo en Junín: Disponen 500 canastas de alimentos para familias afectadas en la región",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN3VFSngyeTZqMlVfOXpqUnRtMEpSaUFNS1hEY1cyc2YyZzZ0VzZ1ak43ZFl5UWtIZ01WZEFqcXVRRkhsT2pyZnpQYkVqN2drRjIyRjZEamhTdkluemJKVHV6cHNaeHRxeDFRbTQwX0oyREozMlBEVEhKR29EdU4ybmpEMm5fRVZCd3IwU2FpdEo0TWJWN3B5ZUZHdUVpcEhfLUZjT1pEQkI4Tnh1bkpia1QwZlF3RWIzYlNVZFdsZDlVSll4RTFEYzJ5aUZkMTjSAeoBQVVfeXFMTi1ROHZzcEF0MHgzZnJYVlJuYkZGdzU3aXl4dHpJQVR4ZEIwV0paaWtjQmpPTzgtZWk4ZU5lRFo5MkxmQUFuN2NJV2ZnczVSZ21HMjJ4UU5qbWtJRTBoc0pCYnU4X3FwNk5IQzFYYktBb3g2anVwZFVOOGd1YXQxNXBFem81dDBfWHRvSDZ1d1lkc3RYVG5tT2s0eXU4b1hhWGI3Y1FOcFVNUGFwdkpyQW1vZzNDTUwzSXo5dXZkczhOZzBQekZxWlM4b2ZKQi1DVl9VQktCQzNvRzJnNVJfajg5TXNUSVdnNzVR?oc=5",
+   "fuente": "Infobae",
+   "fecha": "2026-11-21T21:43:00.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "‘Los juegos del hambre: Amanecer en la cosecha’: la precuela que reaviva el fuego de Panem",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY1dGTVBpZ0dGVVA2VTM5S3B5alJMbWlZR0FwWm00SUFMTmE0bVRJNDF1a0VzNFFKelZuSlFCTEFfRTlGejd5N2VpMm9nZ1hwSG4xZ3ZrVWhqSVI3YjRaakVkUVJsb0VicU90bHd3amxjbTlBamtfdGllQy16OWxoWEY2SWVfX2dHbnpsXzBLWXFZOWVqZDlhZ2dhRnVURDU4QzdBVDd6WE50U2p5emZLTUROazRFcDEzLWFWaVN0UkQ3Zm1qcFRRYWd1anVEa001Nm4tSlctRlhSS0trWEY0?oc=5",
+   "fuente": "Vanguardia",
+   "fecha": "2026-11-21T21:22:00.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "FAO atiende a 2.900 familias afectadas por los terremotos en cuatro estados de Venezuela",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ09MOFJZemZEVXAycm1FWmluWUFJanZPcHliWHJ0YkVCVmlyWEZIcTJkMjV1Xy1Zc21GLUZIdFlDUjhkNWdqQlJzY2RSSi1wQnpBXzYwczB6QXpvaGl5WGZpQndWZ0hNcXlvcTZIcFV5NUpLQmxRWDRWR0Y4UVFlMzVWY2l6dWRpc1c4TGg1X2xPekx5SVpVNzZOeE5DWXlyLUw1MHUzM2dRMHBGZ1lWdzdFRENNYTAtSVBQTVlvcFppNjY3bUE?oc=5",
+   "fuente": "Diario Versión Final",
+   "fecha": "2026-11-21T20:09:54.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "El Programa Mundial de Alimentos advierte del empeoramiento de la crisis mundial del hambre",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOUTI1c3YwbTBCRWpROGFBQzNJZ1lUeFU4b2ZCSTY1VTRXbUFXQW5LNEJNQ19tRlNJeW16YVI4RktiUWt2ZDNuMFJIUGlCNzg?oc=5",
+   "fuente": "وكالة سبأ",
+   "fecha": "2026-11-21T19:44:16.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "Valorar la contribución de las comunidades pesqueras a la seguridad alimentaria en el Día Mundial de la Pesca",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY0V6OWh4Z2ZmX1BwMWxpVTcyOFBoelNsZ3g1cjUxRDZrazBJX1pOWEotUFhSSkZENlMxWlJrVGdRUl81RE1ESnlhdVRqSF9PblJzZlBlVmNyc05oSzA0aXA0WHp0SmpDRXBqN0cyUGszVzBfM1l3UU5WVlVNU3M5VUV4ZE54LU5MZzB0MmpUakpoNG1OMDk1a1dQOVM2b28zUTZhZzFuQ3BacHM5SGZSbV9HY01SV2NNMHhYVHpVU2R0R1F0WDFlT2lNa2tSUmpUcjFVekZIaE4?oc=5",
+   "fuente": "Latitud 435 Noticias",
+   "fecha": "2026-11-21T19:11:50.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "La FAO sigue apoyando la seguridad alimentaria y los medios de vida de las familias afectadas por los terremotos",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU2s0eS1vWDhQdnZDNXN0Y0NzaFdDV2hNM3pOR3hnamxMMTh4eTdJZE55Qms3VFJ6eTloWTZOZHQ2bkQ0S2h1VWJ4djlhUlN4eWlqME03OTB5UkVGZHZRc0pkRUZDRkZBall0NUl5dEQ5MTBmSVZ0R2Nfc0FrODNVcWRGUnZZMEoyNDNSU3N5SUdveW9yWmp5SnJOejdEbVVuQVVlclB2ek9WRmROVzllMWR0akdLZXdsMmp4ZUNhOGZKaXZVaFpINGd0R28yYjVaOFp5TkRBYVRWSnpUWjA4V2hB?oc=5",
+   "fuente": "El Nacional",
+   "fecha": "2026-11-21T18:38:35.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "La inflación en Cali llegó al 6,68 % y lideró costo de alimentos",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTXFWN2ZGMEllOWRGenJwZTVqXzdMQjJlYWFFT3RBbWJsRVB0eVQ4Q3JzaXZ0YjFwSW9tWEc3NGtmVkROSkJwZWxiZlQ3OTdwRlFmNDlQNUFFaHZWaVA0VHVXMjk3ak5SV2MxcW14aFFjR2F3M2Z4LXh6eDdYSWliRkJ0NG5fLWR1UW55RVJRWkVXNzFYbVE?oc=5",
+   "fuente": "Diario Occidente",
+   "fecha": "2026-11-21T13:00:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Los Juegos del Hambre inspiraron una pasarela de moda en Cine Colombia",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONEs0YzRiMDBtM1h4bjI4ZVRiVWNUeUFkbmZaUVdtZXRYZ0lIOVduc0R0MUNrRGJjWVd1cFRXcTlDaUV1WF9uN1BXZ1VOMF9LUWxUenRta0RCX2tLYUdIbHp3X05iSXE0UHNKay02dkJFUGo0ZjI2M3Q2WHNrQUttbjRJQ0pSejhCaTRtREI2b1N4MXEwZVlJamNXNDV3N2JQOEk5RkFJMTZQTFVkOF8w0gGvAUFVX3lxTE9zSzl1NkgwYU1MY3U2VW10Q2lYc1Y0Wk9ObENCTlpIclZlbVBmX2F6TTRaNDVKVFA3ZU1hZ1lsdDdKVDAyX1Q2OUZkOUZPRHVNTFktREF1eWJsV0NORUg1Nmh0dlBsYkhVbmFDMmxHQTRFSmNDUUNkUTRfcS1jOFZPUDFCWUY0UUw5RmxXb2k3YVhzTHdzY1p3WVRWZ2x1UVh4WEFZNHZBU0RfR1FuSGM?oc=5",
+   "fuente": "LaRepublica.co",
+   "fecha": "2026-11-21T05:01:52.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "La crisis alimentaria de Haití se agrava mientras los organismos de la ONU amplían el apoyo a la resiliencia agrícola",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbXNVNnVuR3M1SXQ5ekhjMHltRWk4c1NqOFJmcFZ1NDkyYW1zaVVDTUtDbndBNFpOYjR5MXE5Rm5kUTZVNmpzTlptN3RzTl9rdkpGSWE5Y19IR3I4MExVc1BtQUE1SWE3TGh4TnlVdzdYZUl0eHloVE8zM2tZdFd1RnFpZlJLRXBZOFlUZXd4SzRkcG1ZVkJEdQ?oc=5",
+   "fuente": "Traders Union",
+   "fecha": "2026-11-20T23:40:48.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "Escuela Baquedano es campeona de la primera Copa PF Alimentos en Coyhaique",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVm5CbGZwM3BQeEpzcHhWNW02MnZHaGlqTkxQUk9SS2pEOWh2YnloeEY0R09pQm95Z1ZZbFBKMHB0bFk5M0FjbjRUYV9sMGZTeHNaNDRjVkdfdEhHV0treVp0NXRtSFpVQ0FCZms5YnhUc1BESk9aVkowSDhZRWIzT2dVZzR0WU9HVHRaUjNMWEhZeWRVLTlNS01uLWl5N2IwRnJ4R2RValpmWkpjQVp6czB1ZGdIenJTaUlzZEthcGRmWjBvdE4zWUQ0bnczQ2s?oc=5",
+   "fuente": "Diario Regional Aysén",
+   "fecha": "2026-11-20T23:00:02.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Estos alimentos en Colombia llegarán caros para Navidad",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUHg2cG1zVmpyWFRfczVLelg5dE53OTVCbUtLRU9BdzlWY1hSeTMxRTN0cWF4NlBvOVY3U3VUdGZzSEdEcUpIdjcwejJ1ZWhpWS1uR2JTeGpfUnpRVnNETThLb2Rsdk1mTFA2VjJkS25PRzFkazBXdVE2R0VudkxUWmt1bjQwblNINmlLaHdleF_SAZYBQVVfeXFMTVUzakFuT3FkbVg2MUZDRUZBbm0yUzdOQnZ2RFVkMG5tUGR2bG9mTi0wZ1BmRlk1MFVRQWxteDg2cGwwUFVMZTlxdVNDWHI2eE1Dekg2OHFtbU1CdnJDRWVsamJhNXJrc2paUGVDbkpOUTQxZ2ZqRE9jVzQwSEJLTjg3cGpfVDN5OTdUaE4yOHU1ZUpXMzBR?oc=5",
+   "fuente": "Valora Analitik",
+   "fecha": "2026-11-20T23:00:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Regresan los mercados campesinos: agricultores llevarán lo mejor de su producción a Restrepo este sábado",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZnYtYTZvclFKcmFNZ2c5b0NkYlZaaVU2WWhZOXRpa2RVWERESjc2dkxaYnFFWjgyWFNlLTJ2a0paenBoMlJOSGtmUkZXLUhRdVNOTFZRWWh4WlZmcWxoSmVxbkNSRy1nVk5id29FeTVtM25LeDFkVXh5Mm9YejdIdXU1UzFxMzJrU0lva0ZJa2JzQXJ5SUItZUxBQTZwRDRzcFhuQzdIQ0xKdlJKcmhLQVNPQkFlYXlrRXlZX1NoOW5tcHpvNzNUZ085a0gxS01jNFRoN1dhMGFoQy1QQUHSAeMBQVVfeXFMTmpCVjhHZXVXSGE1MGZKeHpPOFEwQi1zWG1xSkhGS2VjLVdIT1lRM1F6STNnQlgwUllkQU50eDBJT19Eci03b0xKcjNXbFpLNzVPZlNLaHBiMEE0bmZTWEUxMnhnd3JZeUVqV2Z3d2RHNUk0S1VHNzRUT0RyOTMtbU5PT1NuM1piWEtWZ2hDUG5aNm5yV2RXdWYzOW5IcXhaN2pOLVlHMXM0ZXB4ZFpLYUJDdkVJcW02bXBxY2dOd1A4N1Q2MjlJa0haNEdreTdITHhiam9WbUt6dlc5ZFdsSmdFZ0k?oc=5",
+   "fuente": "El País",
+   "fecha": "2026-11-20T22:56:51.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "¿Cómo afectan los precios de la canasta básica a los hogares colombianos?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFRTWEdvaXlrMWt5TExaU2lIMllER3Nza21TV0tKRThuRThaUi1taEstbzNvSzdmbk5mTGtRVnpTMVNnRC1aTThpVnF3d1g1M0xPblVKYzNES08yQTRva0s5Qk5FZmFRZGduRE5NNW9RaWxlMThxLTBxXzZFMS05VnBnbG81eG5FeTlCWmd5MVg4WW9iSkd0T0tWbl8tRjNVTzJyeWxIU3F4RkpfUkJneWJWT1o?oc=5",
+   "fuente": "Diario del Cauca",
+   "fecha": "2026-11-20T20:04:47.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Del campo limpio a la mesa: mercados campesinos y alimentos orgánicos conquistan.",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQy1IUElpUjZhQkw0akw1OUs4SVhtNlRPSm52UGQ2Y3RieDMtSm1DRm9hblhndmVxdnh3UW1jdXN2NnZJSnozRHNXc3BUclBQcFo1NWFwTGxaY1ZNUWtVOGVpeFRTeGtkREZXTFJKTzJ0b0x1RkUtbE5tM0ZvWkh6VXo5Q2xMLTdyZjByOUZubXZvMWhXdk81c0cxVGV3NzFKeHNDY3hDUW1CSFJ6VWZ1UzhxSTBDenpnVjNKY3JVNA?oc=5",
+   "fuente": "Diario del Cauca",
+   "fecha": "2026-11-20T18:54:46.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Enlace - El Salvador, bajo la amenaza de una crisis alimentaria por la sequía",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaEt5NWt2YlhvRnUxQWRJNmJCbkJDeFdKYUMwUXVGb2x4Q0ZqemtZcW1waEJ2V0VnZlpWXzcwR0h5TGFNYXhSbTFzdy15NWttem1OeW5IVzZXeXVNb1I4WXg5Yk9kei1DbWdkVnZ2S0RLUkZVclpxZUZEWExXUTdEdzYtSkpuN1lSOEVKajRlRTVHU1RRdF8weUVJVTlmZU5fM3RqOEF2c055cy1YOTJDNnNsREVpYkF1WkFrcTdRT3BWamhu?oc=5",
+   "fuente": "France 24",
+   "fecha": "2026-11-20T18:14:41.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Mercados campesinos en Colombia acercan el campo a la ciudad",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTJXNGdaVklidTNFN25pQ0luOWpQWXJVTzhpZkltYzQwMzZ3eHJvUlFtcDBhUzBMYThmZUhsUTVUbVJ2c0k2ZENRaGJHYWRTOGNHeUxmb3V1dkJUcXdGbWNlSjNZOUdxdlhvdG45bmJ4c1BlTlBBeHdPN0Z4UHRNX21OQnh2M01nVU40TmlWTGV0RklvcUFGSzl4ZUNoUlU?oc=5",
+   "fuente": "Diario del Cauca",
+   "fecha": "2026-11-20T17:33:55.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Agroindustria del Nordeste se consolida como la nueva despensa alimentaria de Antioquia | El Colombiano",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSFZNRFByT0Rad2ZjZTVJTmdHUTBIUVJZN2REWVRzUldfNXVIclp2Rm1YWm9hLWtPUzVCdURFcXlTWXYwOENRc1JMN0pGbm8xdGRmQk9GV19DOXFOZTRIT0lpRVRpU2JkbzR5OTRWbmhFM21WSHB6Zk5MVEVSMEswby1oTjZhQ1dyRUZWZ2JrZ2EyZ3lMNVI1M3lvT0pJRUl0YldxLWJvNzYySHR2cTZMa0pfNlRJNmRGSkZtR1N0TS11WTQteVpFTm9ISXJWdWFXVkdYNlY4Y3hxc25CSWfSAeMBQVVfeXFMT2dmX1RzQXluekpBa3ZKM3JyNEE3ZDl0RFdJNi1FbUU5QUlUZkZPcUdxTDlJaEktVFJ3dlRLX3VJaExSM1JBT1d6SHlJUDNzOHlaZEVhR2FPbTZrOWNycndBd19zMFNzYzg2QUdHbUpJVFpPcDktdTlYb1g2Y2Y4czBQeGRKM3Z0UWh3d3o0OXlDeG9jTFMwRGxCcWNpTko4b09odGs2Rk10SnBoSmdQamJVSW5hVGhycEhfZkRkSFM5MmdDdFpSV1dSVnF1ekhZQ19aa25pcHNuM2hqcWxNQ1lZelE?oc=5",
+   "fuente": "El Colombiano",
+   "fecha": "2026-11-20T17:25:06.000Z",
+   "imagen": "",
+   "tema": "region"
+  },
+  {
+   "titulo": "La taquilla está que arde con la nueva película de Los Juegos del Hambre y su estreno promete",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdFVJX0xhWVV6OVJSaXNSTGhhRkFiZ3V0cFVVSXZMT1l1cGVrNkdib1dESVBzRksyUVFLTF9SaThMWFQzOU1oVzJEVmdZSVhqd3JLa2ZVMUlURXNxLUtib2t5X2NCTXRnWDFsOVNFeXRRWjVMbE83V1JNTzFxWnhoOW9ldENjeUVBSmVRLUpGbFdfOUhlUFVMQlhIZGp3TzR2dWlHbGY2UU9fMFJnSzk1UWM1b091WVZRTDRTX3pmQkktbXc0?oc=5",
+   "fuente": "Colombia.com",
+   "fecha": "2026-11-20T16:56:37.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "28 asociaciones de agricultores llevarán lo mejor de su producción al Mercado Campesino de Valle Agro en Restrepo",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd3ZmMmt2aUdlQzFlSi1EQ3hTQXFiY1pxNHRySllGemFEcUp1RVJZM1pQRTFvSFZyak0wbkJPWld4UzQ1TGJqTXNoMzNhX1plamRnZU9lYnNTSGxxY1JTTV9IRlc4YTBvTjUtM0NEV1VlYk1penlTMzJtMlZLNTNPVWNya0VsbmhOR0R1LWpXOGR6WE1weGZtR1ZXWjJEbXJzbHc0bVktYjFEaUZ5SGl1aFRKdnZqM3RvSk1acmxpTVJ2LXVYaWk0ZTZBS0hNd0FyM0xOQ3RRdmFMM3BEbFVlYU5DNUZuckJULV9oTnJGNjBxYTZDYTJjVXdWYw?oc=5",
+   "fuente": "Gobernación del valle",
+   "fecha": "2026-11-20T15:40:00.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Respaldo masivo de gremios ganaderos a Fedegán frente a auditoría del Ministerio de Agricultura",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcG1CUlhLVkdWTG9GbTFaSmlmVXluZV9TVUxkQndGeGgtSktsaFhQejFXTVprcHQzd1VoYS16aC1PTzFwWlNqZlpYVWdzQ01TeDI4RW94RS15RkM2M2g5SWxBVGpnbWV5QjhyUm9xX3B4R1FvTF9hQlJkdld3M1NwTXhnb0RhVFhRV3hwb1VxUEpBVkd2T05nMlNEX0VnTkVxZmdxOXlvd2QxanJKS3Rjb1lKUGYxM1U1VlBwcVhQUFdGUkJjTE9yTA?oc=5",
+   "fuente": "IFM Noticias",
+   "fecha": "2026-11-20T15:13:02.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "La inseguridad alimentaria representa un desafío para millones de familias",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWllM09KTW02clV5cFl4Z0ZNcTZzWkM3bHVFWE9qRkNacVQ2eGFXRC1vVUM3dmc5UFNua0tiZzgtU0JJb1lqTVF1YTlfdkpfMGJRQkZGRHp4WDg0UzRYV0Z3YUZYYld0QlRoMHl5QTQ5M0dvWFBqaFViREFXcjFrSE5SNzRBV1BLazQ5ZkRSeEh3T0RpdEhRVUoyNm9BZXQ0T21qNVBsQTMtZjlibnpwT3NR?oc=5",
+   "fuente": "Diario del Cauca",
+   "fecha": "2026-11-20T15:02:21.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Crisis Alimentaria: El 41% de los Hogares con Niños No Cubre sus Gastos, Según UNICEF",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ0tXV3lPZldOWWFBWjFJVnBRbmhvWlQyeFk3RXZHV3F3dlZhc3dyVjZJcW1abWNSZXJwakRjbzdMdjJTUkFyaDA4NXE5c1FhN0RxcWpmZ2NRelZxMG4tb1VhSVkxWUpvc2RtT2VLN0VXYUFDTmxLVFBLRVhvVmEycGgxUTdsRXc4aXg1Ti1LR3ItREdBamZvU2NCUFJudWk2LTJQZnAtc3FrR29IWHczZU10RjBvQ2c1bi1N0gG7AUFVX3lxTE1DS1dXeU9mV05ZYUFaMUlWcFFuaG9aVDJ4WTdFdkdXcXd2VmFzd3JWNklxbVptY1JlcnBqRGNvN0x2MlNSQXJoMDg1cTlzUWE3RHFxamZnY1F6VnEwbi1vVWFJWTFZSm9zZG1PZUs3RVdhQUNObEtUUEtFWG9WYTJwaDFRN2xFdzhpeDVOLUtHci1ER0FqZm9TY0JQUm51aTYtMlBmcC1zcWtHb0hYdzNlTXRGMG9DZzVuLU0?oc=5",
+   "fuente": "Compacto Diario",
+   "fecha": "2026-11-20T14:18:16.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Escuelas Sostenibles: autoridades de FAO y del PAE visitaron experiencia del Jardín de Infantes N.º 237 de Los Cerrillos",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVDhtWGZ2LXp2ZlhJS1UyMldGcUQ1ZlNBbDlkOV9RVTRHbW0yZVcyWlNWSFVpNXdQLTMtcVF5NGIwX1MtNVN3NURIdEo5MFp4QWMtZm5VTDVyRjBScFZaX09wSXFPd2ZhN18zSk55OVlrXzdOa2VYN3l6ZGRjdmRoUzZtUTZOejl1OWk4SkUyUExlN3hYOW5oZ2VlRzZORkpWU3B0UlFmWnpuU3h6dHBXbzBPMllpV0xlQ2FQNVhxUjdYZkdfT3h3emJtaXBNWEdKdHRVUHJrU0ZDR0pWSWtDRVc5dThIZDlHZEwyM1RIbi1fOEY0UUVZbnV1aw?oc=5",
+   "fuente": "DGEIP",
+   "fecha": "2026-11-20T13:51:41.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "El PAE en Santo Tomás avanza y beneficia a más de 3 mil estudiantes",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFJqYmdfMERpeXdYeV9JYkhKMVdqNktCX25ncVZkVGh1STZMMHQ5SENQNzNacHR6VkRyMnpnQ3JZUXpGOGdJSE0zZC1wbC1tTThQUFNHWkdocjQ0aVMtTXJBazhOSGlZTXlVX2p2aUdHWmZJem92aDdEX0hlLTlZWlB3TDQ5YnVGTVN5aWFBRDlhckNLUDBxLUt1eXlwZw?oc=5",
+   "fuente": "Voz de Oriente",
+   "fecha": "2026-11-20T12:37:59.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "El PMA alerta de posible nueva crisis alimentaria y prevé asistir a 91 millones en 2027",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdzFWVEFXWjF0UDlFRnNtNnQtbldPRGZvSUQ0MFl0MTFQYndHX3Q5ci1lMkg1bWV5RGsxajRzQ2EzcWE1Ml9vUjlrT3FiVHZOTnFkeHlScVRGaGhyaTR3WWw0aGpDM0M2MEplMU5CUDJYeUs3WlZ6eUdUM0xIZll1U04tTXRkZElvaldzSERxeDZVckFndkhRVWF3LUtUYVdUaXhDVWlkNHJKbEQydW56MGVYbUR0QzRxNkZBZ0VPQTc0OTdkajF4Um1paVFITVpHejgxWDNnc9IB8gFBVV95cUxQMDIxSFp5UHhWSDJNVGZsRzRZY0h3ejYxOEhGdW05TDJYb0pXUmlodUlMMmg0NG9JNkV4eTQ3NzhNZnhJelM1Zk9ZM0JQT05Va1F0bXdKR1lVdWg0eUhPc2QzbG1FS3lLeTZKTGZZYkZJSEdkN1d6XzFUYnNIMGM4a3YwT2gzMjBKZ05EaXQ5cUY4S2RlbHdwQzB2SHp0UkxUZGtWNGVBLThFb2wwU01lRmh2R0dMUzFVM0JiRS0tNjFNaW44bnBGRTFZVi1XVUFMaWhfc2hRcU5FakU3RDN6eEVjWjZNazN6UVR3TUVVWFFEQQ?oc=5",
+   "fuente": "Infobae",
+   "fecha": "2026-11-20T12:33:00.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "Resistencia a los Antimicrobianos: Gobernanza de datos para la toma de decisiones en los sistemas agroalimentarios",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaGxZN2JyMUkwVzVLUHFsYTFkRnN0ZXh2UDEzVko3VTRScWZ6dlFpdHlicWtMbU1xRWZoZW5ibllCLWNuZmZfU0Z3RlNuUzlRZHVWbEItT01CUy1SSk5GQnFCMWFjSHVqRGIxbHJMaDBCbGZzdHRQZ05Ld3Q3UjFhazZOYzVzcmZVU21QcFNhaUJlLXZBZENQYnNtVEk?oc=5",
+   "fuente": "Food and Agriculture Organization",
+   "fecha": "2026-11-20T08:00:00.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Abelardo De La Espriella anuncia que derogará las Áreas de Protección para la Producción de Alimentos -",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb1ZaNGI1UWlacWlYQVE1dm9STzdPbFNUMDRYYjhVXzR4MC1BOWxEX0YzMEFhVkJYSVRlcWt5TFVsaDN0eWpVVFZoTDlxWFp6dDhQNUpJWXFqSWZlaGdYVXpPT2RPMy1sZzRjRWRsQ2NmaUk3OWlnSnMxUzhZUlV5TlFqcE9GaUhMWWVUWWViTjRBY2pORjRiU3ljaXJFZmdKaG56Ylg5UVQ4UnVpaGlXMnUyV2E0WHUza2RSUVduVTNkdGk3dVhRaWVac0hSeUxZNUJYT0o0STl6dFZxU1HSAeYBQVVfeXFMTjc1OXhFcUxhaTlaZDNiRnNXQVltQ0h3d2s3NGxiSFNTWklWWElPMDcyWTB5LVV1M1JRUGgyeFZJU1hNWmhxeGFfVUk0X2E0bURwbzI3dlN6TEFkTnFCRk5ualRrSlhiY0p2LVF0eWM2UzJmYzdGenFLakdnRXdGQ2hkMGk3ZDY0TUZXakhyU1hYQ1RXeXNZYUsyYmgtOHVSaXNENUxFMEp0dFJJM1pfOEd4REtocXVFdE9rUnlmeUlocVNXRDdlU09ETGVlSVdUUmVnT2FVUVl3d0NVd19BUzR6bUFCNUE?oc=5",
+   "fuente": "Emisora Atlántico 1070 AM",
+   "fecha": "2026-11-20T08:00:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Talento colombiano brillo en premier de Los Juegos del Hambre en Bogota",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQjhpMVFQaklKeHJBRUJjMmI3YjZnbzZmTG00ZnhkRlh2UksyVFZEODB3TlBYTU1SWWFkRk8yUXRYbmFvRFJHOHFkLXFDaWVYRGxGeGtMVjE4ak9lalhMcUV0azJJSzItNzdXMk9qVW5yNllCb2dVSVl5ZHlHdnJkN2ZfNVQybW9CbGwzMjc4YllHOXdBdmk4MndPRkNyTzVBNGVFaWphSU5SdFVLTGI4NGVsTERFMGV2cUVuNF9oYWpvV3ZnSXJaclRSZGFBVU9QdkdUN2h4MGJ3cFN0MW5DaEdOQQ?oc=5",
+   "fuente": "areacucuta.com",
+   "fecha": "2026-11-19T23:52:11.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Fertilizantes, maquinaria y alimentos: Colombia descarta aumentarles el IVA",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcElYQndTdHZXMUxjUEJBMWMxYWN4ZnVhTy0wVHZreW5pYWpoYmN3bndjUVBBa2JkWnRhczlUTlE3QzBuTjN3c201X0RFN0JIblFOOGpqbWYxdUE4WUM1TDVuek81bTYta0xPVk93VDhzVXpUV3BFdm8yNFRiT3BLR3E1YXc5ZEQ4dDV6MDByaVpTcFdwZzI0T2NKQ3QxRUY2VkVTUDNXZWd3QTNNa25QdkFLUk1DekpfVWdoS0Ntdm5OcGxDQVhFYVJ3?oc=5",
+   "fuente": "AgroLatam",
+   "fecha": "2026-11-19T21:03:36.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Ausencias del diputado Brayam Escandón ponen en riesgo el trámite de $92.482 millones para la alimentación escolar en Tolima",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMmhnS1p6NzBoTXZfbzN4S1FVZVBmT1l4TmtzOURDRjB6MF9oWG9KOGJ5N0VGNUw4VnU5TldPXzBSVk1DdlN5QXRlVGtWU0x5ZnNQQVoxUGJ5bkJLSlJYbV92Z3RVRFN3cVU4cTFyODhPVzRxWmtLQXJyZWswWTNVRU1EaWE0djNZUWsxc20zeVRldmc0cGJkTXR4YlJySkRjXzVVS3lPU0swRDNJV1QzVGZsaENJcW5KZ3NXQmVXVk1ZV3JfaUlKbjFLcUlhU1lXV0luS05BYktSc2xtSmc?oc=5",
+   "fuente": "PYC Noticias",
+   "fecha": "2026-11-19T17:01:56.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "La falta de lluvias redujo las reservas de alimentos en comunidades rurales de Centroamérica",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdFlMQWYwdjJxQnQzalNhb1FzZy1KYVUwWUQyZ1lOTjdYXzlzSUhwRkwtZWZsbmZDV2dxR0xNZm5CVGI4Q092cjZxbEhOWXVlaVVXM0Vwc3hka1JLeC1rRG9lTlJkNlcydjBHT2RRRGVaS1JoalM3TndsUDZXZXp5dmptQVJnYXRBTzZZUmFPYzdBQjBwaDBVWXVJdDFUR1FkdUM2MnozTHBxclhRa1pOWEFIelZuOGFWb2tUOGtYT2tlZV84WEY2ZWZjYTNHcmtUWmthStIB7wFBVV95cUxOWGR0c2RwdkhhaGhEWHdpdm1xUDhQMU9EVGRwX2VmSlhNakUtakl5RjBVaVdYQ0x5SUpUTEFOZWRrdzJSVWFwMWVYSjBkamgyTWVEUENRcXhWUldKUmhGT0g0a0VVaGVBb19VQzhMN3VWMUF4UEZOUEUxZW9QSEx6X1Vhd1dXdHEwc3BrZEl5bF94ZEFvRks2enNUa0xlSjlsU29pRzc0NmcxUmg5N2xhNklOOWRSRldrNkR5T2sydjBjZnFnMUVfVURXampSdzcwUHNJc3lJM3QyNDdfMWl2YndEU3FVa3g5S3RHZHlYRQ?oc=5",
+   "fuente": "Infobae",
+   "fecha": "2026-11-19T16:42:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "La nueva película de Los Juegos del Hambre tendría un debut de taquilla para alquilar balcón",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNczcxX1RWMHFHQVBOdkstYTMyRzVRMWJFbTNvbjlGN0xadXhtbTNHdW1LSjA2VV9nTC0tVzc2MmJHZHlZbGtxbl9QMTcwc040UVBKRWExMUZ6amZGczBmY200ay13SHp3dTlNWncyWFRsRlZySW5YTlBEWUdqamhuemNpVDhLbWpPaFJYR2ZSNmFuOFJIbzM5SXNHZjF4dXF5aUNtdm9JSnpqRHcwWEtDdU10ZUl5WGttMTNMWVVpWmlwTjRDbUxjX3VSOGo?oc=5",
+   "fuente": "Colombia.com",
+   "fecha": "2026-11-19T14:26:32.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Venezuela proyecta metas hacia Hambre Cero 2030",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVSTE1akhRTnc5TkNFbVdmODhOckUzWTJkZmJ2QU5GZ1RXMG9taDVPZ0JWYkk5OFJGWTRDVGQtTTU2c2RYMHlzSWE4RG9fWlFJV1NKV3VXb2jSAWNBVV95cUxQT05Mdk5IRWVqeWx2WDM4aEZBOFJHVnJyOVA3cjBDcVJTX19xS203SjlkeGNmT3hBeEZjZGs0VkYyYmtCQy1TSW5DWkJodHgxUlh3SXIxLUNZNTRLN2FOeVpBeE0?oc=5",
+   "fuente": "Aporrea",
+   "fecha": "2026-11-19T13:58:46.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Ministerio de Educación reafirma dotación de cocinas escolares y fortalecimiento del PAE",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMW5TZEx2dUhKejlGcTVqX3lyQTYxbE5uSUhieS1haHV4eWp4aXRtdUVhbUJWcW83b25aeWdTdmp2NV9YcDhkYnROYk41NVBTUFRqQ0t1a1IyS01SRFk4NTY0Vng1MUVkY1BTZnV1dUxZUnJvbUtTaU1vQ2FwbDBuUGl3RENocTVlbjdLR0lncFBRU09kck9VZkVNckdZREdQSmJNZ3dKREFmeUZ3d0kzY3FibDQ?oc=5",
+   "fuente": "Ciudad MCY",
+   "fecha": "2026-11-19T12:48:04.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Las lluvias inundan refugios y agravan la crisis alimentaria en Gaza",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUdQYnl5bzcxaVZQaEJlQUpXR2xETFVXOUlsT3BfUjNROHBhX0VITzRjSTFONEQ2QktJaVhTVG45b1czbW5jT1QzRk1OQXl4RWVyVG5Nb3VRWFR4anNzbWIxdUZUV1F4NUw5QjlYYnROdU9oWGRDOTVnazFXQjZPamNSaXRnd1V1UE1HMGVPbkxocGRSNkRBajF4TVpaSFZqWnkyLUpBUjl5UVdvcWZ6NmxvZHdhRWhMemxqbG1CNDJEUFE?oc=5",
+   "fuente": "Identidad Correntina",
+   "fecha": "2026-11-19T12:35:53.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "¡A hacer mercado! Estos alimentos bajaron y subieron de precio en Corabastos este jueves 19 de noviembre",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSjF5dHRuSTh2ZVRZWEVSSjM0Wm5iVGhzWWZmTUczZmdkUXcyM2FGMnNOTzUzdU9LWmNfOElVZ3JxN1U2blJaQWxuajdwQVpTc3FLY2hyTXRGdEFDOVlrOHVOTXFyU0M4dHV6MDdIUnkxeDZ5Q2UzdTZ4NHpRZWxpZ2hRWDlJVjFMS3g5N2RsenNCZ24zVVR0bGlKakZ2R2xUUlgySkF2TWRUSXJx0gGsAUFVX3lxTE1zUi1yUF9wYmFLUDFadUlrb0NSTF90Vm9nbG81QkZ5VnItUkhvX3lyOUpUc3NsMUR3MHBUWVZOcGtKVjVhSHZaLXlpRkZQd3Z2cDJ2dEp3SlI4eWdlbHFxRkZpQ1J3WFhmb09pU1QwczBmV1BCdTl3ellSZlo1bjVKRFVNRkhrc2NTWEFfSGNpTTFISmZub3BsNHY4MDFnX01vRzkwQVhKd09WSmk?oc=5",
+   "fuente": "Alerta",
+   "fecha": "2026-11-19T11:32:49.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Min. Educación insta a seguir fortaleciendo la alimentación escolar",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rYi1oOTJYV3VXLTlJbnZBSEFNWG9kOVNqRW9qTVJQYXA4bVFoVEt6U2hGekN4b2NGQTNzSWJ2T0Y5aWpqeEtPbEF5R3IwNk0taFFJV1BB?oc=5",
+   "fuente": "CiudadCCS",
+   "fecha": "2026-11-19T08:48:45.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Alcalde de Fresno pide eliminar las APPA y concertar un nuevo modelo para el territorio",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOamJ1dm9lYUZGaHl0Rm9yVUNXc200eTIyVDlHd1I3YUdmYkxVd1Y0X0NUWlZ6dWp5VTBlSmVlQy1LbXptZm1sWXhTakpqWkNDZTVET1NkZFRaTnZrenVCQ0hQSUVPb0h1aFdIWmNtMHpvTjM1MFRHTEVSdjMwdi1XblJ1YTQ1d1ZHX2dMNmVIMVlFNnR1SFRiZVdxWVFRdk01d3JQT01NbW9iUWtsanZsVWhoS0dFaWpRaXZEUUladFFsb1ZGOUR1ZWZ1SmgwX3o5?oc=5",
+   "fuente": "Emisora Ondas de Ibagué",
+   "fecha": "2026-11-19T08:36:04.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "En Boyacá, las huertas escolares siembran conciencia y cosechan hábitos alimenticios saludables",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVdEa3JpNHdFUmNjdG5Ed2NuRi1lalR1RVZOeHY1QUxNdDJPY0RYUXdscjh3ekhHSS15MHZMWTRpb2YtZEtMTEtsU215WGRYb2trbVR6NS1Ic291S1pPeE5mM3FMeWRsMzlRVkR5Tk1DS0paRzcyX0tRV0hyWmVvSnAwTGpZTlRyUWFUV1hER2RVdlpCWDZDbTVBZm9CQVRPLXByNkZIVW43T3gySTBkdnJsX3czcW5BS3EzV0Zn?oc=5",
+   "fuente": "Gobernación de Boyacá",
+   "fecha": "2026-11-19T08:00:00.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "¡CRISIS ALIMENTARIA!; DE NADA SIRVE HABLAR DE BIENESTAR SI CADA DÍA HAY MENOS COMIDA EN LOS HOGARES DE LOS MEXICANOS: NELLY MÁRQUEZ",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWVhnczlMVnU4eUpDR2VjMkJQamY3aXNhWkF2V2h1RW1nbXZfeHh2ZTVJZTZaMl82Y0tRdm0tOWtMT1dyQWtuSWNvZEhCV1ItOHQxSE55dGpHNlBoN1M2QUpZNWtTZHpRSFdTOVdSRjV3U2JrSWpBLWRzYXg0dlNIOWtCQndueEx5U3lTMldmV2hmTmVBZjJqODJvWC15dlF0WmV0QWQwb3J0UjBfRDVFdEFTWnlOU0g0WXhLNzMxQW94MFh6ZG82TUgybVZEa3hwR0otLVI3eElTU3R0VXZ1TGxnVzdZVFRma0o5bXM3SnFncW9ZRFloVjZB?oc=5",
+   "fuente": "Tribuna Campeche",
+   "fecha": "2026-11-19T04:11:40.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "\"Los juegos del hambre\" inspiran looks hechos por estudiantes de moda colombianos",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT0Zhb2lQQTQyV05vd0ZlNE1raE94X3h4endxZ3V2cEtLcW9NLXcwUHNGVmxHQWVRalBmYm9Jd1hlVXV5SjhGMDhjQmNJanY5SkhLYTFoQjRMeWpPblNJa1V1Z3NUa3RHb1pVTmNPM0h0RDJqdlczemhrNjUxTHNVR1JvMHRoanFOOEpmaTY5eGx0TUE1anFzSVkybjh5SVNwTXBXVmVaTXh6UGpTR1lnTVlTTnE0X0ZPcVl3NFdxQkRyOFB20gHYAUFVX3lxTE13UFdIY2tXMUVjWXNNUmR5b1E3T2dtNjVaVVVOWk45c2h6WndkVEhIcHJ0ZVk1dVEwc2ZmYUNBNWt6dDBiZmFldmZpdUVlcTdmVEwyWkdqTWFnN2RCT2dLNXFjMXhLbG8ycWJrQ1FHMVBnMnM3cWMyTHN6SFl5NWdYZkJYT0xxcDBhTzlkSFdfY1J2UW5IWjlnYW1SZmVhcjNPMkZ3YzM0c0hhTU9oUW9rTWhVOEljU3QwajBlSWhsRzcwLVp4SW5XeFFFeFpBcHhwajNsVWZlbg?oc=5",
+   "fuente": "El Espectador",
+   "fecha": "2026-11-18T23:00:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Huánuco: escolares mejoran sus desayunos y almuerzos del PAE con verduras frescas de su biohuerto",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZDY2VDlWVkV1TFEtMy05d0Z0UGNpdG9EbGNEVjdOcTJfLXlkdlFUTEUzM0FpMTdFQlV3LUg4M19JQk9nVWFBZXM1TWpxWjN0OXNOejVDX2paRDlXSlFmUUNIbkl4SE1LWGJKSlFROUN6TVFoNHctRV9aQ0NfTnRxU1lBcEFWWVdhNnFadWVqSmZKZVpIWGlKOHo4UUJtWWhIWDFKV2FRZ0k4aVAwOWg4RTExempkLVNwc0FvQXdiUElZVERRUXdoa20zeGd2Q1pwVzl3dndiSnFwWEN5SkHSAfIBQVVfeXFMT2pwdnpfbzlNS2RYSnhWRERMNUlZbjQxc09CeHNLZWFKWlJaeGw1UEQ5Y3hCVWZuOWZvTUNxWjVNb0o5MXZqaXEzMk5mM0YyZWg3ZFIwV1p6ck43c3oyTDh4X21XdUxrYXdhbXN4cEdjdTZXSFJWcnJVTW5QbnNHcS1aVjd2Wmtxand4SlBnR2gyZFhscW9yNjVhZG1haG04R29wWDN2YXFmWS1TRU1wQnBRMjZHZmFnbm9tWFowc0prU2NYM1RaaGJRUmExRHp4dGlGX1NhMnJkYkNJQlZfQ2I0LW40d0tDS0RHcTEtSnBjVXc?oc=5",
+   "fuente": "Diario Correo",
+   "fecha": "2026-11-18T22:44:04.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Avances tecnológicos en conservas: el futuro de la seguridad alimentaria",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemJpRHNSTEZvYlJXUjNqUUs0TTUwelNBcU02dHZQdUJNY045b1N3QTVMNFF6bGNlQ2xNNVc2bWRTMWVfekttS2FRaTR6Uk5HQTBsaURkenVDM1I3ZjkwdzBwTFotQlB4VVg1aEhaOHctOE13eWtEX2MyLWFWenUxbEszV25uYzhqejJxVW5JeHktM1RaTXRvMF9EdUVxQ2JqUUVxbTUzUQ?oc=5",
+   "fuente": "HSB Noticias",
+   "fecha": "2026-11-18T22:11:31.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "La moda inspirada en Los juegos del hambre llega al Bogotá Fashion Week",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWmxOM0d2NDZLd2ZLazYyYXBXUmNZRURVX2s4QXYyb0lZVVI3UWw5THAtblpMdkNqX2lUZW5DTzk4RlloNjZnM3NvYXhIbEt1TVVZSEN3S3lGdlh5TnZOZlRJdEFiekNoRkZtTV9XZTFpbWphaXZuamdZN3ZpYXZkUm9TbVVvZw?oc=5",
+   "fuente": "Radio Nacional de Colombia",
+   "fecha": "2026-11-18T21:33:23.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Lista de alimentos y productos que ya NO tendrán IVA del 19 % en Colombia y los que SÍ",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXJZaFR2TUZHZlJENDhPNUdjMndHNEUtTFhmYnVCQnlyNlhfLUxFeGxQVlJ3X292dlZIQldRQi1qOUNtd0liRnBiVTJfNnVHNDE4ZFJDempuX1BnczZFa1ZTcGp0eDB6SmVRNzZOMy10NVhfNlgxa1owa2Z3RXB2YnhfcnNhLXR1S2tFU2prSkVhNmFua2pHV2tSZnJxQnREMFViVmJKY1ZfZk9BTE4wd3lNMWR4U2IyeWtoSHlNbmZKMDlqN21SdHdCZ3VzNWlXWHfSAd8BQVVfeXFMUDJkN3V5RHZzRndTUTJmVzkxR25QZGVZNzdjR29Ca3k1SlowSW1NMWJwOUhPcmhLREhDOU5EbDFiQ3dSSk5INjRfbWREUVNxRFhhYUdvZjlaZ29ENkx3WDFPUTUyQ09xS0duNExXeldnQk9Hb2RnbUlkRFpDeUhlRjVxLUVoanpQVnhjdWpyZ1BDdVJlUmtVSTU3aG5XamwyQnpNU0EzMm5EQW1OTVJjZXg2Y1FoVk5LWjB3emxMbjNXZE1tRTlfQUxjaTZlMHo0N1Q1bVZ0eVd1RHJleUxWdw?oc=5",
+   "fuente": "La Kalle",
+   "fecha": "2026-11-18T20:53:56.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Aprueban proyecto de ley de la Representante Bleidy Pérez, para fortalecer la donación de alimentos y combatir el hambre en Colombia",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPODY2bjlISnExUk5FZVRhaVNRUzZzZ1EtVWdyYW1NRzRVWDNaX1YxREFYeWVNeFhZbWNBZWt3UGZ6R1ROR095SVo1YUxBSkZBaC1IN0tZdEFzbkdaWEpodGY4dTVGb01WSnI5Q3ZKZGtjTExpbWc0Rk9VSXJLcVlTb1lPZExOM3BVMVBqRVVNNURQSXNselhZNk1Ka3FmeDBFcWZjT1VGNFF5RGhVcF8wRnBMclVzTjZJNkZnZjg1TWtYVVBibU5LTUxweGEwTXE5UFVrN1RKWGd5b09hSEN0VmpaNW92dHRNQXZiYks4SQ?oc=5",
+   "fuente": "Cámara de representantes",
+   "fecha": "2026-11-18T20:10:09.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Cocineras de Monagas presentan propuestas del PAE ante Héctor Rodríguez",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjAyQzFNSnJwc3M2dTFhMWgzdDE1cHNLamxSWW9POGdhSVRBckZ0eFhaVU1KYUQzWWhsbzExX1JqYjZqLTlZYXJodk1GSlFJY3lZWHpNRUJhSURhVkhHTUx6VkRDMGpCZnZGdGhFc3gwbmM2NGNIZURoQ3U2aDhBT1ZXVzQ5aEpCYmYtOHViaU0zcWx3Qjl4NzY1RXJVSUp2TGZz?oc=5",
+   "fuente": "diarioeloriental.com",
+   "fecha": "2026-11-18T17:48:06.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Los Juegos del Hambre: Amanecer en la cosecha llega a cines en Colombia | El Colombiano",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSHhuMXd1RHUxRTNIb1U0R0tSTkFGY3lmMmxjYk1KcWtuNDVNbllqNjI1R3kzclpjZl9hRDg3RFVOc1NqTGxEX2pHdjRXdS03UHdfbVZ0d2FHZ0RxaFR0WVhNWXpESHB4UWdSeGRXVVk1dkVVSWVIcndrOFZDQ1pQTEtVNVhiREFxbVR2N01ZYXdLSkJvQzFleGt3ajBMNWhsbGo5S1BaNW1zZG52dnItaTJZWm54d1BjeVUxWmV6VDJUSTdPNTVKa25UemdiLWZvLWfSAdcBQVVfeXFMT2dFVWgtQXlPZGtNbTNLOE9XZTFEOWZ0ZTFRck9SandVTVh3em5oMzVrRElQWWR2Mk1YR192dzFnd3drSFpoOU1xdGJCemdtTlNsbmd4VkVSbmk1b1RtdE9IUU9reUQ4VXkxbGRRd2M0V1Vmdi14dUY1SnZseXBhMFl4VUJzYU9CRmttbUlGWHh4UWp4ZTJpWl9yTG5NLVh6Y1hKX18yX1lqQ0d0bmtJd2QxY2oxVFJGZHpFOEFraExKSENFUnZIMUJ3NXBMY2U4SU9GS2dEaXc?oc=5",
+   "fuente": "El Colombiano",
+   "fecha": "2026-11-18T15:54:38.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Alergia o intolerancia: cómo saber qué alimentos nos hacen mal",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3pRN2hTazNiT1RkcEdmMzRVWlhzbkxOMGJFRFNJbHRqVzlFVy1qYUF1T3MzUjZQeXprQllSaEJQNEd6YnAyQmlvRVdGbmN4S0t6NFhmTXp4azVfUUpJRXdkWjg3YVlWTUxCQmNWTkVTVldmOUJXNkNzczgtSFhwQnF4aGRzcXhiengwQjdaQ09wWjdZSEpULVFB?oc=5",
+   "fuente": "Ecos Diarios Necochea",
+   "fecha": "2026-11-18T14:58:10.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Nicaragua expone avances en producción y seguridad alimentaria regional",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHpNSldRaF9JTXhGSTR0d2ZxRngwNEtXamp2TVlYMnRfbGZzbzM2RllLYS1mODZLZkxGblRLVjJGdmFyM3ZMbmwyOFZlRWkxU19CamRreDFadmFKdXpkaXF3ZXFDZzdZVDZUUDlaQTJ1U2x3a194ZEM0SWMtZEhlQmVHRkM1cUgwZHFQNEJiemNYcHBhS2IzTUg1SG5uMTFwY2pKSXVFRFZIdw?oc=5",
+   "fuente": "La Nueva Radio YA",
+   "fecha": "2026-11-18T14:43:32.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "La Ceja entrega alimentos a madres gestantes y menores de 5 años",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNjlFNVNJUFh4TUNkUXZxcFhCR0dWSVdZLWdLSlc1M2lnREczRUJlUHp1VlhiTm95R1BvYmx6UlBvUTdHbUV1ckotSlhPX1h0d0RCUXlBV2t6MUp5TzctbFZsNEh3bEhWbGlzME1kb0pjbEl2Y2pyQVpLSDhMVXBmR3JvdnJUMmYxd0JQUEswVFQ4SWtkZnExZ0lvdHdRdw?oc=5",
+   "fuente": "MiOriente",
+   "fecha": "2026-11-18T14:29:06.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "La sequía deja a miles de centroamericanos en inseguridad alimentaria en el Corredor Seco",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQlZmNWFSSUNEd0lxMW1mUmJMUHo3OUU3WDk5WnM5cG9YWkJwQmljeC04STB5dXJrNVZZWEV1VkR2dDJEeGh5ZkRIMWRvNjlLams2SmxGZU9ubWpmZkFDMVdJTHdFbDNRaVZjb1RGRGk1Qk9pbC1SSnNZbVNMeFVQal9xRVFxS0ozSXQ3VGlVUXUzNHpNUU1RWExNSlVucGY3TjNjcjhCRHJ1aTdIMEVjQkJ2a3dUY1p5U2hUQWdLNy1rOU0wMUhOcy1DT1BJMlRDT0FGQnotM1lSd9IB9AFBVV95cUxPcFI5eVpmSGR4RndYaExKY1JmSUp2OEY1cXJod3lORWhoOTEwU2U5WUtrQVN4TUJpajNDTUZWdnJsS0pVY0RLOFZWVFRlcTREcHpIZzNqQWkybHdmT0tydlN2RkZ1Y1R6czdhVkdtc0ltV0xhTE5OYXN3UG15OXJLUy1lVFRPRGNWNTEzZnJtd3NMSGtrTm5EWkJEak5MaTZrUml6a0xuX1UxU2tCa1RldXBMUjYtOS14akI2Y19ySDJkb2lid3JOeUJKckRJYjh1eFU4WWpHdWZ6d2tBOFYzZXloTl9BRE0xVmJIdlM4YU13YjdW?oc=5",
+   "fuente": "Infobae",
+   "fecha": "2026-11-18T14:18:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "BIDE, un reto de 21 días que promueve la alimentación saludable entre las personas mayores de 55 años para favorecer su autonomía y bienestar",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWlVyOGtSbVlFemxKcWhtajlsa0pwaTh0czlhdGhRUGxhNmVfYkVJVm5KblNtWU5qb0lKS01ZZEtSRENFRlA2THh2N0xrdDhpRnBPWm1yek11U2hReWZ2UlhXazlxcHkybjVfZUNlNVJCMmRWQkoySWtlYV9pcWhtWWhMcDJValZmMnJqNUExbzR5RTg4d0lHNjEtQ0hLQ0JOSWtsZXBsdXdzR1FvVE54NUhFM0k0Z2YzV2UwQzlpZTdMRG9EMUFMX3BnWTQ0RXZNc2lnUXR3cW92ZHNObUxucXFHTWUzcDFRaU1RZm9R?oc=5",
+   "fuente": "Gipuzkoako Foru Aldundia",
+   "fecha": "2026-11-18T13:39:48.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Gustavo Idígoras respaldó la candidatura de Manuel Otero a la FAO y afirmó que Argentina puede aportar un nuevo impulso al organismo",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQ25GYjdEYXphWWhjcGxRU1EtMXVkUEZYb19INXJMWlExTXJsdFRiTU5kcHZ4QllCQUJtZzQ5MDhUOTlpZUV4SUtzamZJazlqZHRUa3VMeDd1YVVYTHFVekNPbjhjTEtXYWxWOHJHczBYMEFKX3Bsd1F0WGNjS2JneEh1VXR1T3ZHTF95TzlWUVIxWWxkdGlicDZSeGZYM3BUMUE1S3h5SUFEek5JeGZzWlhPdjZyMmhuVEVsZXd3WVJybHZWNHNhX0U1YnljMkRFUFVnUEd1a0RnWlo1V3hkQTVibHZxemlpTUZaaEMtR0VLT2R0WTZKOENYc25NTU5POUp1bEpSSnhhZDYzWE9CV1d30gGXAkFVX3lxTE9MREt2a3ZiY1N2cERsWjNHTTYyMTVEZmtTTXI0S2NxWWRGbmRXa0JIbDUwZ3pQU3dwdTBSVUwtMzZPX2MzS3NMOHd2d2hDMjBmaFNPQU1qRFRUbmRZb0duTGJmaDBGWFNtWmdxLVJZWEhNTnlLM2RmdWlSb0M5Y09VcnRaR1NMY3ozYTRQUVJ1dXFwRUhpTklOcWpONWlBY05SU2dzQXd5azllZEk3ckIybVMzbXYzZFkwTmZJTVRpdEdOZ3ppR25uR2twYTIzVW1wVFVlR3BGWWNiTXEtTDlSTGJ4SlF0VzNWZUtKdFExUjJpT240X3VzLTQtRVBydkhhTkhZUHNZdkRPZW5vcW1wYWVjX1BTcw?oc=5",
+   "fuente": "El Observador Argentina",
+   "fecha": "2026-11-18T13:33:00.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "Venezuela ratifica compromiso con hambre cero en II Cumbre Parlamentaria Mundial en Kenia",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcVRVNksxQ0F6SXZWWVBDbTRXenNyN3JQd21lRGNxQlpzZnRjaVZyMGs0WWxJbUFjajh5d2NicUphaXFtSTJ2T1Z5djlDYm5CTEc5aldPQXcxaXdEbzI2Z0JBMS1nNG9CdUs2bnIxcVpLcU5pUTQ1SXFueFB5cW0yNWpUcE5BZnRLWDN6d0ZGbnp3U0s4Y3h4dWFvMVdEd3pYMVlQRy04QTU3M1ZNR0FLbjBhRXZKdw?oc=5",
+   "fuente": "Ciudad MCY",
+   "fecha": "2026-11-18T12:30:19.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "La Solana: Un taller de la OMIC desmonta los bulos sobre alimentación y fomenta una dieta variada",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU3R0NFJTTnFqVG5FcGZXclJST283czEyZXZpazVCQ1R0NXd3bUJSamlzUG9RWTMyLTlhYklqb3IyTkJqbG0xOERKcVhOeWFyNVZNUTkwLU1tNmk2b05BYWtjVmJyNDVuSVRBa05LcHROdUoxRzIzY0JZZFVsWFpoVEJ5NUtDS3dKbThadUJGcVNfMVlFSmY3WEduXzZiOVEwVFU0a3N6VkQ4RW9mX0Q3X0lOb0RFdDlkUXI2Zk5SRUM4d3YzQlVGemV2V1JWX2NfbHk1eFFuTV9OT1JHcGVxVFNR?oc=5",
+   "fuente": "La Tribuna de Ciudad Real",
+   "fecha": "2026-11-18T12:10:52.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Arde Panem otra vez con Haymitch; ¡Que inicien los Juegos del hambre!",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTkc1ZDBVWjA2c0F3a0pUZ2FTR3k1N0J3Zno2VmxTNWktWlZ0UjNwc2FLZGZGWnd6TnAxUy1ueGgtQ0RCZkZUVXB6SFlwdkJQRTV1NEliZ19BNmZOSjVNTjE5LWZ5WkxDYkF3YU1fRG5TLXpZdG9tbzU3djF6SDIxVTk3bHBHV2gwV05UcldJZVY0Zkh6WnBGTw?oc=5",
+   "fuente": "Periódico Zócalo",
+   "fecha": "2026-11-18T12:09:12.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "La gran recogida: un seguro de alimentos para una población que ha agudizado su pobreza",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTG4tMFY1MDBNTk5WWklZNkc3bDBoM1V3YmhSZ1dNTjVwX2Zoa19RN1A5SDI4RVVBNkljUVJObm9uUFJ4aUk5bDNPRjJLUmdPLXBPbTFLYXBRcjUxOWRMa1MtNXJkajJzemVnZmZ1YU50WDIzT0hiS1NOTkh0Ujd5bDlhNUJiMGFETXRuS256MmttWElzZHc?oc=5",
+   "fuente": "Corresponsables",
+   "fecha": "2026-11-18T12:06:49.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Por primera vez, la campaña “Ilumina el Mundo” llega a Ecuador para apoyar la alimentación escolar.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZVRzTWVBVVRIUzFsMi1LTWo3QnZtcFdSOVB2MTI3STZFUHQ0X1JuNjJ5aHRZb3JGaGd6M05rM0F2Y3p0UnhOanE0bm9BTzFBSTR2RkMyT1BCYUdBZUZfWmpYUThQSDFHbjdIWjFoQ3ExRnQyZ0dSSEJHczFJci13U3lwenc3Tmk0QkJqbXo2cmdlSG0wUUI4T01Oc0FaZE1RanRQNG9IQ2YwSTJCSzhyNmR4Zw?oc=5",
+   "fuente": "UN World Food Programme",
+   "fecha": "2026-11-18T12:00:00.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "5 alimentos básicos congelados que pueden simplificar las comidas de todos los días, según expertos",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNExrUmJ0aWFvX3lLcHdCc3FkYjVUaC1CVmp0WFF1b0FsdWFLbXJhUnBZMmpTR3ZESGhITUI5S0xhWDNMSTA0SGIwQnJqMzlobWxzM0VqcHA4dkxpU3EwbjJuYjFaWG1wbi1sMWp3VlVhWmY4aFJhZHUtbWRJZXJhVDkyRll3b2JiQ25wMGs0N3BGellKSjZhVU1tTTYyM1Q0MGQ2czFKTEE5eTRVcDl3MGdCaVpGNS10NGFQQWNoQmt4ZTY1dzM3dnJvSjZhU1d4alFsVWNra2E5dTU3YWfSAfgBQVVfeXFMUHZvNzd5XzFlc0FoNlpOUEdkVWsxOU44cnR6Mmh1WThEdkxjNml2ZkZTVUppempnMlFSZG0yTkVBcEZPSURtSmZTRUFtZ3VhUkNvUVNnVElYT2VVWW1PdllNNzhKR205dHhEeEtwSXhNOHB2UXhPVENRUGdsS1M2SGJyNlJ0dmdZS0xILU9INUV6Mk9ISmRUR3ByMWJtaXVzakJlTzJsdVFCX1BvRW9rYjUwNGFDenBQSjFGVWtqbHYydmR5dkJzSF9oc25iaVhndzlRdHp3SXRkYURWLUJnZG1xcW5pMFNxRmtQUEdjSmNONmVIRGVIWm8?oc=5",
+   "fuente": "Infobae",
+   "fecha": "2026-11-18T09:00:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "El comedor comunitario Puente Aranda beneficia a 200 personas gracias al programa Bogotá Sin Hambre 2.0",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdklQSEFTS2lZZWhVeDJscVBkVElmRXhCbXpqSTEwaGUtTkp5aXZOZVQ4RlZ5aUdITW5ubE9yeFBaRU9kZ2FVN2gwUC1OcXRRQjl0RzBJTmwxeTU1ZkVCdHpyRkcyOVVoREttMVZMM0xkc2E0VDlRcVRQSUpIUE4zZVFmZ2hJTjZxTnRmRmpfQjJydHdoUV9JaGRWLXZ5U091TWVYckduNHBBeDFzcjRUTVVJYjlrb3JWcU5xNGItQU5meXM?oc=5",
+   "fuente": "Bogota.gov.co",
+   "fecha": "2026-11-18T08:00:00.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Crisis alimentaria en la República Democrática del Congo podría afectar a 30,3 millones de personas",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQlhYdmF2emxNT2RWZ2RDOWlHdFZLejB2OWtVTGg4WFZ5MGxQWExTRGYtbExJcW1qelZYQ3ZUNl9YeVNSQnludHpraVZreEFTdFYzLVFQOXZtSFlHcmpVMmtTR1BUYjJDLTZCSm1kRUwzR2hTSUZqLTRwNU9xOTN4c1JIVlBvNzJqdFloNGF4REZrbktGa0hfSnhQYUhGUXZoR2tCd2F6U3Bwb1Rtd0lTV1prSVNsMElDNmllcnd5MzhSODRuZWtqV1Z2ajlQWjFYa3FuUHpn?oc=5",
+   "fuente": "laGacetaOnline",
+   "fecha": "2026-11-18T05:32:31.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Gobierno no le aumentará el IVA a los alimentos de animales de compañía: senadora Andrea Padilla hizo el anuncio tras reunión",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOQU4wRHhCVm9QcFJveFZubk10d0hnRUtMMW9Sdk9KZHg5NXR1TGV6eG1paDVUN3RlTzdZV3dKVnZLbUl2c2F6M19ySHRXc3ZoVXpHREkzZnFVOGxQZlN4c3RGZXhsbWJnSkp0VGNiZ2RfVFRITnBjZnFiakJSczlnenkwQ0dmak1BNVE3MXZUU3NzSWEzN1F5NjdJYlVzX2JFbGxTVkp5UV9kUWZFRUFoTjVoLVRLdnBoN25WdGFoZlRzRnR6N3ZKX2R0MGZraVlXRk9EOHBUNDJLUmoxN3NyVHl0a0w5SGh5UU9qZndUOVpXSHcxdzB1dzNuMWVmWFVSQnU3X9IBigJBVV95cUxQRVBkc3FCdlE2b0NyQjVqMUQ2UGhadndKNG05NGFXY0hYbjBfNzFuTmVLT1pBUHd3VlZVVjNBMm9VWDVZRTE3V0NvcDhJeHRyY0Jrazl3Nzl2S2ZaUHlqRVZjZFdJRmFwZWZfN0FhLWZkMlh0NEl0STQwTTFvOHlZbmVwRUl4SmRMSHRrbUl1c1lxOWw5NGg4TUN5Wng2c01SU2E0TEU5WW90Ym5zS2RrcGF3dTFfeVAxZXRoVS04V1RTbTRKdHlrVzVORE5jNXRHNVZiU0dGdkFlU3hzMlFIek52STF0RWhKSTRMSlRXcVBIWUJHT1d0WVBQczZnb1RlQUtqLVlaZjdldw?oc=5",
+   "fuente": "Revista Semana",
+   "fecha": "2026-11-18T00:26:54.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "IPSA y MAG exponen logros nacionales en seguridad alimentaria",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbzBVbUlVQnF1dXQ1emFCS09naW5NUUNPR2h2VnE2OUhWeGx5OVZRWG9TMUNhY3g5eHliTURMWTZFcHJQQ29xSEtZcWo2c1hPV3dIMTRpRHFBdlRtellRcUhhQ2JOMkIwaEVjVXlnV1ZHYXpKSzRyMFQxY0NZLWN3X2o2OXN0Q1E2Ym9WdHh0bm5CajNYVzN3UVdGQlhpVk1CckNXcHdXVQ?oc=5",
+   "fuente": "radiolaprimerisima.com",
+   "fecha": "2026-11-17T23:03:53.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Taller Virtual de Seguridad Alimentaria",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFphY3oteE9OX1VCVmREeW40SmN4c0ZHb1h0M2lIWHRmcVRxbnBWMDdlOENlRXVZS0pfaVRMTDAwR2dWSlphTUh4ZVhPdFpQVy1LUWhDSkc5VUROcnU0NllBXzhIV0FuaHNDMTI4RGNJS243UWdaN01FVnNCZ2Fjdks5YVRWcHJZOG9mRk0xTENNQQ?oc=5",
+   "fuente": "El 19 Digital",
+   "fecha": "2026-11-17T22:56:20.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Morosos en cuotas de alimentos en Colombia podrían perder su licencia de conducción",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd0wzd2dBbVIzbzRyRFdqZnBROWVtT1pmTHFTbWFPVG9VODNWaElnNEU1RERscnhOYnc5RlY4eFI3cjJyaEY2UU9XNXd0azdWcW5FbGo5UGtPTVNaSkkxUEE4Tk9PRDAwNUFEUG4weHh3aGhsaG1zWFp4Zl9IM2J6Ni1Pb3JheHVfNC1QeGhoQ1JJaFZHbm05WWwxM25xYTVBZWdqakJOampxV2tNNDEwYmhxd2NyRXhDamdpVXlGU0s1R2tRMDBOZnAxamMxVlptSS1NVA?oc=5",
+   "fuente": "hoy diario del magdalena",
+   "fecha": "2026-11-17T22:40:00.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Boyacá aseguró más de $105 mil millones para garantizar el PAE desde el primer día de clases de 2027",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMFR0LXh2Q211OXVtSEpINm92enFXSGlmMW5GMFdCSnM0bFJwZ2NGMHZKTUVUREtvZE5ONEtyek92bW5zV0Zzb09NVnRhNGN6QUZYRnBGUzhyTkM2Q09VWG5XLXhMNVFXUVhuQlFTZDFwZHBfRk00LXJZcUxGSTdia2JPRVFFY3BwZ0NyUlFRZ29hSm9Bam5xMkpnWDhhRnh1eHpacGNGbllDdkREWnBjWHItU00yNUJFTFdqRjlHZFN1QTVsVkhKY29Sc01nNTjSAeMBQVVfeXFMUGlDcHJoTWViSmtKMUt4Zy0zWi1ERkxITXE3eHNKUGdRX2JkVTlrZ0tRZTZSRXdUdXFKTjRGcWFQOU9ERDVUWmdhRXZ4R29XQVJ3QjJxYVRmQXFzQ29fRVZXRlJGMkdwOUg5dkprNWV4NHh0RlBhck5ZQU9Ua1NESXpla3dhWGRiUllCTXRTTnAzRzJvZUdMbFpOcVNYOGNwVTNqVzJ3dDZ1Sl93NzFHOVZTQnVRS1ZRUlVaQWdNc015WVNjQUwyQ3ZVUXNsNmFuUmM3MWJqOVZITUwxMWpVbG9Fdzg?oc=5",
+   "fuente": "Caracol Radio",
+   "fecha": "2026-11-17T21:52:52.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Escaldado al vapor y pretratamiento en alimentos enlatados",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNFpmWGphR2VsQnRWNmdET2tVWkE1NmNUMzkxUmlZR1FBQ2RaRlJuMVFIeHNDaWxBUWxUN1R0LUhnc2JYRlBwUER3bXNvc0R6NUtEU2RCcFlPWVFVOFdkR1lVRWdBVzRCNktGYUtPV1VpNjlnQ3RSNGN4SWtfUXhhODRlMXVmNEZiLVlwLU5jV1ZKdWRzS1FKclZn?oc=5",
+   "fuente": "Diario del Sur",
+   "fecha": "2026-11-17T21:50:22.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Uruguay y la FAO firman acuerdo de cooperación por cinco años",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oNHdyNUpRTVNSU3d1ZVRqQkxuV1NYMGFhcDg4MXRPa2FNeWNTaFozWGxkOGdxblQ1S3ZnVi0wUERYTUY5dEtPbWJVTm1pai1ONHZnUHhTbXl5N2N4cHpDcUZkb09zWThVR2hkdWFRcjdKbmY0VEJBa09sQkFPUFE?oc=5",
+   "fuente": "Revista CERO",
+   "fecha": "2026-11-17T21:21:09.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "Asamblea de Boyacá aprueba $105 mil millones para PAE",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc28ybnZaNE94bWdNN2UxTEl1UGFldVUyczhvamh1bEh3SjVYYW9QT21ZYVJZMzk1bEdmNTRHZTRFUUVxcmxWLVdkRDVlVEhOcEE2eXVuS0hwMlllU3dFZkhweV9fMDI0M210U1NNdDdvV3FiNjR3enhMZnJvN3loVUdqcFZMbGlLS3RDbFdDUXpHaWVfbkszc1p6NThmQmxpNV9IUTdoVFVKeFJlRmw4YkUxcEhnRElXVWNmZFlyWQ?oc=5",
+   "fuente": "boyacadigital.com",
+   "fecha": "2026-11-17T20:01:48.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Acuerdo entre Uruguay y la FAO busca aumentar la productividad y preservar los recursos naturales",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM3QzWWZzMldPRjBjMnRJV2lmajk1TkUwZmh6RXkxMTRMV0x0ZzZBR1hLdEl2ZUp5V09kTUxhUDgtalZyZEpRX2ZweEV4bTBBYngtS2NLcEhyV1EtMEU5VEY5SXVqSTFsYk9QSUlqOWc3NFhKWUNySFZGSzZhWVNLNjNKbmgxVmZfdUdJWm1Gc1Q3NjlXMVBfbFlTZXJnQ2RheVBidHVrRjN6VFFEeGl2MVhKQm5PcGNEZkxQMEs3b1dYcjJfTHkzQktMRndaNWJ2OFRWVzZMTdIB3AFBVV95cUxQcXZ2WXNQZlNSYWlCLTdMUmowWTZNZF9PaE8wNTdXV3A5SUtCbzFER1NzeThFME45WmR4S3h6ekVZZUFielhqcjNGS1RPZ01uc003SjZJTmtaSmh3Vk9BOHoyOExjbWhCNXB4YWt0d0tMTlBEb0VMSUxUUzc2dnMtamxTLXAxMk5WWTJjLUxheGEwSDAycExKYzFFdWRSdDdNVENHVVZHVzE3cUNUdHJ5aktaWC03ZE5JM0g0bDdIX0VycmFJTlRQSFlWZnphR1NuNWcwZEJmN0c2OHFM?oc=5",
+   "fuente": "Telenoche",
+   "fecha": "2026-11-17T19:58:39.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "Sánchez abogó por perspectiva integral para garantizar acceso a alimentos y defender producción familiar",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHRJVzJQSzV5VjE4X0ZjX3hHODhqNXZPVEVZRHJTS0VPV0ZLNV82SzJhYklSU3FZTEgzMXFLUW5rVWhkVWNyMm5KMG5sbkk5S3lKWlhTSVZYYm5wamRraS1JNUplQUlHRjdMSWZFTWp1djhERnRYNnBndnBKaGh5amZPeThvZzZTN1JWcEdjRTRieGlS?oc=5",
+   "fuente": "GUB.UY",
+   "fecha": "2026-11-17T19:00:24.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Jennifer Lawrence y Josh Hutcherson se reencontraron 10 años después de 'Los juegos del hambre': así fue su regreso como 'Katniss' y 'Peeta'",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV3dJRFczUFJ5TVoyakZEQ2JqZ3ZXeGxRSG1iY0ZXV2VRTEN2ZF9mV1h4b3ZYNER0Z25PMXlEckhwQUpQNEM3ZFBySDhVaFc4TXVhWFBtbzFWOVRXczJvcFh4NnRGbm0zZkNsUTZIZkR4Q0ZkXzExcnJSU0VtSlBGdGl3MWlpd0RxYzVzdXVVQmg1RjNURUk5X1BpV1ZPUW92WnN0RTdsRERhTjFfeVd6Mzl0SXc5WEE3a2FNVmo5SGlZM2dmb2JCVlZYNHpIeEdKOXl2TVhvVnR5SDJDcFp0Q1RiZ19pb1E1REZCTDUza2I5dnhnUlNJbU1VcHdJUTRvQjFwT0FSbHdBcW1Q0gGSAkFVX3lxTE5CYjFWeC1mNm5aRE1KeDNoNkxfT3FUQWxiYTZLdzlBWGhtcTJnZ0VqV2VxQ29ILV9KT1hZWTNCMko4TF9yazRaZGtpTXhsN0dyNFFKTHlQWFNUY3N2d2tPb3AyYjBUdnJCeGJxX09vNmhkSUxubzFVMW0xcEs0bHhoUVNqMzUtMjFjQXVpOE8wUWwzQlZvNVprc2wzZ1BmUllHNmZlaU0tbHhuM1EzM285bHZqRTBjUUhPVzRfN0tzX3lVYUU4emNXM25DazF5R0VYRnJTa2s3Z2V2N0NLRERkQ2p4RnVPWE5ZOF9hN3R3NHZ5UzNyUXllWXkxVGM3eVFESjJrNkVTb0V3amo2RGJOcnc?oc=5",
+   "fuente": "El Tiempo",
+   "fecha": "2026-11-17T17:25:39.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Venezuela y la FAO fortalecen cooperación técnica territorial en respaldo al Plan Hambre Cero",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONFFQZnBjLWRLMlFtUS1UT2pGV1ZWLUluYno5X012elJhbVJ4VmdDQnZuRDJZU1AwWWxWalZJcHp3MGp6U2xTU2w0ZldJakg5b05jUUkzZzlrcGk4LUdvR0gxeENLZVhsc0N5bFhvWUF4X0x5VVlTWDYzcGVCWXZCcWliMUwzU2lNbWJGaHRzam9iYW1KWHBHZ2lFcEs3c1RrYWtLcTBvUFM5WGR1MW1pb1lMYnprMEc3RS1Bb2N3QzF4S2Q5Tnc?oc=5",
+   "fuente": "La Radio del Sur",
+   "fecha": "2026-11-17T17:08:46.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "La AECID pide a los legisladores de todo el mundo pasar \"a la acción\" contra el hambre",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRkFWZVpqTEtVdlE0YnFjenlJVWVtTGxBOVI0X2JVMFFGcWtHNV9EYjdVXzNIVUQ3OERJcWRFTkRaVE1MMUt5QjROUzZqTEsxa2V4V1gzZURlY0ctZk1tdG1YRGtmTndRV0RjNkVSWFNSM01XN1ZhbkpvTFJUZjJvcFVDWVM4bmZzcjhOUWNzb255NUNPcGVLS3B0ZXlCMVgyR05abzg2UkZhTTRqZjRtSVpGcndEaHQ5bmM0dHBlQ3FVYUpWUExVQV9HV3JMa3JUQUtv0gHuAUFVX3lxTFB1QVlUNHZlVWtweUJxZU9iYlFYM1BSZmhiNUZOV1l4SWVVc3VxLUlZSWtxLWNfR01kd21qSUdwVDhVUlhYMkRuVlJmOHNxeFJzQUk0LXFjZTRSVkppMllNcjJibG9Za1RiSExpeV8yQ2JrZDNxQjMwMDI5Q0ZzZVJ5cWxWS3pBcjl3RUZFc1U1NlZhQjEtUllVeGdSdHlqektobDN4cG5iR2xGazJBel8xdmZoLTk0WFd0X2NtQmV0aHJQWTI1dTFEdjZSV2ZGaENoelpZWUNuVXVCb2xQdW5WMTVvdHR5Qjk3UWR1alE?oc=5",
+   "fuente": "Infobae",
+   "fecha": "2026-11-17T16:17:00.000Z",
+   "imagen": "",
+   "tema": "mundo"
+  },
+  {
+   "titulo": "Una crisis alimentaria por El Niño en el lago Güija alerta a comunidades de El Salvador y Guatemala",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2E1VV90bVFQN0JvU1FlaGNHS0RoU0dKZ1JwU3p1WlVldmpFZGlEek5JdEhUUWFOUkxTbXNMaktZTGNLLWxDclBXb1hRckNZbnhhT1c1cXctT0pEZ1o4OGJzd2w2SEZESnFPVklLRlBKeEhpam9pTk5COHNPN0NSdFVTWGlZa1dVNVJ5N1p2UXoxa011MHpJ?oc=5",
+   "fuente": "Mongabay Latam",
+   "fecha": "2026-11-17T15:15:37.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  },
+  {
+   "titulo": "Gobierno descarta IVA a la canasta familiar y estudia reducir la tarifa general en Colombi",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnBUci1XZFZSWTBsMDFNM1hrUEczTXEtSERsdjQ2Qm5HV1VZZE54bFc0WWRoZV9RZWF1R0JPempTMWVqUXQ0QnJVSnRWRWdEZjZrbkVGYWJuSV9RTDFqbjFvbXZ0NmR5S3ZGZ05vQ2dBdXJuUHNZMElhdUxVT2FLMXFyVm1XVTlsYlY0VWJ4NUgxQVRVY3JPcnpEdC1IODFZbWgtS2JWR3BtVTFDMlNqM2VkMVpSdDJ0M1ZFYWV3NjI?oc=5",
+   "fuente": "HSB Noticias",
+   "fecha": "2026-11-17T14:04:25.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Gobierno descarta IVA a la canasta familiar y estudia reduci",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU2gxNHdhbUFvaVhnb0tlLXRnLXFWTWVUNm9WbTJlLXFFc0M4NFBlTHVIZVlPT2ZHb2ZXU3hPZlhVLWY4YXVzclVpUUZkcU05Qjhucl9NX0lrY2FKdGhsOUFCZGpXd010NFJHRlhqWDlCWVdyQ0VFR1JnbEx2NWVMZUJKM1dBTXltQkFTSDU4WkI3ZmFOQ0J2VGtDOHVoTTAyQThBbHlzUFdwZXRyMVFySWhZWnRKcHJTME1EUk9fcHBzeDIzbklF?oc=5",
+   "fuente": "Diario del Cauca",
+   "fecha": "2026-11-17T14:04:25.000Z",
+   "imagen": "",
+   "tema": "programas"
+  },
+  {
+   "titulo": "Golpe al bolsillo de los colombianos: Estos son los alimentos que más subieron de precio, según el DANE",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNREFHajByQkU3dlEtVzFYTGxzdkJBTU43Mm1iSDhmUkN1d3BiM3pFaEpicDRRaWt4LVpBQ0REMWo1c0JYRUlCU01hak1BbWIwcU42SGlrTGhTOGpZV1BOaGJnN1lXS2VOTy1qWmFUelAtTmxSNnRTV3o3bjQwM1VTN1BIbUxRWGdKOHZ5RzlPOFdBVkItV19ITFpuSkxvTHF1UGNJSDBJeF9kQmtpWHFoU2F6cFJTVXlCUnZ0NzNB0gG-AUFVX3lxTE5SZFdLaS1XMldRU3o4RnhTN01zLS1Ednd5Ym5FdldkWE9wZWpIUHRJWWVOcC1nRVktRnNFYUVkWGs4QzJlWmZDeklsUTBiSC1KUTJ2ejgzSjNZazI1TFYwOUIyQ2xhTzJKNkMwbTJvLXRtWGVSYXJhZmlTZzdGb3FJMmk3S2o1UlZfdEN2N2NpUE5mNWFsQmcyckpaZHdHdzZiSmllY2J6MTAzMmx4dHJDUU8tSFBaZWlUNDA0Ync?oc=5",
+   "fuente": "Noticias RCN",
+   "fecha": "2026-11-17T12:36:53.000Z",
+   "imagen": "",
+   "tema": "campo"
+  },
+  {
+   "titulo": "Cómo alimentar el cerebro para mejorar el rendimiento académico",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRlNIdHNwVmVaai16bmtobG9lcnpFMjNRcXU1d1N2ZEdITzQwZGVsY055ZjJjZzJiUXpicXhZalVBR2IwYUR1Rm03cUpuVWRZdjdzbUFNRnRsRXlFeldjSnFiNFZhOXlVeDYzclZvMWFNMkZtYkhuZHc3amRyblczWHgzNjdPNGdPbXhqYXlQXzZMWTJIck1TT19hejVOVVR5Qk9iRFFrSGtWbHFjSmhueg?oc=5",
+   "fuente": "Infosalus",
+   "fecha": "2026-11-17T11:49:35.000Z",
+   "imagen": "",
+   "tema": "colombia"
+  }
+ ]
+}
