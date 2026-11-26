@@ -1,0 +1,47 @@
+name: Robot de Seguridad Alimentaria
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # cada 30 minutos
+  workflow_dispatch:
+    inputs:
+      fotos:
+        description: 'Renovar fotos y vista previa ya (1 = sí)'
+        default: '0'
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/**"
+      - "img/og.jpg"
+      - "img/og-fecha.txt"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: robot-seguridad-alimentaria
+  cancel-in-progress: false
+
+jobs:
+  noticias:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Instalar sharp (para la foto de vista previa)
+        run: npm install --no-save --no-package-lock sharp
+      - name: Correr el robot
+        run: node robot/robot.mjs
+        env:
+          FOTOS_FORCE: ${{ github.event.inputs.fotos || '0' }}
+      - name: Guardar cambios
+        run: |
+          git config user.name "robot-seguridad-alimentaria"
+          git config user.email "robot-seguridad-alimentaria@users.noreply.github.com"
+          git add -A data img
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Robot: noticias de seguridad alimentaria $(TZ=America/Bogota date '+%Y-%m-%d %H:%M') hora Colombia"
+          git pull --rebase origin main || true
+          git push

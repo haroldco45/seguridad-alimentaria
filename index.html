@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Seguridad Alimentaria al Día | Vibras Positivas HM</title>
+<meta name="description" content="Cifras reales del hambre en Colombia y el Bajo Cauca, test para medir tu hogar, calculadora del mercado, huerta casera, programas de ayuda, derecho de petición y noticias que se actualizan solas cada 30 minutos.">
+<meta name="theme-color" content="#2d4a1e">
+<link rel="canonical" href="https://seguridad-alimentaria.netlify.app/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Vibras Positivas HM">
+<meta property="og:title" content="Seguridad Alimentaria al Día">
+<meta property="og:description" content="Que en ninguna mesa falte la comida: cifras, test del hogar, huerta, programas, veeduría y noticias cada 30 minutos.">
+<meta property="og:url" content="https://seguridad-alimentaria.netlify.app/">
+<meta property="og:image" content="https://seguridad-alimentaria.netlify.app/img/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="es_CO">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Seguridad Alimentaria al Día">
+<meta name="twitter:description" content="Comer bien todos los días es un derecho, no un lujo.">
+<meta name="twitter:image" content="https://seguridad-alimentaria.netlify.app/img/og.jpg">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="img/icon-192.png">
+<link rel="apple-touch-icon" href="img/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=1">
+</head>
+<body>
+
+<header class="top">
+  <a class="brand" href="#top">
+    <span class="brand-mark">SA</span>
+    <span class="brand-txt"><strong>Seguridad Alimentaria</strong><small data-i="tagline">al Día</small></span>
+  </a>
+  <div class="top-actions">
+    <button id="btnRefresh" class="pill" type="button" data-i="refresh">Actualizar</button>
+    <button id="btnLang" class="pill ghost" type="button">EN</button>
+  </div>
+</header>
+
+<div class="ticker" aria-live="polite"><div class="ticker-track" id="ticker"><span data-i="loadingNews">Cargando noticias...</span></div></div>
+
+<nav class="tabs" id="tabs">
+  <a href="#hoy" data-i="nav_hoy">Hoy</a>
+  <a href="#cifras" data-i="nav_cifras">Cifras</a>
+  <a href="#hogar" data-i="nav_hogar">Mi hogar</a>
+  <a href="#plato" data-i="nav_plato">Plato que rinde</a>
+  <a href="#huerta" data-i="nav_huerta">Huerta casera</a>
+  <a href="#campo" data-i="nav_campo">Campo</a>
+  <a href="#programas" data-i="nav_programas">Programas</a>
+  <a href="#veeduria" data-i="nav_veeduria">Veeduría</a>
+  <a href="#mundo" data-i="nav_mundo">Mundo</a>
+  <a href="#fuentes" data-i="nav_fuentes">Fuentes</a>
+</nav>
+
+<main>
+
+<section class="hero" id="top">
+  <div class="hero-media" id="heroMedia"></div>
+  <div class="hero-shade"></div>
+  <div class="hero-in">
+    <p class="kicker" data-i="heroKicker"></p>
+    <h1 data-i="heroTitle"></h1>
+    <p class="lead" data-i="heroLead"></p>
+    <div class="hero-cta">
+      <a class="btn" href="#hogar" data-i="ctaTest"></a>
+      <a class="btn line" href="#peticion" data-i="ctaPet"></a>
+    </div>
+    <p class="stamp" id="stamp"></p>
+  </div>
+</section>
+
+<section class="block" id="hoy">
+  <div class="head"><h2 data-i="hoyTitle"></h2><p data-i="hoyLead"></p></div>
+  <p class="status" id="newsStatus"></p>
+  <div class="chips" id="chips"></div>
+  <div class="news" id="news"></div>
+  <div class="center"><button class="btn line dark" id="btnMore" type="button" data-i="more"></button></div>
+</section>
+
+<section class="block alt" id="cifras">
+  <div class="head"><h2 data-i="cifrasTitle"></h2><p data-i="cifrasLead"></p></div>
+  <div class="stats" id="stats"></div>
+  <div class="band" id="band1"></div>
+  <h3 data-i="deptoTitle"></h3>
+  <div class="bars" id="bars"></div>
+  <p class="note" id="deptosNota"></p>
+  <h3 data-i="ejesTitle"></h3>
+  <div class="ejes" id="ejes"></div>
+</section>
+
+<section class="block" id="hogar">
+  <div class="split">
+    <div>
+      <div class="head"><h2 data-i="hogarTitle"></h2><p data-i="hogarLead"></p></div>
+      <ol class="fies" id="fies"></ol>
+      <div class="row"><button class="btn" id="btnTest" type="button" data-i="calcTest"></button><button class="btn line dark" id="btnReset" type="button" data-i="resetTest"></button></div>
+      <div class="result" id="testResult" hidden></div>
+      <p class="note" data-i="testNote"></p>
+    </div>
+    <div class="photo-col" id="hogarFoto"></div>
+  </div>
+
+  <div class="calc" id="mercado">
+    <h3 data-i="mercadoTitle"></h3>
+    <p data-i="mercadoLead"></p>
+    <p class="minimo" id="minimo"></p>
+    <div class="fields">
+      <label><span data-i="m_ing"></span><input id="mIng" type="number" inputmode="numeric" min="0"></label>
+      <label><span data-i="m_per"></span><input id="mPer" type="number" inputmode="numeric" min="1" value="4"></label>
+      <label><span data-i="m_gas"></span><input id="mGas" type="number" inputmode="numeric" min="0" value="900000"></label>
+    </div>
+    <div class="outs" id="mOut"></div>
+    <div class="meter"><div id="mBar"></div></div>
+    <p class="verdict" id="mMsg"></p>
+  </div>
+</section>
+
+<section class="block alt" id="plato">
+  <div class="head"><h2 data-i="platoTitle"></h2><p data-i="platoLead"></p></div>
+  <div class="band" id="band2"></div>
+  <div class="menu" id="menu"></div>
+  <div class="cards" id="tips"></div>
+</section>
+
+<section class="block" id="huerta">
+  <div class="head"><h2 data-i="huertaTitle"></h2><p data-i="huertaLead"></p></div>
+  <div class="gallery" id="huertaFotos"></div>
+  <div class="steps" id="huertaPasos"></div>
+  <div class="tablewrap"><table id="huertaTabla"></table></div>
+</section>
+
+<section class="block alt" id="campo">
+  <div class="head"><h2 data-i="campoTitle"></h2><p data-i="campoLead"></p></div>
+  <div class="video-wrap" id="campoVideo"></div>
+  <div class="cards" id="campoList"></div>
+  <div class="gallery" id="mercadoFotos"></div>
+</section>
+
+<section class="block" id="programas">
+  <div class="head"><h2 data-i="progTitle"></h2><p data-i="progLead"></p></div>
+  <div class="band" id="band3"></div>
+  <div class="cards" id="progList"></div>
+</section>
+
+<section class="block dark" id="veeduria">
+  <div class="head"><h2 data-i="veeTitle"></h2><p data-i="veeLead"></p></div>
+  <ul class="checks" id="checks"></ul>
+
+  <div class="pet" id="peticion">
+    <h3 data-i="petTitle"></h3>
+    <p data-i="petLead"></p>
+    <div class="fields">
+      <label><span data-i="p_nom"></span><input id="pNom" autocomplete="name"></label>
+      <label><span data-i="p_ced"></span><input id="pCed" inputmode="numeric"></label>
+      <label><span data-i="p_mail"></span><input id="pMail" type="email" autocomplete="email"></label>
+      <label><span data-i="p_tel"></span><input id="pTel" type="tel" autocomplete="tel"></label>
+      <label><span data-i="p_dir"></span><input id="pDir" autocomplete="street-address"></label>
+      <label><span data-i="p_mun"></span><input id="pMun" value="Caucasia, Antioquia"></label>
+    </div>
+    <p class="ent-t" data-i="p_ent"></p>
+    <ul class="ents" id="ents"></ul>
+    <div class="row addrow"><input id="pExtra" type="email" placeholder="correo@entidad.gov.co"><button class="btn line" id="btnAdd" type="button" data-i="p_add"></button></div>
+    <textarea id="pTxt" rows="16" spellcheck="true"></textarea>
+    <p class="warn" id="pWarn" hidden data-i="p_falta"></p>
+    <div class="row">
+      <button class="btn" id="btnSend" type="button" data-i="p_send"></button>
+      <button class="btn line" id="btnCopy" type="button" data-i="p_copy"></button>
+      <button class="btn line" id="btnWa" type="button" data-i="p_wa"></button>
+    </div>
+    <p class="note light" data-i="p_mailnote"></p>
+  </div>
+</section>
+
+<section class="block alt" id="mundo">
+  <div class="head"><h2 data-i="mundoTitle"></h2><p data-i="mundoLead"></p></div>
+  <div class="band" id="band4"></div>
+  <div class="cards" id="mundoList"></div>
+</section>
+
+<section class="block" id="fuentes">
+  <div class="head"><h2 data-i="fuentesTitle"></h2><p data-i="fuentesLead"></p></div>
+  <ul class="sources" id="sourceList"></ul>
+  <p class="note" data-i="fotos"></p>
+</section>
+
+</main>
+
+<footer class="foot">
+  <p><strong>Vibras Positivas HM</strong> · <span data-i="foot"></span></p>
+  <p><a href="https://seguridad-alimentaria.netlify.app">seguridad-alimentaria.netlify.app</a> · <button class="linkbtn" id="btnShare" type="button" data-i="share"></button></p>
+</footer>
+
+<div class="toast" id="toast" role="status"></div>
+
+<script src="content.js?v=1"></script>
+<script src="app.js?v=1"></script>
+<script>if ('serviceWorker' in navigator) addEventListener('load', () => navigator.serviceWorker.register('sw.js'));</script>
+</body>
+</html>
