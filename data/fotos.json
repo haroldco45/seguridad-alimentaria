@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T01:01:48.518Z",
+ "actualizado": "2026-11-26T01:04:59.126Z",
  "secciones": {
   "hero": [
    {
@@ -525,16 +525,6 @@
     "lic": "CC BY 2.0"
    },
    {
-    "titulo": "File:FAO publications.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/FAO_publications.jpg/1280px-FAO_publications.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "full": "https://upload.wikimedia.org/wikipedia/commons/3/33/FAO_publications.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "page": "https://commons.wikimedia.org/wiki/File:FAO_publications.jpg",
-    "w": 1856,
-    "h": 860,
-    "autor": "De Geo",
-    "lic": "CC BY-SA 4.0"
-   },
-   {
     "titulo": "File:Food and Agriculture Organization (FAO) in 2020.03.jpg",
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Food_and_Agriculture_Organization_%28FAO%29_in_2020.03.jpg/1280px-Food_and_Agriculture_Organization_%28FAO%29_in_2020.03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "full": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Food_and_Agriculture_Organization_%28FAO%29_in_2020.03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -573,20 +563,20 @@
     "h": 3024,
     "autor": "CAPTAIN RAJU",
     "lic": "CC BY-SA 4.0"
+   },
+   {
+    "titulo": "File:Food and Agriculture Organization (FAO) in 2020.04.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Food_and_Agriculture_Organization_%28FAO%29_in_2020.04.jpg/1280px-Food_and_Agriculture_Organization_%28FAO%29_in_2020.04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Food_and_Agriculture_Organization_%28FAO%29_in_2020.04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page": "https://commons.wikimedia.org/wiki/File:Food_and_Agriculture_Organization_(FAO)_in_2020.04.jpg",
+    "w": 4032,
+    "h": 3024,
+    "autor": "CAPTAIN RAJU",
+    "lic": "CC BY-SA 4.0"
    }
   ]
  },
  "videos": [
-  {
-   "titulo": "File:Astronauts harvest, eat first chile pepper crop on ISS (Plant Habitat-04).webm",
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Astronauts_harvest%2C_eat_first_chile_pepper_crop_on_ISS_%28Plant_Habitat-04%29.webm/1280px-Astronauts_harvest%2C_eat_first_chile_pepper_crop_on_ISS_%28Plant_Habitat-04%29.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-   "full": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Astronauts_harvest%2C_eat_first_chile_pepper_crop_on_ISS_%28Plant_Habitat-04%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "page": "https://commons.wikimedia.org/wiki/File:Astronauts_harvest,_eat_first_chile_pepper_crop_on_ISS_(Plant_Habitat-04).webm",
-   "w": 1280,
-   "h": 720,
-   "autor": "NASA",
-   "lic": "Public domain"
-  },
   {
    "titulo": "File:Harvest (20181008-FPAC-KLS-0006).webm",
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Harvest_%2820181008-FPAC-KLS-0006%29.webm/1280px-Harvest_%2820181008-FPAC-KLS-0006%29.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
