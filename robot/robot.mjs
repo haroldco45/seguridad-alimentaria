@@ -30,7 +30,8 @@ const TEMAS = [
   ['campo', /campesin|productor|cosech|siembr|cultiv|agro|mercado campesino|appa|tierra|abastec|precio|cadena|desperdicio|p[eé]rdida/i],
   ['mundo', /fao|pma|onu|mundial|mundo|global|sofi|[aá]frica|gaza|sud[aá]n|hait[ií]|venezuela/i]
 ];
-const temaDe = t => (TEMAS.find(([, re]) => re.test(t)) || ['colombia'])[0];
+const FOREIGN = /texas|estados unidos|ee\. ?uu|thanksgiving|per[uú]\b|midis|m[eé]xico|argentina|chile\b|ecuador|bolivia|guatemala|honduras|espa[nñ]a|cuba\b|rep[uú]blica dominicana|venezuela|brasil/i;
+const temaDe = t => (FOREIGN.test(t) && !/colombia/i.test(t)) ? 'mundo' : (TEMAS.find(([, re]) => re.test(t)) || ['colombia'])[0];
 const RELEVANT = n => n.titulo && CORE.test(n.titulo) && !BLOCK.test(n.titulo) && !BLOCK_SRC.test(n.fuente || '');
 
 const decode = s => s.replace(/<!\[CDATA\[(.*?)\]\]>/gs, '$1').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'").trim();
@@ -78,7 +79,7 @@ async function main() {
   }
   const limite = Date.now() - 45 * 864e5; // guarda 45 días
   const items = [...map.values()].filter(n => new Date(n.fecha).getTime() > limite)
-    .sort((a, b) => new Date(b.fecha) - new Date(a.fecha)).slice(0, 180);
+    .sort((a, b) => new Date(b.fecha) - new Date(a.fecha)).slice(0, 180).map(n => ({ ...n, tema: temaDe(n.titulo) }));
 
   const out = { actualizado: new Date().toISOString(), zona_horaria: 'America/Bogota', total: items.length, items };
   await writeFile(OUT, JSON.stringify(out, null, 1));
@@ -99,7 +100,7 @@ async function ogImage(force) {
   let sharp;
   try { sharp = (await import('sharp')).default; } catch { console.log('sharp no instalado; se omite og.jpg'); return; }
   let pics = [];
-  try { const f = JSON.parse(await readFile('data/fotos.json', 'utf8')); pics = [...(f.secciones.hero || []), ...(f.secciones.campo || []), ...(f.secciones.mercado || [])].filter(p => p.w >= 1200); } catch {}
+  try { const f = JSON.parse(await readFile('data/fotos.json', 'utf8')); pics = [...(f.secciones.hero || []), ...(f.secciones.campo || []), ...(f.secciones.huerta || [])].filter(p => p.w >= 1200); } catch {}
   if (!pics.length) { console.log('Sin fotos aún para og.jpg'); return; }
   const pick = pics[Math.floor(Math.random() * pics.length)];
   const buf = Buffer.from(await (await fetch(pick.full, { headers: UA })).arrayBuffer());
@@ -107,7 +108,7 @@ async function ogImage(force) {
     <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0.3" stop-color="#1d2a12" stop-opacity="0"/><stop offset="1" stop-color="#1d2a12" stop-opacity="0.93"/></linearGradient></defs>
     <rect width="1200" height="630" fill="url(#g)"/>
     <rect x="60" y="372" width="12" height="190" fill="#f2a516"/>
-    <text x="95" y="440" font-family="Georgia, serif" font-size="66" font-weight="bold" fill="#ffffff">Seguridad Alimentaria al Día</text>
+    <text x="95" y="440" font-family="Georgia, serif" font-size="58" font-weight="bold" fill="#ffffff">Seguridad Alimentaria al Día</text>
     <text x="97" y="495" font-family="Arial, sans-serif" font-size="29" fill="#f7e3b0">Hogares · Huerta · Campo · Programas · Noticias cada 30 min</text>
     <text x="97" y="540" font-family="Arial, sans-serif" font-size="24" fill="#f2a516">seguridad-alimentaria.netlify.app · Vibras Positivas HM</text>
   </svg>`);

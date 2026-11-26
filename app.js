@@ -212,7 +212,8 @@ C.C. ${v.pCed || '[número]'}`;
     ['mundo', /fao|pma|onu|mundial|mundo|global|sofi|[aá]frica|gaza|sud[aá]n|hait[ií]|venezuela/i]
   ];
   const CORE = /aliment|hambre|nutrici|desnutri|\bpae\b|comedor|canasta|banco de alimentos|cosech|campesin|abastec|fao\b|programa mundial de alimentos|bienestarina|huerta|agricultur|desperdicio/i;
-  const temaDe = t => (TEMAS.find(([, re]) => re.test(t)) || ['colombia'])[0];
+  const FOREIGN = /texas|estados unidos|ee\. ?uu|thanksgiving|per[uú]\b|midis|m[eé]xico|argentina|chile\b|ecuador|bolivia|guatemala|honduras|espa[nñ]a|cuba\b|rep[uú]blica dominicana|venezuela|brasil/i;
+  const temaDe = t => (FOREIGN.test(t) && !/colombia/i.test(t)) ? 'mundo' : (TEMAS.find(([, re]) => re.test(t)) || ['colombia'])[0];
   const keyOf = t => (t || '').toLowerCase().normalize('NFD').replace(/[^a-z0-9]/g, '').slice(0, 60);
   const gdeltDate = s => s ? new Date(s.replace(/(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z/, '$1-$2-$3T$4:$5:$6Z')).toISOString() : null;
 
@@ -235,16 +236,16 @@ C.C. ${v.pCed || '[número]'}`;
   }
   function renderChips() {
     const keys = ['all', 'bajocauca', 'region', 'programas', 'campo', 'colombia', 'mundo'];
-    $('#chips').innerHTML = keys.map(k => { const c = k === 'all' ? news.length : news.filter(n => (n.tema || 'colombia') === k).length; return `<button type="button" class="chip${filter === k ? ' on' : ''}" data-f="${k}">${T('f_' + k)} <small>${c}</small></button>`; }).join('');
+    $('#chips').innerHTML = keys.map(k => { const c = k === 'all' ? news.length : news.filter(n => temaDe(n.titulo) === k).length; return `<button type="button" class="chip${filter === k ? ' on' : ''}" data-f="${k}">${T('f_' + k)} <small>${c}</small></button>`; }).join('');
   }
   $('#chips').addEventListener('click', e => { const b = e.target.closest('.chip'); if (!b) return; filter = b.dataset.f; shown = 12; renderChips(); renderNews(); });
   function renderNews() {
-    const list = filter === 'all' ? news : news.filter(n => (n.tema || 'colombia') === filter);
+    const list = filter === 'all' ? news : news.filter(n => temaDe(n.titulo) === filter);
     $('#news').innerHTML = list.length ? list.slice(0, shown).map((n, i) => `
       <a class="nw reveal${i === 0 && filter === 'all' ? ' big' : ''}" href="${esc(n.url)}" target="_blank" rel="noopener">
         ${n.imagen ? `<div class="nw-img"><img src="${esc(n.imagen)}" alt="" loading="lazy" onerror="this.parentElement.remove()"></div>` : ''}
         <div class="nw-b"><div class="nw-m">${n.vivo ? `<span class="livetag">${T('live')}</span>` : ''}<span>${esc(n.fuente || '')}</span><span>${fmtDate(new Date(n.fecha))}</span></div>
-        <h4>${esc(n.titulo)}</h4><span class="tema">${T('f_' + (n.tema || 'colombia'))}</span></div></a>`).join('') : `<p class="empty">${T('noNews')}</p>`;
+        <h4>${esc(n.titulo)}</h4><span class="tema">${T('f_' + temaDe(n.titulo))}</span></div></a>`).join('') : `<p class="empty">${T('noNews')}</p>`;
     $('#btnMore').style.display = list.length > shown ? '' : 'none';
     const top = news.slice(0, 14);
     if (top.length) $('#ticker').innerHTML = [...top, ...top].map(n => `<span>${esc(n.titulo)}</span>`).join('');

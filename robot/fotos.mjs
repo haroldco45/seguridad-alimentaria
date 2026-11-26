@@ -6,15 +6,15 @@ const OUT = 'data/fotos.json';
 
 // Cada sección: búsquedas + palabras que DEBEN aparecer en el nombre del archivo
 const SECCIONES = {
-  hero:     { q: ['farmers market vegetables', 'vegetable market stall', 'harvest vegetables farmers', 'mercado campesino'], si: /market|mercado|harvest|cosecha|vegetable|verdura|farmer|campesin/i },
-  hogar:    { q: ['family meal table', 'beans rice plate', 'cooking at home vegetables', 'fruits vegetables basket'], si: /meal|family|table|beans|frijol|cooking|kitchen|basket|fruit|vegetable/i },
+  hero:     { q: ['farmers market vegetables', 'vegetable market stall', 'harvest vegetables farmers', 'fresh vegetables basket'], si: /vegetable|verdura|harvest|cosecha|fruit|fruta|produce/i },
+  hogar:    { q: ['beans rice plate', 'bandeja paisa', 'rice and beans', 'fruits vegetables basket', 'cooking vegetables kitchen'], si: /beans|frijol|rice|arroz|plate|plato|basket|fruit|vegetable|cooking|bandeja/i },
   huerta:   { q: ['vegetable garden', 'home garden vegetables', 'raised bed garden', 'urban garden community'], si: /garden|huerta|huerto|raised bed|allotment|seedling/i },
   campo:    { q: ['Colombia farmer', 'plantain plantation', 'cassava harvest', 'maize field farmer', 'rice field'], si: /farm|campesin|plantain|platano|cassava|yuca|maize|corn|rice|arroz|field|harvest/i },
-  mercado:  { q: ['plaza de mercado Colombia', 'fruit market Colombia', 'market Bogota fruits', 'Paloquemao'], si: /mercado|market|plaza|paloquemao|fruit/i },
+  mercado:  { q: ['fruit stall market Colombia', 'frutas plaza de mercado', 'Paloquemao frutas', 'fruit vendor market', 'vegetable stall market'], si: /fruit|fruta|vegetable|verdura|stall|vendor|puesto|paloquemao/i },
   programas:{ q: ['school meal children', 'school lunch', 'food bank volunteers', 'food distribution'], si: /school|lunch|meal|food bank|distribution|volunteer|comedor/i },
   mundo:    { q: ['World Food Programme distribution', 'FAO agriculture', 'food aid', 'smallholder farmers Africa'], si: /wfp|food programme|fao|food aid|smallholder|farmer|distribution/i }
 };
-const NO = /logo|map\b|mapa|chart|diagram|stamp|coin|svg|drawing|painting|poster|book|text|screenshot|portrait|selfie|museum|statue|church|meat|carne|butcher|slaughter|dead|blood|alcohol|beer|wine|cigar|toy|doll|cartoon|illustration|icon/i;
+const NO = /elevation|front\b|edificio|building|facade|fachada|exterior|\b1[89]\d\d\b|google art|israëls|painting|francia m|secretary|minister|president|administrator|ambassador|senator|governor|explosion|protest|strike|riot|police|war\b|cctv|military|army|cheese|refugee|logo|map\b|mapa|chart|diagram|stamp|coin|svg|drawing|painting|poster|book|text|screenshot|portrait|selfie|museum|statue|church|meat|carne|butcher|slaughter|dead|blood|alcohol|beer|wine|cigar|toy|doll|cartoon|illustration|icon/i;
 
 async function buscar(q, tipo) {
   const url = 'https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40' +
@@ -54,9 +54,9 @@ export async function fotos(force = false) {
     console.log('Fotos', k, out.secciones[k].length);
   }
   try {
-    for (const q of ['vegetable market', 'harvest farmers', 'vegetable garden', 'farmers market']) {
+    for (const q of ['vegetable harvest', 'vegetable garden', 'fruit harvest', 'farmers market vegetables']) {
       for (const v of await buscar(q, 'video')) {
-        if (/market|harvest|garden|farm|vegetable|mercado|cosecha/i.test(v.titulo) && !NO.test(v.texto) && !out.videos.find(x => x.titulo === v.titulo)) {
+        if (/vegetable|harvest|garden|fruit|farmers market|cosecha|verdura/i.test(v.titulo) && !NO.test(v.texto) && !out.videos.find(x => x.titulo === v.titulo)) {
           out.videos.push((({ texto, ...f }) => f)(v));
         }
       }
